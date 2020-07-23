@@ -1,0 +1,231 @@
+{
+    "termsOfUse": "See http://gcmd.nasa.gov/r/l/TermsOfUse",
+    "keywordVersion": "9.1.5",
+    "schemeVersion": "2018-10-22 16:22:17",
+    "concepts": [
+        {
+            "id": 552013,
+            "uuid": "07bcc60e-1551-44d9-b87e-7c260d230ecb",
+            "prefLabel": "application/opensearchdescription+xml",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552015,
+            "uuid": "091b6afc-ab75-4790-8e71-3b32ae8bd0a4",
+            "prefLabel": "text/xml",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552017,
+            "uuid": "2065aabb-9beb-4c84-8ad7-0e16cfed17cf",
+            "prefLabel": "text/csv",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552019,
+            "uuid": "2b192915-32a8-4b68-a720-8ca8a84f04ca",
+            "prefLabel": "application/x-netcdf",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552021,
+            "uuid": "3195dfce-51db-4b40-aadb-808b43573743",
+            "prefLabel": "text/css",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552023,
+            "uuid": "3e048f9e-8f93-4f0c-9f0b-20bafb909c68",
+            "prefLabel": "image/tiff",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552025,
+            "uuid": "3f697f52-6a1c-4e2c-bd4b-13aaaf45f2e6",
+            "prefLabel": "image/jpeg",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552027,
+            "uuid": "40bdf6e5-780c-43e2-ab8e-e5dfae4bd779",
+            "prefLabel": "application/gml+xml",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552029,
+            "uuid": "40cb0bdd-67f4-43c8-aa57-2bdc260e6950",
+            "prefLabel": "text/javascript",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552031,
+            "uuid": "415a10b5-7286-4195-a88e-00c7b995b7d0",
+            "prefLabel": "text/html",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552033,
+            "uuid": "4e5db77b-bc1d-4f7c-9f13-e3e54e0b2e3b",
+            "prefLabel": "application/zip",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552035,
+            "uuid": "4e80047b-c50b-4805-ac68-789dbc38803f",
+            "prefLabel": "application/x-hdf5",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552037,
+            "uuid": "5e70beda-396e-4cc8-bdd5-70dfc8a1142e",
+            "prefLabel": "application/x-tar-gz",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552039,
+            "uuid": "627269ae-ba93-492e-8c31-cc4de1d69810",
+            "prefLabel": "application/pdf",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552041,
+            "uuid": "7c99ff72-5239-424d-a0bf-9712c33ea76d",
+            "prefLabel": "application/vnd.ms-excel",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552043,
+            "uuid": "80045dcb-18ee-463a-8baf-ffcabed510ea",
+            "prefLabel": "application/vnd.google-earth.kml+xml",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552045,
+            "uuid": "8542dd4a-a11b-475d-8d46-cad785a7f510",
+            "prefLabel": "application/json",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552047,
+            "uuid": "a8ee535a-8bc8-46fd-8b97-917bd7ea7666",
+            "prefLabel": "application/gzip",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552049,
+            "uuid": "ad61b259-8131-4e0e-aac8-a800a0a51ca6",
+            "prefLabel": "image/gif",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552051,
+            "uuid": "b0a3e733-4d1b-486f-b56c-c405a5e4367b",
+            "prefLabel": "application/x-hdf",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552053,
+            "uuid": "b403039f-a107-4a84-88a1-29e4d1b30b0b",
+            "prefLabel": "text/markdown",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552055,
+            "uuid": "b7687b8f-7a24-4150-bd9d-28e0d53f7554",
+            "prefLabel": "image/bmp",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552057,
+            "uuid": "b77e64ef-ce80-4dab-b552-c6062990a6e0",
+            "prefLabel": "application/octet-stream",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552059,
+            "uuid": "c1a8dbb7-312d-4481-998e-58d126b32080",
+            "prefLabel": "application/x-vnd.iso.19139-2+xml",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552061,
+            "uuid": "c79a0e11-2774-4cf3-a194-45b9e58a93fd",
+            "prefLabel": "application/msword",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552063,
+            "uuid": "d3ef6fe7-b6cd-45b4-9a27-d42fa3289116",
+            "prefLabel": "image/vnd.collada+xml",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552065,
+            "uuid": "dd6c5cea-4100-4973-9ba9-659fdd7fd608",
+            "prefLabel": "application/xml",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552067,
+            "uuid": "e384b8a8-8cec-4230-9ebe-4db76bbef706",
+            "prefLabel": "application/x-bufr",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552069,
+            "uuid": "ec1a1350-be24-42e6-a5cc-ccb806793def",
+            "prefLabel": "Mime Type",
+            "conceptScheme": "MimeType",
+            "isLeaf": "false"
+        },
+        {
+            "id": 552071,
+            "uuid": "edb9e800-ec31-4d5c-848d-c548fd151db2",
+            "prefLabel": "image/png",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552073,
+            "uuid": "f7328bf5-8ef2-4f95-a4e0-6fb16d122237",
+            "prefLabel": "application/vnd.google-earth.kmz",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        },
+        {
+            "id": 552075,
+            "uuid": "fea4e0a7-d794-481d-9915-52f1be226714",
+            "prefLabel": "text/plain",
+            "conceptScheme": "MimeType",
+            "isLeaf": "true"
+        }
+    ]
+}

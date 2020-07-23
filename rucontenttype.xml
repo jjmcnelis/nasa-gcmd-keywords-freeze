@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<concepts xsi:noNamespaceSchemaLocation="http://gcmd.gsfc.nasa.gov/Aboutus/xml/kms/kms.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <termsOfUse>http://gcmd.nasa.gov/r/l/TermsOfUse</termsOfUse>
+    <keywordVersion>9.1.5</keywordVersion>
+    <schemeVersion>2018-12-10 07:27:24</schemeVersion>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="WEB COVERAGE SERVICE (WCS)" uuid="029540bb-7f5c-44ba-8578-61e2f858be60" id="552089"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="LAADS" uuid="0b50c12d-a6ae-4d63-b42b-d99bf7aa2da0" id="552091"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="PRODUCTION HISTORY" uuid="0b597285-eaac-4cbd-94cc-d87ae8046681" id="552093"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="MAP SERVICE" uuid="0c3aa5c6-f1f9-4c16-aa96-30672028d26c" id="552095"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="DATA QUALITY" uuid="0eba3253-8eb7-4e43-9627-9cff48775e27" id="552097"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="PRODUCT USAGE" uuid="1132a0fc-888b-4332-ad0a-dc5c6e615afa" id="552099"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="PUBLICATIONS" uuid="13a4deec-bd22-4864-9804-77fac181f484" id="552101"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="SCIENCE DATA PRODUCT VALIDATION" uuid="15b0a4c4-b39d-48f5-92d2-905e45e6dc6a" id="552103"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="LIVE ACCESS SERVER (LAS)" uuid="20ab6d52-f5a7-439c-a044-6ef2452a2838" id="552105"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="MODAPS" uuid="26431afd-cb37-4772-9e97-3a36f6dff32d" id="552107"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="IMPORTANT NOTICE" uuid="2af2cfc4-9390-43da-8fa8-1f272e8ee0b0" id="552109"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="GIOVANNI" uuid="2e869d22-88fe-43dc-852d-9f50c911ad02" id="552111"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="DATACAST URL" uuid="2fc3797c-71b5-4d01-8ae1-d5634ec625ce" id="552113"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="CASE STUDY" uuid="3112d474-b44f-4af1-8266-c3dd6d28220f" id="552115"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="PI DOCUMENTATION" uuid="367f8b8a-e57e-4c49-b971-0b5c6a484186" id="552117"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="EOSDIS DATA POOL" uuid="3779ec72-c1e0-4a0f-aff8-8e2a2a7af486" id="552119"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="Subscribe" uuid="38219044-ad26-4a32-98c0-dca8ad3cd29a" id="552121"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="DATA TREE" uuid="3c2a68a6-d8c2-4f14-8208-e57a4446ad71" id="552123"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="IceBridge Portal" uuid="3c60609c-d48d-47c4-b069-43951fa0aea3" id="552125"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="EXTENDED METADATA" uuid="3c9d4493-22fd-48a8-9af5-bf0d16b7ede5" id="552127"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="DATA CITATION POLICY" uuid="40cf5001-15ec-4d9a-913c-bb323f2974fc" id="552129"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="SERVICE CHAINING" uuid="411d2781-822c-4c48-8d5b-4b51b100ce0a" id="552131"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="DATA COLLECTION BUNDLE" uuid="444f03b4-e588-42da-aee6-73028f3c45be" id="552133"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="USGS EARTH EXPLORER" uuid="4485a5b6-d84c-4c98-980e-164863ca518f" id="552135"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="PORTAL" uuid="49be0345-a6af-4608-98d8-9b2343e60077" id="552137"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="MICRO ARTICLE" uuid="4f3c0b04-1fe6-4e11-994a-9cc4afd09ce0" id="552139"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="DATA RECIPE" uuid="547600e9-b60a-44eb-b14b-5c6e1f2c094e" id="552141"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="VERTEX" uuid="5520d1de-f7f5-4798-9ebc-698885805489" id="552143"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="Earthdata Search" uuid="5b8013bb-0b15-4811-8aa3-bfc108c3a041" id="552145"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="GRADS DATA SERVER (GDS)" uuid="5c0cd574-0255-4202-9b5b-3da8711b7ed7" id="552147"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="VIEW RELATED INFORMATION" uuid="5ec1bb9d-0efc-4099-9b31-ec791bbd8145" id="552149"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="MOBILE APP" uuid="5fedeefd-2609-488c-a897-fe168cae34dd" id="552151"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="GIOVANNI" uuid="690210ef-4cf8-4645-b68d-921466bba6a2" id="552153"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="APPEEARS" uuid="6b8f0bfc-d9a4-4af1-9d94-6dcfade03bda" id="552155"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="PROJECT HOME PAGE" uuid="6e72d128-7d28-4bd0-bac0-8c5ffd8b31f1" id="552157"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="SIMPLE SUBSET WIZARD (SSW)" uuid="6ffc54ea-001a-4c03-afff-5086b2da8f59" id="552159"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="GET DATA" uuid="750f6c61-0f15-4185-94d8-c029dec04bc5" id="552161"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="THREDDS DATA" uuid="77cae7cb-4676-4c69-a88b-d78971496f97" id="552163"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="VIRTUAL COLLECTION" uuid="78d28911-a87c-40a0-ada2-c14f7cfb0834" id="552165"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="WEB MAP TILE SERVICE (WMTS)" uuid="7aac9f91-20c4-4234-9153-e850c8ace8a9" id="552167"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="TABULAR DATA STREAM (TDS)" uuid="7b664934-70c4-4694-b8c1-416e7c91afb9" id="552169"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="PROCESSING HISTORY" uuid="7cfa5214-7f69-4355-b259-286be88f25d1" id="552171"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="HOW-TO" uuid="7ebd73e5-b0aa-4cf2-ace5-1d3890c2c3ce" id="552173"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="REQUIREMENTS AND DESIGN" uuid="86b8b121-d710-4c5b-84b0-7b40717f6c76" id="552175"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="Related URL Content Types" uuid="8759ab63-ac04-4136-bc25-0c00eece1096" id="552177"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="DATA SET LANDING PAGE" uuid="8826912b-c89e-4810-b446-39b98b5d937c" id="552179"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="OpenSearch" uuid="89b80cbd-027f-4eab-823f-ae00c268f5bf" id="552181"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="DIRECT DOWNLOAD" uuid="8e33a2dd-df13-4079-8636-391abb5344c6" id="552183"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="ANOMALIES" uuid="914cbb7e-5b20-4bcd-86e3-ffcfa26f0a73" id="552185"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="MIRADOR" uuid="9b05d2a3-9a5a-425c-b6ed-59e0e56814fa" id="552187"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="GoLIVE Portal" uuid="9bfb0f20-189e-411b-a678-768bf3fa256e" id="552189"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="NOAA CLASS" uuid="a36f1716-a310-41f5-b4d8-6c6a5fc933d9" id="552191"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="LANCE" uuid="aa11ac15-3042-4634-b47e-acc368f608bd" id="552193"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="READ-ME" uuid="aa3cea98-b20a-4de8-8f22-7a8b30784625" id="552195"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="USER FEEDBACK PAGE" uuid="ab2fce71-e5f9-4ba6-bfb1-bc428a8b7dd8" id="552197"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="GENERAL DOCUMENTATION" uuid="aebf20eb-39c7-4f4f-aecf-a628f703867b" id="552199"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="WEB MAP SERVICE (WMS)" uuid="b0e2089c-3c1d-4c12-b833-e07365a4038e" id="552201"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="PRODUCT HISTORY" uuid="b292f51f-d2b4-4e65-84a9-e50306238989" id="552203"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="NOMADS" uuid="b434314f-949f-4c26-be57-2ea4c7f03643" id="552205"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="PRODUCT QUALITY ASSESSMENT" uuid="b7ed88ce-3f04-40ea-863e-ac58bd048ff3" id="552207"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="Order" uuid="bd91340d-a8b3-4c01-b262-71e50fe69c83" id="552209"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="DELIVERABLES CHECKLIST" uuid="be0460d8-ca8e-45c8-b637-8fb4ce5a5e97" id="552211"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="SUBSETTER" uuid="bf37a20c-8e99-4187-b91b-3ea254f006f9" id="552213"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="MAP VIEWER" uuid="c1c61697-b4bd-467c-9db4-5bd0115545a3" id="552215"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="WEB FEATURE SERVICE (WFS)" uuid="c4d406e6-7a34-42aa-bd79-f7f9265cc7bd" id="552217"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="DOWNLOAD SOFTWARE" uuid="ca8b62c9-5f31-40bd-92a9-8d30081309e2" id="552219"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="USE SERVICE API" uuid="d117cf5c-8d23-4662-be62-7b883cecb219" id="552221"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="USER'S GUIDE" uuid="d1996d91-e824-4b24-b94e-3aae4543b63b" id="552223"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="GET RELATED VISUALIZATION" uuid="dd2adc64-c7bd-4dbf-976b-f0496966817c" id="552225"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="MAP" uuid="e6f9524a-e4bc-460a-bdf3-a5e8f0e921a9" id="552227"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="SCIENCE DATA PRODUCT SOFTWARE DOCUMENTATION" uuid="e8e6e972-832f-4501-a721-4108f33332d6" id="552229"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="OPENDAP DATA" uuid="eae7a041-b004-48df-8d4e-d758969e3185" id="552231"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="WORLDVIEW" uuid="eeff646c-6faf-468e-a0ab-ff78fc6f86f9" id="552233"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="PROFESSIONAL HOME PAGE" uuid="f00cf885-8fc5-42ca-a70e-1689530f00cf" id="552235"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="INSTRUMENT/SENSOR CALIBRATION DOCUMENTATION" uuid="fc3c1abb-92c1-49c2-90d4-161c70cff44a" id="552237"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="ALGORITHM DOCUMENTATION" uuid="fcc9411c-a1c9-415d-a16c-75c42f2cec45" id="552239"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="ALGORITHM THEORETICAL BASIS DOCUMENT (ATBD)" uuid="fd01f7ec-fdf6-4440-b974-75f12fb4ec5f" id="552241"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="rucontenttype" conceptSchemeId="1443" prefLabel="GOTO WEB TOOL" uuid="ffccf1c0-f25d-4747-ac4a-f09444383031" id="552243"/>
+</concepts>

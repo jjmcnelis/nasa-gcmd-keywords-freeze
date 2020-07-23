@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<concepts xsi:noNamespaceSchemaLocation="http://gcmd.gsfc.nasa.gov/Aboutus/xml/kms/kms.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <termsOfUse>http://gcmd.nasa.gov/r/l/TermsOfUse</termsOfUse>
+    <keywordVersion>9.1.5</keywordVersion>
+    <schemeVersion>2018-10-22 16:22:17</schemeVersion>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/opensearchdescription+xml" uuid="07bcc60e-1551-44d9-b87e-7c260d230ecb" id="552013"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="text/xml" uuid="091b6afc-ab75-4790-8e71-3b32ae8bd0a4" id="552015"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="text/csv" uuid="2065aabb-9beb-4c84-8ad7-0e16cfed17cf" id="552017"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/x-netcdf" uuid="2b192915-32a8-4b68-a720-8ca8a84f04ca" id="552019"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="text/css" uuid="3195dfce-51db-4b40-aadb-808b43573743" id="552021"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="image/tiff" uuid="3e048f9e-8f93-4f0c-9f0b-20bafb909c68" id="552023"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="image/jpeg" uuid="3f697f52-6a1c-4e2c-bd4b-13aaaf45f2e6" id="552025"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/gml+xml" uuid="40bdf6e5-780c-43e2-ab8e-e5dfae4bd779" id="552027"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="text/javascript" uuid="40cb0bdd-67f4-43c8-aa57-2bdc260e6950" id="552029"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="text/html" uuid="415a10b5-7286-4195-a88e-00c7b995b7d0" id="552031"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/zip" uuid="4e5db77b-bc1d-4f7c-9f13-e3e54e0b2e3b" id="552033"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/x-hdf5" uuid="4e80047b-c50b-4805-ac68-789dbc38803f" id="552035"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/x-tar-gz" uuid="5e70beda-396e-4cc8-bdd5-70dfc8a1142e" id="552037"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/pdf" uuid="627269ae-ba93-492e-8c31-cc4de1d69810" id="552039"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/vnd.ms-excel" uuid="7c99ff72-5239-424d-a0bf-9712c33ea76d" id="552041"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/vnd.google-earth.kml+xml" uuid="80045dcb-18ee-463a-8baf-ffcabed510ea" id="552043"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/json" uuid="8542dd4a-a11b-475d-8d46-cad785a7f510" id="552045"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/gzip" uuid="a8ee535a-8bc8-46fd-8b97-917bd7ea7666" id="552047"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="image/gif" uuid="ad61b259-8131-4e0e-aac8-a800a0a51ca6" id="552049"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/x-hdf" uuid="b0a3e733-4d1b-486f-b56c-c405a5e4367b" id="552051"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="text/markdown" uuid="b403039f-a107-4a84-88a1-29e4d1b30b0b" id="552053"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="image/bmp" uuid="b7687b8f-7a24-4150-bd9d-28e0d53f7554" id="552055"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/octet-stream" uuid="b77e64ef-ce80-4dab-b552-c6062990a6e0" id="552057"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/x-vnd.iso.19139-2+xml" uuid="c1a8dbb7-312d-4481-998e-58d126b32080" id="552059"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/msword" uuid="c79a0e11-2774-4cf3-a194-45b9e58a93fd" id="552061"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="image/vnd.collada+xml" uuid="d3ef6fe7-b6cd-45b4-9a27-d42fa3289116" id="552063"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/xml" uuid="dd6c5cea-4100-4973-9ba9-659fdd7fd608" id="552065"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/x-bufr" uuid="e384b8a8-8cec-4230-9ebe-4db76bbef706" id="552067"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="Mime Type" uuid="ec1a1350-be24-42e6-a5cc-ccb806793def" id="552069"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="image/png" uuid="edb9e800-ec31-4d5c-848d-c548fd151db2" id="552071"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="application/vnd.google-earth.kmz" uuid="f7328bf5-8ef2-4f95-a4e0-6fb16d122237" id="552073"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="MimeType" conceptSchemeId="1439" prefLabel="text/plain" uuid="fea4e0a7-d794-481d-9915-52f1be226714" id="552075"/>
+</concepts>

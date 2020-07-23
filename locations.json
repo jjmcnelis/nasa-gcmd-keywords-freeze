@@ -1,0 +1,3808 @@
+{
+    "termsOfUse": "See http://gcmd.nasa.gov/r/l/TermsOfUse",
+    "keywordVersion": "9.1.5",
+    "schemeVersion": "2019-09-06 09:33:40",
+    "concepts": [
+        {
+            "id": 532709,
+            "uuid": "0086ca79-d40d-4119-97d0-f5911df75a37",
+            "prefLabel": "PALMYRA ATOLL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532711,
+            "uuid": "009ebc80-5561-40d1-98d9-13cbc5bd1591",
+            "prefLabel": "NEWFOUNDLAND AND LABRADOR",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532713,
+            "uuid": "00fdb6a0-3063-45d3-9930-71b5a9a3206c",
+            "prefLabel": "TURKS AND CAICOS ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532715,
+            "uuid": "00fdc4bb-8f93-4170-bca1-e51315b46304",
+            "prefLabel": "KIRIBATI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532717,
+            "uuid": "017ac312-b650-4800-992f-5167708b4d31",
+            "prefLabel": "HAWAII",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532719,
+            "uuid": "018ef16b-76e2-4d3d-a981-76bd7ea02e5f",
+            "prefLabel": "LUXEMBOURG",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532721,
+            "uuid": "02156a5c-5ea1-43e3-acf1-a89e99027555",
+            "prefLabel": "AUSTRALIA/NEW ZEALAND",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532723,
+            "uuid": "0295111a-b3ad-472c-a71c-9161c663716b",
+            "prefLabel": "ROMANIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532725,
+            "uuid": "02fb6908-e5bd-4dd0-a627-2f6e13b4281f",
+            "prefLabel": "ZANZIBAR",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532727,
+            "uuid": "03280af1-94e4-4918-8a19-70b8445f9d6f",
+            "prefLabel": "MACEDONIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532729,
+            "uuid": "05af56f1-42b1-4205-8b85-0f3470f30011",
+            "prefLabel": "CORE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532731,
+            "uuid": "05ccd1da-7d1e-4489-9e12-4168874c1b71",
+            "prefLabel": "TAJIKISTAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532733,
+            "uuid": "05d03731-d997-49d9-bfa3-6221d9e5bdeb",
+            "prefLabel": "BENIN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532735,
+            "uuid": "060156ad-6f16-4a9f-9515-e59a5aba05b4",
+            "prefLabel": "PITCAIRN ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532737,
+            "uuid": "065fc27f-5b54-4cfc-a616-8661a55e04b8",
+            "prefLabel": "CENTRAL AFRICAN REPUBLIC",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532739,
+            "uuid": "06b1e163-667a-4d13-b638-5273e7a65dad",
+            "prefLabel": "ILLINOIS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532741,
+            "uuid": "075b5332-e4cc-4367-ab95-5b327b4712b4",
+            "prefLabel": "MIDWAY ATOLL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532743,
+            "uuid": "09029b84-fdf7-45d2-b684-4152c9b55d7d",
+            "prefLabel": "POLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532745,
+            "uuid": "0958cd41-f5bf-444e-9e91-c8d9307effe7",
+            "prefLabel": "KERGUELEN ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532747,
+            "uuid": "096fd984-efe4-45db-9827-5ef972fedd5d",
+            "prefLabel": "SEA FLOOR",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532749,
+            "uuid": "0980d595-3dbe-4247-82f2-40b5e8df603f",
+            "prefLabel": "CENTRAL AMERICA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532751,
+            "uuid": "09d995de-2158-43f7-b113-9babb9a1593e",
+            "prefLabel": "CORSICA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532753,
+            "uuid": "09f61b6a-c4ef-46d1-be0d-16b396f84a16",
+            "prefLabel": "TUVALU",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532755,
+            "uuid": "0a19cdd4-48ec-4551-9e5f-7be860891f94",
+            "prefLabel": "CROATIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532757,
+            "uuid": "0a63a576-6ceb-43d7-a606-b7a924881000",
+            "prefLabel": "SEA OF OKHOTSK",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532759,
+            "uuid": "0a672f19-dad5-4114-819a-2eb55bdbb56a",
+            "prefLabel": "CONTINENT",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532761,
+            "uuid": "0b3765f7-20f7-4425-bd50-d1bb99d09d86",
+            "prefLabel": "EUROPE",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532763,
+            "uuid": "0b5164a2-ce21-4b36-9502-5e1d05a2e3ae",
+            "prefLabel": "GEORGIAN BAY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532765,
+            "uuid": "0b7d96be-3d27-40b8-9876-61b2d7c2bd58",
+            "prefLabel": "ANDAMAN ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532767,
+            "uuid": "0bd7d518-6e4d-455e-95cd-2add85fc88fa",
+            "prefLabel": "WESTERN AFRICA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532769,
+            "uuid": "0cd8148f-6feb-42ea-b867-5af9a933d673",
+            "prefLabel": "WESTERN EUROPE",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532771,
+            "uuid": "0d0210bb-0be8-47b0-94f2-8695e226ccc8",
+            "prefLabel": "SYRIAN ARAB REPUBLIC",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532773,
+            "uuid": "0dc6a186-8da6-4a88-bb6b-3cc3343d2599",
+            "prefLabel": "THERMOSPHERE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532775,
+            "uuid": "0dd6b942-de19-4712-bd1d-aa301f0ee965",
+            "prefLabel": "SWAZILAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532777,
+            "uuid": "0ebe4123-f42a-41fb-80ea-bb1b97b9db0b",
+            "prefLabel": "CONGO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532779,
+            "uuid": "0f01d3b9-3691-471e-b21b-3f42c512dcd2",
+            "prefLabel": "TEXAS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532781,
+            "uuid": "0f023a42-94f0-4c8c-b2c9-792eaa6aa784",
+            "prefLabel": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532783,
+            "uuid": "103ca372-ccaa-4cca-9e1a-ef2219ad6bb2",
+            "prefLabel": "GREECE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532785,
+            "uuid": "106a3756-af68-4ea1-8eae-a6f5e5a2265f",
+            "prefLabel": "STRATOSPHERE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532787,
+            "uuid": "109670ea-5fc7-4726-b772-f315fa0fa603",
+            "prefLabel": "CASPIAN SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532789,
+            "uuid": "10b324f6-0541-42c2-938d-e2acec0de8ed",
+            "prefLabel": "SOUTHERN EUROPE",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532791,
+            "uuid": "1132b6fb-a1fe-42df-a7c6-38ee030aceaa",
+            "prefLabel": "DIEGO RAMIREZ ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532793,
+            "uuid": "116620fb-2762-4032-9bfa-152d109c029d",
+            "prefLabel": "EASTERN HEMISPHERE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532795,
+            "uuid": "11a7e181-3804-4ec7-8717-446546fdd014",
+            "prefLabel": "PORTLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532797,
+            "uuid": "12b71c1c-bdb2-4cc6-bab9-0569563da458",
+            "prefLabel": "BRITISH COLUMBIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532799,
+            "uuid": "12c922d0-63e7-453e-aef6-d8c4d21d93c0",
+            "prefLabel": "POSSESSION ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532801,
+            "uuid": "12f8b383-3220-464f-baf3-2ec810247e44",
+            "prefLabel": "MICRONESIA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532803,
+            "uuid": "132c1238-6779-443c-9a5c-3df2f238beae",
+            "prefLabel": "BELGIUM",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532805,
+            "uuid": "146ee1c3-67c3-45a0-ad64-c67f12032351",
+            "prefLabel": "FRENCH GUIANA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532807,
+            "uuid": "149fef08-334f-4eb4-a4b6-12ebe8eb9570",
+            "prefLabel": "SRI LANKA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532809,
+            "uuid": "14e52f21-8d11-484b-8c88-ca36ce712561",
+            "prefLabel": "ASCENSION ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532811,
+            "uuid": "160b4977-218b-4d49-b1f1-0193f8ac2091",
+            "prefLabel": "BRUNEI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532813,
+            "uuid": "16cc58c4-fd7b-40b7-8f33-30d26674fd8b",
+            "prefLabel": "REUNION",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532815,
+            "uuid": "17585ec9-4a92-4f37-96b4-034c9e7afa75",
+            "prefLabel": "BELLINGSHAUSEN SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532817,
+            "uuid": "1837fc8f-4622-433b-8148-dd2b5826f6f2",
+            "prefLabel": "EASTERN AFRICA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532819,
+            "uuid": "18493ec7-f2a5-47bc-8200-8d9e0c41dcf3",
+            "prefLabel": "SAN MARINO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532821,
+            "uuid": "190f39d7-66d7-4b5a-964f-0d47382d8e2e",
+            "prefLabel": "PANAMA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532823,
+            "uuid": "1928f419-0c4b-4b06-9f66-eb37f49105de",
+            "prefLabel": "UNITED KINGDOM",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532825,
+            "uuid": "1b0b4340-30a6-4cdd-b356-9c6a0b674a29",
+            "prefLabel": "NORTHERN EUROPE",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532827,
+            "uuid": "1b6309ac-463b-4512-ab29-9870f3f8ba19",
+            "prefLabel": "WESTERN ASIA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532829,
+            "uuid": "1cefbe03-03dd-4dd2-abed-0eac80bf00cf",
+            "prefLabel": "BAKER ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532831,
+            "uuid": "1d131de3-da6c-40b9-84a5-02f8696e9f49",
+            "prefLabel": "QATAR",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532833,
+            "uuid": "1d44a144-2344-4a82-931b-6604bbbe14bc",
+            "prefLabel": "INNER MAGNETOSPHERE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532835,
+            "uuid": "1d6baa6e-5a29-4d4e-add7-a2b1ddfff712",
+            "prefLabel": "TROPOSPHERE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532837,
+            "uuid": "1dbb3f84-a25b-4738-bbee-f5371f471aec",
+            "prefLabel": "LEBANON",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532839,
+            "uuid": "1dd688e9-3c50-4be0-907a-423d2371dc3e",
+            "prefLabel": "GIBRALTAR",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532841,
+            "uuid": "1e3fd59a-fed3-4c99-8e3f-28c16c0fcea1",
+            "prefLabel": "UNITED STATES MINOR OUTLYING ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532843,
+            "uuid": "1e41939f-8c5e-4aee-8345-61736accffe4",
+            "prefLabel": "COTE D'IVOIRE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532845,
+            "uuid": "1e535be2-e7cf-42fc-aec4-6f8a6ca3727d",
+            "prefLabel": "LIBYA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532847,
+            "uuid": "1e7cf5e6-e98a-45ae-a300-6ee43aaf9a1d",
+            "prefLabel": "SLOVENIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532849,
+            "uuid": "1eaf9a26-59b9-49fc-8f9f-1a72891edfe1",
+            "prefLabel": "BOUVET ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532851,
+            "uuid": "1ed45273-3e2b-4586-b852-05578c04041b",
+            "prefLabel": "ARCTIC OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532853,
+            "uuid": "2006ec69-34f2-4ece-8823-6dc49f892b02",
+            "prefLabel": "HAWAIIAN ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532855,
+            "uuid": "20229c10-303d-4fc9-89b0-8ae372df445f",
+            "prefLabel": "ANTARCTIC PENINSULA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532857,
+            "uuid": "204270d9-8039-4768-851e-63635af5fb65",
+            "prefLabel": "GEOGRAPHIC REGION",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532859,
+            "uuid": "21be5553-67cb-4e54-9807-f1b558d72ae4",
+            "prefLabel": "NAVASSA ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532861,
+            "uuid": "21fb55d8-62f5-4453-b26a-794b6f0e88a5",
+            "prefLabel": "ROSS ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532863,
+            "uuid": "2274358d-11e5-442f-af41-e20fe1ba69c6",
+            "prefLabel": "NICARAGUA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532865,
+            "uuid": "232cab66-2a19-4d21-8ad2-8d60b1e87b07",
+            "prefLabel": "JORDAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532867,
+            "uuid": "23e967b5-6a87-47a6-aa93-0a96dbe6c316",
+            "prefLabel": "FLORIDA KEYS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532869,
+            "uuid": "250456aa-1202-411d-b88f-919386a4ebe5",
+            "prefLabel": "HUNGARY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532871,
+            "uuid": "25ff6e15-1d40-4df6-b008-eb11c3a199d9",
+            "prefLabel": "NORTH DAKOTA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532873,
+            "uuid": "260436f2-f80a-4e2a-9a8a-1c8780e33d13",
+            "prefLabel": "PHOTOSPHERE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532875,
+            "uuid": "26aad1c3-3d0e-4e4d-b1fe-e20961bb6b90",
+            "prefLabel": "TURKEY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532877,
+            "uuid": "26ce44ec-4a5d-413f-ae6e-2064a374c8f1",
+            "prefLabel": "SARDINIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532879,
+            "uuid": "271c9002-8a96-406e-a0ec-8fdbac41eb1e",
+            "prefLabel": "GREAT LAKES",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532881,
+            "uuid": "283ecddd-37db-471c-a600-a45b4419918e",
+            "prefLabel": "MADEIRA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532883,
+            "uuid": "2844fb17-9f62-47c9-90c4-d61125e0922e",
+            "prefLabel": "GREAT LAKES, CANADA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532885,
+            "uuid": "28633bd4-eb04-43d6-9c1c-04b4a843fb63",
+            "prefLabel": "TANZANIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532887,
+            "uuid": "28761db9-82fe-4a24-9a89-0fd6047fa1ea",
+            "prefLabel": "BANGLADESH",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532889,
+            "uuid": "29ad7c2a-42d5-49e6-9093-e758da70432e",
+            "prefLabel": "TENNESSEE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532891,
+            "uuid": "29e79a9c-f1a9-4832-8813-e3a12dfddec6",
+            "prefLabel": "DAVIS STRAIT",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532893,
+            "uuid": "2a363f95-3822-468e-98b5-2c92f7c05e00",
+            "prefLabel": "SOLAR INTERIOR",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532895,
+            "uuid": "2a5c24de-0eb1-4049-a58b-7cc716ecd34c",
+            "prefLabel": "NIGERIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532897,
+            "uuid": "2a65dfd1-83e7-4886-a732-316b170522a1",
+            "prefLabel": "BRAZIL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532899,
+            "uuid": "2a726c91-2cd0-4b08-a301-30396de71b91",
+            "prefLabel": "ST BARTHELEMY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532901,
+            "uuid": "2ad8b29a-df7d-4fdc-b7b9-bcd2ff8d9866",
+            "prefLabel": "DISTRICT OF COLUMBIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532903,
+            "uuid": "2bdea9ad-43c4-4559-a156-6dad5d9ba137",
+            "prefLabel": "NEVADA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532905,
+            "uuid": "2c12f87b-a4c7-4aec-b10b-0f3e37560ccf",
+            "prefLabel": "SOUTH KOREA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532907,
+            "uuid": "2ca1b865-5555-4375-aa81-72811335b695",
+            "prefLabel": "AFRICA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532909,
+            "uuid": "2d39101d-4602-4688-91f0-84f1a37a1441",
+            "prefLabel": "MAURITANIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532911,
+            "uuid": "2d955182-b62b-43eb-9acc-74f1f1f062f7",
+            "prefLabel": "CAMBODIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532913,
+            "uuid": "2da8b88a-1a2e-4635-9ba9-dd5f9c5aad99",
+            "prefLabel": "MANTLE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532915,
+            "uuid": "2dda5d3d-a8f2-4e29-b300-f7383f8ae02d",
+            "prefLabel": "CENTRAL PACIFIC KWAJ",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532917,
+            "uuid": "2e2d65b6-d3de-4921-877c-2d3a4e447978",
+            "prefLabel": "MINNESOTA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532919,
+            "uuid": "2ed1cf61-0636-4a43-9acd-037c563a1a8b",
+            "prefLabel": "GALAPAGOS ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532921,
+            "uuid": "2ed1d456-b067-45bc-857f-8ba5fe87035e",
+            "prefLabel": "VIRGIN ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532923,
+            "uuid": "2edce566-82e1-4645-a94d-58cffa42f8e2",
+            "prefLabel": "SWEDEN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532925,
+            "uuid": "2ffc8cf6-f9fb-4f0e-858a-53766c4ba4b8",
+            "prefLabel": "GAMBIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532927,
+            "uuid": "302ab5f2-5fa2-482d-9d22-8a7a1546a62d",
+            "prefLabel": "GAZA STRIP",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532929,
+            "uuid": "31c5e65c-05b6-4806-830f-94c912f03c77",
+            "prefLabel": "BAHAMAS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532931,
+            "uuid": "31ea4578-9b23-4f66-b454-b7dae358267c",
+            "prefLabel": "OKLAHOMA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532933,
+            "uuid": "336b41d3-5597-46ee-9d26-8d992399da93",
+            "prefLabel": "ILE DE LA POSSESSION, BASE ALFRED FAURE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532935,
+            "uuid": "33ceb9b7-d144-4e19-92b5-27861898bfd4",
+            "prefLabel": "MELANESIA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532937,
+            "uuid": "3456a093-81b0-4f6b-9073-d17502a8072b",
+            "prefLabel": "PARAGUAY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532939,
+            "uuid": "34ade06e-d992-45aa-8fd1-9eabd2d417fc",
+            "prefLabel": "SOLOMON ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532941,
+            "uuid": "350fb2da-c713-497e-9d7d-42dcad0df83f",
+            "prefLabel": "EURASIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532943,
+            "uuid": "35203540-ed8a-4087-82aa-bfcdc3bc11ec",
+            "prefLabel": "TRISTAN DA CUNHA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532945,
+            "uuid": "3588a42b-43bc-43d1-ad7b-3c43ba3bec4b",
+            "prefLabel": "CUBA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532947,
+            "uuid": "359e1e8f-1789-4c32-9afc-79c2fd6f9884",
+            "prefLabel": "VERMONT",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532949,
+            "uuid": "35c312f3-ef63-44c1-9668-b6c7f7ff025e",
+            "prefLabel": "SUDAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532951,
+            "uuid": "35f9f5d9-c2fd-420e-a08d-34938fd22d6c",
+            "prefLabel": "CUSP",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532953,
+            "uuid": "3629338b-cfef-4119-ae3c-b9c800776275",
+            "prefLabel": "GOUGH ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532955,
+            "uuid": "3682524d-6ff3-4224-a635-9741726f025f",
+            "prefLabel": "CONGO, DEMOCRATIC REPUBLIC",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532957,
+            "uuid": "37c58b9a-dbba-4941-bcc9-99b2ef10c43c",
+            "prefLabel": "WALLIS AND FUTUNA ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532959,
+            "uuid": "3898679c-68f8-42af-bbf1-1400955e0076",
+            "prefLabel": "ISRAEL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532961,
+            "uuid": "39fefc6a-a548-4a7f-96a8-434dae6d56ed",
+            "prefLabel": "NORTHERN MARIANA ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532963,
+            "uuid": "3a607d6a-1d8e-4bd2-8ce3-6d4a6ab21ad3",
+            "prefLabel": "SAO TOME AND PRINCIPE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532965,
+            "uuid": "3b515cd8-bc42-4fab-9990-df3be2817938",
+            "prefLabel": "EQUATORIAL GUINEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532967,
+            "uuid": "3bd4aae9-4415-44bb-ad97-5db303ad8cd8",
+            "prefLabel": "VENEZUELA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532969,
+            "uuid": "3c374d0e-fb82-4e14-9119-2f958747dca4",
+            "prefLabel": "MERTZ GLACIER",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532971,
+            "uuid": "3c4bed7f-1e6b-435f-878f-70da1601f29b",
+            "prefLabel": "PITCAIRN ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532973,
+            "uuid": "3c6073a8-432d-4cf9-9d48-1963cc5290ff",
+            "prefLabel": "FIJI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532975,
+            "uuid": "3d4e44c4-5d99-4a9b-8388-43c63533ee97",
+            "prefLabel": "GLOBAL OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532977,
+            "uuid": "3f3cc6a3-81e3-49b6-b23a-b02678840e06",
+            "prefLabel": "ERITREA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532979,
+            "uuid": "3fedcf7c-7b0c-4b51-abd2-2c54de713061",
+            "prefLabel": "POLAR",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532981,
+            "uuid": "3fef61fe-15e9-4cd7-a43c-18d28c26706e",
+            "prefLabel": "NORFOLK ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532983,
+            "uuid": "3ffa2d97-a066-4b3c-87f9-06779f12e726",
+            "prefLabel": "SPACE",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 532985,
+            "uuid": "4095946b-4a9b-40f5-a0ee-fcfbae12b64e",
+            "prefLabel": "PORT-AUX-FRANCAIS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532987,
+            "uuid": "4169d7ae-fa7e-4264-888c-c15b14c574cb",
+            "prefLabel": "GHANA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532989,
+            "uuid": "417235ba-103a-443c-bb43-75a1a772a2e2",
+            "prefLabel": "SOUTHERN HEMISPHERE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532991,
+            "uuid": "417c01a8-79c5-40e6-affc-8a462b0b4336",
+            "prefLabel": "MARYLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532993,
+            "uuid": "4185beef-8d24-4205-9fe7-2d1345671680",
+            "prefLabel": "NUNAVUT",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532995,
+            "uuid": "41ac6bda-027c-438b-b41f-a6e6cb2f03ce",
+            "prefLabel": "CONNECTICUT",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532997,
+            "uuid": "41cd228c-4677-4900-9507-70144d8b50bc",
+            "prefLabel": "BALTIC SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 532999,
+            "uuid": "42b510c8-3f17-4f95-85f5-011065fcc038",
+            "prefLabel": "KANSAS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533001,
+            "uuid": "42c902b9-ed3b-435f-89c3-150de74451f1",
+            "prefLabel": "ARMENIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533003,
+            "uuid": "4334c04a-1ab1-475d-9aab-bc30476a8b25",
+            "prefLabel": "GUINEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533005,
+            "uuid": "434da207-97f4-4bb5-9550-40b0237f0a3f",
+            "prefLabel": "TUNISIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533007,
+            "uuid": "4366972c-aa2d-41cb-b9c3-4d6f57546f65",
+            "prefLabel": "PERU",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533009,
+            "uuid": "43bdd952-dc95-45a0-bf60-05a4c958ff0c",
+            "prefLabel": "KAHOOLAWE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533011,
+            "uuid": "4401ec0e-0d64-41d3-b4bd-2ff797865e83",
+            "prefLabel": "NORTH SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533013,
+            "uuid": "444367b0-aa47-4d8b-94d7-41f7d69d2738",
+            "prefLabel": "BOTSWANA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533015,
+            "uuid": "446c1b9a-cee6-46e6-99be-3db5fbb798fb",
+            "prefLabel": "INDIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533017,
+            "uuid": "452868d2-bcca-4cb5-8d5d-102b4f6019eb",
+            "prefLabel": "IRISH SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533019,
+            "uuid": "452b929e-ffdb-48c8-b3a2-bddd1ab2bf97",
+            "prefLabel": "COLOMBIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533021,
+            "uuid": "456dc4c6-5750-449c-b2cf-61969bcf728c",
+            "prefLabel": "LANAI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533023,
+            "uuid": "45fe9be8-818b-465e-ad75-b025ff447844",
+            "prefLabel": "KAUAI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533025,
+            "uuid": "4642acf0-c21c-48a6-91f4-6fbd6d0966d4",
+            "prefLabel": "UZBEKISTAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533027,
+            "uuid": "46769685-522d-49c3-ad81-22e1cc8c0c2b",
+            "prefLabel": "MID-LATITUDE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533029,
+            "uuid": "46cfe46b-7a99-413b-b763-dd8c8f579e1a",
+            "prefLabel": "MONTSERRAT",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533031,
+            "uuid": "477a9a14-0c23-4f74-a82b-565fd3a856ab",
+            "prefLabel": "ST LUCIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533033,
+            "uuid": "4811b042-546d-43de-88c4-fdfef09fab80",
+            "prefLabel": "BERMUDA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533035,
+            "uuid": "48beae8c-e18a-4924-9d39-a6c7b18e29cb",
+            "prefLabel": "SOMALIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533037,
+            "uuid": "48c90518-9246-452b-8874-d50975e87ef6",
+            "prefLabel": "NEBRASKA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533039,
+            "uuid": "48f4e536-a426-4735-b0c4-f80a1d0afa19",
+            "prefLabel": "CAPE COD",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533041,
+            "uuid": "4a86e5fb-6155-47c0-883b-2edb8e1257aa",
+            "prefLabel": "RWANDA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533043,
+            "uuid": "4ad44654-2b00-4544-a149-1f01056e57c0",
+            "prefLabel": "KINGMAN REEF",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533045,
+            "uuid": "4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8",
+            "prefLabel": "INDIAN OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533047,
+            "uuid": "4bbd9eec-9daa-45c5-9cc7-1d8fb8bffd79",
+            "prefLabel": "NORWAY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533049,
+            "uuid": "4bcfd0d2-b5c7-47cb-8ded-d544a84f0c47",
+            "prefLabel": "IRELAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533051,
+            "uuid": "4d9cb925-670c-43e6-af0f-40372df8b206",
+            "prefLabel": "BRITISH INDIAN OCEAN TERRITORY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533053,
+            "uuid": "4e5212a7-40a1-4866-8e58-2ca71cc26054",
+            "prefLabel": "SABLE ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533055,
+            "uuid": "5061b32d-58dc-4a48-ba0a-5e8d3c686cc3",
+            "prefLabel": "INDIANA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533057,
+            "uuid": "507794a1-9563-49a4-b2d3-8a28347c1fd7",
+            "prefLabel": "NORTHERN HEMISPHERE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533059,
+            "uuid": "50d3d6bf-d409-466d-9ad8-469bf5d110a4",
+            "prefLabel": "YEMEN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533061,
+            "uuid": "50e1aaa9-fea0-4322-8ba1-cf39efce9daa",
+            "prefLabel": "VAN ALLEN RADIATION BELTS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533063,
+            "uuid": "514053f8-27a3-4fcb-8ce8-0d63cb345740",
+            "prefLabel": "NETHERLANDS ANTILLES",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533065,
+            "uuid": "51e3593f-4b42-4141-972e-96666c479f9c",
+            "prefLabel": "GLOBAL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533067,
+            "uuid": "523afb73-9b4c-4478-97e2-a7d5e228e31c",
+            "prefLabel": "CHINA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533069,
+            "uuid": "52cf52d6-c2d9-4dd5-88a6-580621eebfd4",
+            "prefLabel": "SOLAR CORE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533071,
+            "uuid": "5367bbef-371d-43be-a4cd-5f4f5ccc4403",
+            "prefLabel": "SCANDINAVIA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533073,
+            "uuid": "538d7162-9823-4942-ae11-3131c8fbd245",
+            "prefLabel": "VATICAN CITY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533075,
+            "uuid": "539e03d8-2a5c-4786-8ed5-ff27cf595e36",
+            "prefLabel": "FAEROE ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533077,
+            "uuid": "54340be8-8bd7-40be-a9d0-2e212bddd5d9",
+            "prefLabel": "CENTRAL PACIFIC OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533079,
+            "uuid": "5477242e-79ee-4139-bb1f-ab3ace1eb864",
+            "prefLabel": "MAURITIUS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533081,
+            "uuid": "5488b1cc-08b2-41cf-9bd2-4a2cdd0990de",
+            "prefLabel": "NORTH PACIFIC OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533083,
+            "uuid": "54fc3042-e1a5-4381-859f-e80335831de4",
+            "prefLabel": "DOMINICA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533085,
+            "uuid": "553fabba-37b9-4d16-aed1-cc6ac6f729e1",
+            "prefLabel": "ALGERIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533087,
+            "uuid": "5561d10d-5224-4e09-9d68-caffd6bc3d74",
+            "prefLabel": "MICHIGAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533089,
+            "uuid": "55a04c46-92cf-49c6-8c84-8cd2c058f1e4",
+            "prefLabel": "BHUTAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533091,
+            "uuid": "55fcc7db-f0c6-4504-a686-b0318873efa2",
+            "prefLabel": "SAMOA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533093,
+            "uuid": "56c7983c-33fa-4abc-95d4-8ae848048abb",
+            "prefLabel": "GRAND BANKS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533095,
+            "uuid": "57307aeb-06c4-443c-bdc3-e554d6414aa6",
+            "prefLabel": "CROZET ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533097,
+            "uuid": "57be5043-4557-45ad-8ac5-e1f8fbf92efc",
+            "prefLabel": "PALESTINE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533099,
+            "uuid": "57d5b413-48b5-485a-ad7b-bd0201c64a60",
+            "prefLabel": "ISLA GONZALEZ",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533101,
+            "uuid": "5810d615-a3fc-4f79-947a-bae456b728c2",
+            "prefLabel": "SEA SURFACE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533103,
+            "uuid": "58813ee3-ea1f-40a3-a0da-1198d78c06dd",
+            "prefLabel": "EGYPT",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533105,
+            "uuid": "589b1245-f1f8-4a63-882f-0e2e72625df0",
+            "prefLabel": "MARSHALL ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533107,
+            "uuid": "58ee925e-3285-4192-8f0a-f49a5c211439",
+            "prefLabel": "COSTA RICA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533109,
+            "uuid": "597b10dd-8822-46a7-922d-7d9a99abd8c1",
+            "prefLabel": "ST HELENA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533111,
+            "uuid": "59c12b6b-c5b4-4e23-9281-731e3473cca3",
+            "prefLabel": "MOLDOVA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533113,
+            "uuid": "5a3c4d08-5924-4ea7-a59b-06cc653deba7",
+            "prefLabel": "NEPAL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533115,
+            "uuid": "5aab4096-0a38-4c38-88f1-126001f3d037",
+            "prefLabel": "COOK ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533117,
+            "uuid": "5add948b-8520-4e55-808c-27f0be33d35a",
+            "prefLabel": "EASTERN EUROPE",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533119,
+            "uuid": "5ae6db89-e135-4e83-9317-c48ee0bc832c",
+            "prefLabel": "BOSTON",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533121,
+            "uuid": "5bc49524-33cd-48b8-9c23-d648e8ecbad5",
+            "prefLabel": "COCOS ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533123,
+            "uuid": "5c439818-3a80-4c6d-9d2c-74ea1f1a294a",
+            "prefLabel": "ADRIATIC SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533125,
+            "uuid": "5c637509-8e68-4511-9b85-8bbee1107a7a",
+            "prefLabel": "FALKLAND ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533127,
+            "uuid": "5da3b055-4215-4ec5-95f7-fdca626ebf57",
+            "prefLabel": "YUKON TERRITORY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533129,
+            "uuid": "5db07c1e-355b-40d9-94b2-7fabe4119af3",
+            "prefLabel": "KUWAIT",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533131,
+            "uuid": "5e154e2c-192d-4ef6-9279-84563cfcc5f5",
+            "prefLabel": "CAYMAN ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533133,
+            "uuid": "5e4b6864-4bf7-43a9-8ca6-2099cc40dd25",
+            "prefLabel": "IDAHO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533135,
+            "uuid": "5e64ca14-42f3-4222-8f2c-5db3c7b71d8f",
+            "prefLabel": "ICELAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533137,
+            "uuid": "5eaf4989-04fa-4b01-8239-f325951832df",
+            "prefLabel": "MOLOKAI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533139,
+            "uuid": "5ef2ae17-111c-4e9e-a6c9-95ce17a8b75c",
+            "prefLabel": "CHANNEL ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533141,
+            "uuid": "5f5917c3-7225-47d1-b465-03d7b8338060",
+            "prefLabel": "WEST VIRGINIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533143,
+            "uuid": "5f8636bb-0dc3-4528-a1eb-da5ac3b51fe2",
+            "prefLabel": "BELIZE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533145,
+            "uuid": "5f9a0900-8379-456b-bd5e-d6235a022bfa",
+            "prefLabel": "MALAYSIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533147,
+            "uuid": "5ff76570-66c1-4095-af0b-f688fd8b026d",
+            "prefLabel": "SICILY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533149,
+            "uuid": "60b17f24-cf23-4209-91c4-975a87a7acb0",
+            "prefLabel": "PAKISTAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533151,
+            "uuid": "61cc17c8-4f06-4556-8117-8ba9bb329a3f",
+            "prefLabel": "GLOBAL LAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533153,
+            "uuid": "626ee48e-c58c-4cbf-a15e-23bc0331857b",
+            "prefLabel": "HOWLAND ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533155,
+            "uuid": "63246421-f046-4770-acd9-d0a3d31bbd36",
+            "prefLabel": "HAITI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533157,
+            "uuid": "632e6bd5-cdd5-42fa-801f-66b553155905",
+            "prefLabel": "KOSOVO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533159,
+            "uuid": "6364bdbb-cdec-4059-a2b5-6b873c09fc7d",
+            "prefLabel": "SINGAPORE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533161,
+            "uuid": "639c23bd-f64a-4061-a535-4a1a842d230f",
+            "prefLabel": "TROPICS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533163,
+            "uuid": "63ddceba-4924-4c03-814f-ae7a90ddde62",
+            "prefLabel": "DHEKELIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533165,
+            "uuid": "649c7926-a726-406f-abec-92d3e1877714",
+            "prefLabel": "BYELORUSSIAN SSR",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533167,
+            "uuid": "66dc90fd-304a-4379-a9e1-18cf184cc6da",
+            "prefLabel": "BAY OF BENGAL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533169,
+            "uuid": "69534766-c309-4145-8963-2bdb7b57340b",
+            "prefLabel": "CANARY ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533171,
+            "uuid": "699d5c22-6bcd-4cfa-be0f-f06e34a63513",
+            "prefLabel": "OREGON",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533173,
+            "uuid": "69f4d2fa-5b3d-43fe-bd55-63f6c9d1ca5a",
+            "prefLabel": "ARKANSAS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533175,
+            "uuid": "6af5848c-db4b-4dd0-a6fb-1b9c904ef21b",
+            "prefLabel": "THAILAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533177,
+            "uuid": "6c7b31f5-8e07-4a2c-b94f-69be416c60a3",
+            "prefLabel": "LAKE VICTORIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533179,
+            "uuid": "6d54689d-b634-4d5e-b2f9-752c3648bdcf",
+            "prefLabel": "MALTA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533181,
+            "uuid": "6d61eeb2-a5a6-4364-b974-e5b4d317327f",
+            "prefLabel": "EAST CHINA SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533183,
+            "uuid": "6d9ffb4c-1dc6-4e69-98ce-2b87f00d6d98",
+            "prefLabel": "NIIHAU",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533185,
+            "uuid": "6e4b47ff-1d42-42d7-b5a0-a15cb27e39cc",
+            "prefLabel": "BAY OF FUNDY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533187,
+            "uuid": "6f2c3b1f-acae-4af0-a759-f0d57ccfc83f",
+            "prefLabel": "SPACE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533189,
+            "uuid": "6fa811fb-3666-4970-9208-ca8a21d57138",
+            "prefLabel": "SOLAR REGION",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533191,
+            "uuid": "706ae2c4-750c-4a96-a7af-5133c357ae5c",
+            "prefLabel": "SVALBARD AND JAN MAYEN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533193,
+            "uuid": "70c4057c-7ecc-4ff5-a6e6-5d5b0bb2af3b",
+            "prefLabel": "GULF OF ST LAWRENCE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533195,
+            "uuid": "70d89073-6697-4eb6-b01b-989c623a5649",
+            "prefLabel": "MEXICO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533197,
+            "uuid": "70fb5a3b-35b1-4048-a8be-56a0d865281c",
+            "prefLabel": "ANTARCTICA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533199,
+            "uuid": "713eb469-abe4-4b6b-bad6-134187deabd8",
+            "prefLabel": "Locations",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533201,
+            "uuid": "7147d041-d762-4475-8762-3b00d49ba9a7",
+            "prefLabel": "SOUTHERN AFRICA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533203,
+            "uuid": "71953a36-817f-4b70-83df-f056364ce65d",
+            "prefLabel": "BURMA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533205,
+            "uuid": "71a722af-0cd9-4052-b4e8-f3af56201401",
+            "prefLabel": "UTAH",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533207,
+            "uuid": "71c964af-7eec-4812-85de-04cadfd77934",
+            "prefLabel": "SERBIA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533209,
+            "uuid": "72e9e5dc-0f52-43df-8670-d5908806759e",
+            "prefLabel": "MANITOBA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533211,
+            "uuid": "73236574-93e5-4520-ad5d-e298fd28d42d",
+            "prefLabel": "PORTUGAL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533213,
+            "uuid": "73c5d3e9-29f6-4352-a3db-1bc49bbff315",
+            "prefLabel": "LOUISIANA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533215,
+            "uuid": "74335c3e-c856-48d3-a4de-d6fe4c7db775",
+            "prefLabel": "ST MARTIN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533217,
+            "uuid": "748c0239-be0b-42ef-8d82-587c09afdb1d",
+            "prefLabel": "MAGNETOSPHERE (OTHER)",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533219,
+            "uuid": "74ab7a7c-6ec5-4dd2-a1d4-0274dced3e3d",
+            "prefLabel": "MAUI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533221,
+            "uuid": "753f915c-70d4-49e1-9bd5-83e75f461e30",
+            "prefLabel": "UNITED STATES OF AMERICA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533223,
+            "uuid": "75dc417f-5bdc-441b-bfa9-8a31a03598d6",
+            "prefLabel": "DJIBOUTI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533225,
+            "uuid": "75fab119-51a6-4b59-9711-f6c3cd3139db",
+            "prefLabel": "GULF OF MEXICO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533227,
+            "uuid": "7691ebb7-81c0-4f38-945c-4462a203cccb",
+            "prefLabel": "BOSNIA AND HERZEGOVINA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533229,
+            "uuid": "76b3388a-990c-4a46-b35a-748552b671d7",
+            "prefLabel": "MACQUARIE ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533231,
+            "uuid": "77a3d69b-2fe6-48a0-9d85-bae062a4e2ff",
+            "prefLabel": "HIGH LATITUDE MAGNETOSPHERE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533233,
+            "uuid": "7848d9b7-a18d-4519-bec3-b4f5fe19a68f",
+            "prefLabel": "ZAIRE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533235,
+            "uuid": "789badd4-8d66-49dd-a4ff-98003f89864d",
+            "prefLabel": "CAPE MOBIUS OF TERRA NOVA BAY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533237,
+            "uuid": "798a293e-c19b-4103-93eb-c7eb5b27c214",
+            "prefLabel": "SOUTH ORKNEY ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533239,
+            "uuid": "798f3745-be8c-48b0-b903-0265dbe1f957",
+            "prefLabel": "SAUDI ARABIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533241,
+            "uuid": "79f4dd2f-07c5-4932-b507-f1db66b6240e",
+            "prefLabel": "NIUE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533243,
+            "uuid": "7a1f45ea-4804-4ae0-8949-e4f33223d39d",
+            "prefLabel": "GEORGES BANK",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533245,
+            "uuid": "7b1a37fd-aae9-4bcf-86b1-48e7db570f65",
+            "prefLabel": "NIGER",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533247,
+            "uuid": "7b93c892-2fc4-417b-a4da-5c8a2fca361b",
+            "prefLabel": "GULF OF TRIESTE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533249,
+            "uuid": "7ba7460f-32d8-4364-9608-eec6387133e9",
+            "prefLabel": "JOHNSTON ATOLL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533251,
+            "uuid": "7bc3667c-98be-4b3f-b831-33e1a784a37c",
+            "prefLabel": "UNITED ARAB EMIRATES",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533253,
+            "uuid": "7c5c3754-7b3d-4c08-9ea3-670ed82629ec",
+            "prefLabel": "EQUATORIAL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533255,
+            "uuid": "7daf09eb-e8b7-4c69-b0d1-c53a429379cb",
+            "prefLabel": "IRAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533257,
+            "uuid": "7de86e45-f3e3-4475-af21-fc5a7f0c6349",
+            "prefLabel": "KENTUCKY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533259,
+            "uuid": "7e35ea67-a0c9-49fa-97de-e5f8f5b9ee6d",
+            "prefLabel": "CHUKCHI SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533261,
+            "uuid": "7ff548d5-896a-48c5-9ffb-28aa4d47825f",
+            "prefLabel": "GUADELOUPE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533263,
+            "uuid": "8000a80c-9f8d-4406-80bc-3a4a75117df9",
+            "prefLabel": "EARTH MAGNETIC FIELD",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533265,
+            "uuid": "80e7a4da-82a2-449e-87d3-603d857058c5",
+            "prefLabel": "SENEGAL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533267,
+            "uuid": "835b0d04-f380-4e59-a19e-6652ae04dbea",
+            "prefLabel": "ANGUILLA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533269,
+            "uuid": "838923bc-cda7-4cf5-a21a-0c777304a593",
+            "prefLabel": "ARGENTINA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533271,
+            "uuid": "83b75894-bceb-466a-b7d4-a6cd37521ffc",
+            "prefLabel": "UKRAINE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533273,
+            "uuid": "844d7d6f-e9e8-4632-83e8-115a6e972e18",
+            "prefLabel": "ST VINCENT AND THE GRENADINES",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533275,
+            "uuid": "848254ad-c92c-44fd-8c01-a4755fef4673",
+            "prefLabel": "NEUTRAL SHEET",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533277,
+            "uuid": "84a3d9ed-7a8e-4286-b821-8389c774a719",
+            "prefLabel": "BALLENY ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533279,
+            "uuid": "84aeedd2-6093-4252-9895-8dc063a9ad97",
+            "prefLabel": "INDONESIA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533281,
+            "uuid": "8537ebe8-8768-4463-ad22-8bbe508f43bf",
+            "prefLabel": "SOUTH CHINA AND EASTERN ARCHIPELAGIC SEAS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533283,
+            "uuid": "854d0bb3-dcc3-48eb-a65a-2d26a8b87394",
+            "prefLabel": "NEW YORK",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533285,
+            "uuid": "855fdce6-877e-433e-bae5-a6df132a4c8a",
+            "prefLabel": "HEARD AND MCDONALD ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533287,
+            "uuid": "8596fd82-b9bc-4b90-bf9b-23c7f59ac4ab",
+            "prefLabel": "MIDDLE EAST",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533289,
+            "uuid": "8611d45f-c410-44ac-a2ea-d369b7c10011",
+            "prefLabel": "MONACO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533291,
+            "uuid": "864e3511-3326-4b8f-a534-1a8945fcc3eb",
+            "prefLabel": "GABON",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533293,
+            "uuid": "86ed3782-8e30-4547-a774-35100b224d5a",
+            "prefLabel": "BEAUFORT SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533295,
+            "uuid": "87a9b0a4-c94d-4ccd-a28a-89e2853dcbde",
+            "prefLabel": "CRUST",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533297,
+            "uuid": "87c840a4-1ecf-48fe-90cd-0b93d4b02c89",
+            "prefLabel": "MT MELBOURNE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533299,
+            "uuid": "88030de5-d237-4074-943f-b6422790d58d",
+            "prefLabel": "MONTANA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533301,
+            "uuid": "88bc8b39-ad19-4415-b426-e7d37450341a",
+            "prefLabel": "NORTH AMERICA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533303,
+            "uuid": "89eb3337-707f-496d-9850-a6312ca42ecf",
+            "prefLabel": "SOUTH CHINA SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533305,
+            "uuid": "8a101ca4-ba38-4e32-a14c-59501e4927d0",
+            "prefLabel": "WEDDELL SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533307,
+            "uuid": "8abe2036-a848-451a-8eee-ae7ccd9e401f",
+            "prefLabel": "DES MOINES",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533309,
+            "uuid": "8b9f777c-3037-4fcf-9d7f-a2bcb809d2be",
+            "prefLabel": "SUMATRA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533311,
+            "uuid": "8c10116a-e71d-45fd-a4b6-92e6b4bf234d",
+            "prefLabel": "RUSSIAN FEDERATION",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533313,
+            "uuid": "8cb93d1a-8405-4722-92dd-434ebc850088",
+            "prefLabel": "MAGNETOTAIL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533315,
+            "uuid": "8cd9397d-ab47-490c-be80-3503be51d5dc",
+            "prefLabel": "SOUTH SUDAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533317,
+            "uuid": "8d1ef0a1-f9e1-4807-9025-717af90479cb",
+            "prefLabel": "PRINCE EDWARD ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533319,
+            "uuid": "8d237194-e6b5-418b-ab67-e20e260867e9",
+            "prefLabel": "EL SALVADOR",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533321,
+            "uuid": "8d9e2612-e2ab-4895-9a26-c968522019f1",
+            "prefLabel": "GRENADA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533323,
+            "uuid": "8e6ed09f-fc31-40ad-acbb-e2c0a05a642e",
+            "prefLabel": "MCMURDO SOUND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533325,
+            "uuid": "8e82af62-b3b1-4fc6-95b0-adb9433aa23f",
+            "prefLabel": "CHRISTMAS ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533327,
+            "uuid": "8e8ff5a7-ca10-4322-a5d6-84c08d73775a",
+            "prefLabel": "PUERTO RICO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533329,
+            "uuid": "8eb2ab2b-f923-47ca-9a13-f966cf11d802",
+            "prefLabel": "MESOSPHERE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533331,
+            "uuid": "8f4b20b4-633c-4a2e-941d-49e4b5ab3374",
+            "prefLabel": "VIETNAM",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533333,
+            "uuid": "90761f8d-6abe-499c-b711-acec394daa59",
+            "prefLabel": "LAND SURFACE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533335,
+            "uuid": "91409bfb-7fe2-4eaa-97d9-4bc96d5a85b0",
+            "prefLabel": "HONDURAS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533337,
+            "uuid": "91dd3935-a1ae-48ca-b263-9b10ac732372",
+            "prefLabel": "NORWEGIAN SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533339,
+            "uuid": "91e466e3-2a02-4ce2-a62d-1b0bb2d13683",
+            "prefLabel": "HAWAII ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533341,
+            "uuid": "922a749a-d663-495f-bd26-31e6cfb89c57",
+            "prefLabel": "WESTERN PACIFIC OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533343,
+            "uuid": "925747d0-b5f0-4c51-9216-04980a785b54",
+            "prefLabel": "OMAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533345,
+            "uuid": "928f6ffd-4b96-43c5-91e9-9c655258ad44",
+            "prefLabel": "BOUNDARY LAYER",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533347,
+            "uuid": "92a4dbc0-eb29-4417-a986-ee747c481881",
+            "prefLabel": "BURLINGTON",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533349,
+            "uuid": "9464e2fc-1198-43b7-af7c-8b1ea53b2b0a",
+            "prefLabel": "LAUFF ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533351,
+            "uuid": "946f1f4f-fddc-418b-8177-38ba747e0e64",
+            "prefLabel": "AZORES",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533353,
+            "uuid": "953ea5cb-cd34-4ffc-a18b-f93173f2c7f6",
+            "prefLabel": "GERMANY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533355,
+            "uuid": "95bed3b9-3c0f-4333-b9ac-2f2f5fede59e",
+            "prefLabel": "NORTHWEST TERRITORIES",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533357,
+            "uuid": "95ef2448-80da-4419-8c07-f05f7d625796",
+            "prefLabel": "KAZAKHSTAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533359,
+            "uuid": "96c2b110-5d8b-425b-a5e5-7066e6c7b52e",
+            "prefLabel": "LESOTHO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533361,
+            "uuid": "971933a3-b116-4fdc-91c6-3067eaeedc8c",
+            "prefLabel": "MAGNETOPAUSE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533363,
+            "uuid": "977f6d42-8d3a-4875-8a7b-ed225622519c",
+            "prefLabel": "ISLE OF MAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533365,
+            "uuid": "97b6f4a7-a03a-4b6b-a6f3-fbd80f84fa95",
+            "prefLabel": "ANTIGUA AND BARBUDA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533367,
+            "uuid": "9876ec21-7cb3-4f39-b7fe-1bf7c179fa22",
+            "prefLabel": "PETER I ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533369,
+            "uuid": "989f1016-3a59-4520-935e-0f75467a740a",
+            "prefLabel": "URUGUAY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533371,
+            "uuid": "98f7f9f6-90cb-4f52-8bec-8d21dd310c30",
+            "prefLabel": "DENMARK",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533373,
+            "uuid": "9972bea3-3817-44e8-9c14-bcda7750d820",
+            "prefLabel": "GULF OF ALASKA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533375,
+            "uuid": "9a539ebb-1b71-4e56-9581-e42c0a9c96ea",
+            "prefLabel": "JAMAICA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533377,
+            "uuid": "9a733984-abe2-4a34-b189-9bb62b9f9b85",
+            "prefLabel": "KENYA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533379,
+            "uuid": "9aaf0f2f-6e85-4175-b4c2-a6dc31d8793a",
+            "prefLabel": "CAPE VERDE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533381,
+            "uuid": "9ae108db-2d76-44a1-b381-eba2df9554ad",
+            "prefLabel": "JAPAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533383,
+            "uuid": "9b0a194d-d617-4fed-9625-df176319892d",
+            "prefLabel": "ANGOLA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533385,
+            "uuid": "9b328d2c-07c9-4fd8-945d-f8d4d12e0bb3",
+            "prefLabel": "CHAD",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533387,
+            "uuid": "9bc94214-449d-4b97-b268-ef4b8dcadd23",
+            "prefLabel": "LAKE MALAWI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533389,
+            "uuid": "9c1c7783-8214-480b-a1e6-68240ce803ce",
+            "prefLabel": "ST EUSTATIUS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533391,
+            "uuid": "9c31f745-a3d1-4007-99ae-fceca2019fab",
+            "prefLabel": "GULF OF MAINE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533393,
+            "uuid": "9ce6b6ba-8f9f-4585-9438-05619d768578",
+            "prefLabel": "SOUTH ATLANTIC OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533395,
+            "uuid": "9cf876f7-1621-4e1b-bc56-056a0c28ed4b",
+            "prefLabel": "ALBERTA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533397,
+            "uuid": "9d15e288-95cd-476e-acdd-5e31add3ca32",
+            "prefLabel": "GREENLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533399,
+            "uuid": "9dc6c179-4631-4804-99be-bdbbff83c679",
+            "prefLabel": "NOVA SCOTIA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533401,
+            "uuid": "9e29690c-079c-4429-afed-ef061ab0c41e",
+            "prefLabel": "ASIA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533403,
+            "uuid": "9e683aa3-89a7-46fe-a4bb-d558719a9aa2",
+            "prefLabel": "FRENCH POLYNESIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533405,
+            "uuid": "9e75b714-9315-42e8-85c7-dbe502659e98",
+            "prefLabel": "PERSIAN GULF",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533407,
+            "uuid": "9ea81338-dc64-4803-b0e2-db0e2aaa70cf",
+            "prefLabel": "SOUTHEASTERN ASIA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533409,
+            "uuid": "9f78dabd-0540-4724-b093-8c0fc05afd3f",
+            "prefLabel": "PHILIPPINES",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533411,
+            "uuid": "9fe93f63-61b1-4232-bf5b-05703f803fce",
+            "prefLabel": "ALABAMA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533413,
+            "uuid": "a028edce-a3d9-4a16-a8c7-d2cb12d3a318",
+            "prefLabel": "CAMEROON",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533415,
+            "uuid": "a09d128e-c786-48cc-b569-c1a6bbb1f772",
+            "prefLabel": "NICOBAR ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533417,
+            "uuid": "a100adaa-1e50-44bd-b53f-94a986f5b495",
+            "prefLabel": "KING GEORGE ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533419,
+            "uuid": "a163e72a-e31f-4fa6-aef9-8f21f2e4b081",
+            "prefLabel": "SOUTH CAROLINA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533421,
+            "uuid": "a1810ec4-2d03-4d98-b049-2cad380fb789",
+            "prefLabel": "LAKE CHAD",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533423,
+            "uuid": "a186eed4-d1b4-4d11-b218-b61708a9124c",
+            "prefLabel": "ARABIAN SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533425,
+            "uuid": "a19e4450-64c4-4687-9080-cebded8a90eb",
+            "prefLabel": "PACIFIC OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533427,
+            "uuid": "a1c03e9b-1eae-4ea5-be30-3b2cd217216c",
+            "prefLabel": "CEUTA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533429,
+            "uuid": "a260baca-735f-4085-a0bc-212ac44aef3e",
+            "prefLabel": "IONOSPHERE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533431,
+            "uuid": "a29a6a2b-e0e5-4ba9-9768-df67db4f34a6",
+            "prefLabel": "WESTERN HEMISPHERE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533433,
+            "uuid": "a2e161cb-6448-47b0-ab56-c15308152181",
+            "prefLabel": "NEW HAMPSHIRE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533435,
+            "uuid": "a4202721-0cba-4fa1-853f-890f146b04f9",
+            "prefLabel": "NORTH ATLANTIC OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533437,
+            "uuid": "a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6",
+            "prefLabel": "FRANCE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533439,
+            "uuid": "a4cb5149-19c8-45dc-976b-9cd590a7365a",
+            "prefLabel": "BARENTS SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533441,
+            "uuid": "a5b56209-919d-4ace-9954-cbda4e58a3be",
+            "prefLabel": "DOMINICAN REPUBLIC",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533443,
+            "uuid": "a5d18d41-4e95-4442-93ee-6de73403d71f",
+            "prefLabel": "SOUTH GEORGIA ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533445,
+            "uuid": "a6eb6bdd-8aec-475f-a660-b8603219a5b0",
+            "prefLabel": "NORTH CAROLINA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533447,
+            "uuid": "a6f58ff3-7fd8-47a2-b007-6e23c104d272",
+            "prefLabel": "AMSTERDAM AND ST. PAUL ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533449,
+            "uuid": "a708af36-ff82-4403-80cd-6b4ffc661cc4",
+            "prefLabel": "BULGARIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533451,
+            "uuid": "a7334f57-6040-46a3-bde2-f87b26e8a3a3",
+            "prefLabel": "BAHRAIN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533453,
+            "uuid": "a817d381-60e3-4f1b-aa38-041d83b67e70",
+            "prefLabel": "EASTERN ASIA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533455,
+            "uuid": "a827feaf-9926-4a4d-b21f-dc044524b2b5",
+            "prefLabel": "NAMIBIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533457,
+            "uuid": "a8ee0d08-8772-4951-bbf0-4114dd07de03",
+            "prefLabel": "SOUTHERN ASIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533459,
+            "uuid": "a94fb5d3-6a0a-44a1-ac31-5e8978b5f0b1",
+            "prefLabel": "GEORGIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533461,
+            "uuid": "aa2adee8-f978-4e6a-921c-be457849d251",
+            "prefLabel": "SCOTIAN SHELF",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533463,
+            "uuid": "aa499067-03c9-4684-be74-223b8b58304d",
+            "prefLabel": "BURKINA FASO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533465,
+            "uuid": "aa9be105-fc42-42db-94fd-79590dd84f67",
+            "prefLabel": "MAHER ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533467,
+            "uuid": "ab8482e0-3abc-48ce-9216-a9932b0bb090",
+            "prefLabel": "ZIMBABWE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533469,
+            "uuid": "ac00af1a-62d1-4919-b84d-10a180b4f712",
+            "prefLabel": "SCOTT ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533471,
+            "uuid": "ad18da3f-fbdb-4bc1-ab4d-008e9b8f6002",
+            "prefLabel": "CARIBBEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533473,
+            "uuid": "ad47931f-dec9-488b-b4a4-51696f9aa088",
+            "prefLabel": "MT RITTMAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533475,
+            "uuid": "ad78262c-aa77-41ff-ab1c-507988be9827",
+            "prefLabel": "SPRATLY ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533477,
+            "uuid": "adecb0c1-3fba-42df-9e13-26899e868bb5",
+            "prefLabel": "Prydz Bay",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533479,
+            "uuid": "af585cc5-aab9-49cc-b05d-afe4ca4de878",
+            "prefLabel": "CHROMOSPHERE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533481,
+            "uuid": "af7106d6-4f42-4797-a547-b9e2f4384c7f",
+            "prefLabel": "MONGOLIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533483,
+            "uuid": "afbc0a01-742e-49da-939e-3eaa3cf431b0",
+            "prefLabel": "BLACK SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533485,
+            "uuid": "b09b4bcf-dd12-4501-bf06-e44aa3b11af6",
+            "prefLabel": "SEYMOUR ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533487,
+            "uuid": "b0b29e5e-6028-49c5-bdc1-c288a7aa83ac",
+            "prefLabel": "TOKELAU",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533489,
+            "uuid": "b0d902f8-d1b3-4cc8-aa2c-58fd4fead65e",
+            "prefLabel": "GUINEA-BISSAU",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533491,
+            "uuid": "b117b0ec-3013-48a2-81b5-58215bca8e1e",
+            "prefLabel": "TRINIDAD AND TOBAGO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533493,
+            "uuid": "b198283f-02d9-424e-838a-8997a18139a9",
+            "prefLabel": "FINLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533495,
+            "uuid": "b2012be4-7977-4d49-ac23-bacd05e9a1d0",
+            "prefLabel": "SURINAME",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533497,
+            "uuid": "b25e6700-8d6f-4c95-be85-dedc4f077b26",
+            "prefLabel": "IRAQ",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533499,
+            "uuid": "b3b5dbff-09a4-45f1-b1c2-847e3c8e6153",
+            "prefLabel": "JARVIS ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533501,
+            "uuid": "b3f09053-bb27-4d49-a2fa-893547f5e14b",
+            "prefLabel": "ARGENTINE ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533503,
+            "uuid": "b4d4394b-729e-4b18-ac41-5b03b23a44bc",
+            "prefLabel": "GAYLORD",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533505,
+            "uuid": "b58616f8-024f-45f1-be4f-8924557a82bc",
+            "prefLabel": "LITHUANIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533507,
+            "uuid": "b607766c-83f5-42bb-96b2-2de4e7b488a4",
+            "prefLabel": "FLORIDA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533509,
+            "uuid": "b7422ce5-a062-4e96-9a8b-36f9e3809e79",
+            "prefLabel": "SOUTH AMERICA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533511,
+            "uuid": "b76e19a0-73aa-484a-9723-c7940191ec61",
+            "prefLabel": "NAURU",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533513,
+            "uuid": "b770fd0c-6169-42e8-ad30-7fde13c5c6c5",
+            "prefLabel": "BARBADOS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533515,
+            "uuid": "b791f381-1c1c-4958-bc7d-b72a15da1174",
+            "prefLabel": "SOUTHERN OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533517,
+            "uuid": "b7eb8278-0dc3-4121-87ea-14173279dfb4",
+            "prefLabel": "ECUADOR",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533519,
+            "uuid": "b8631319-b4ee-4676-beaf-2aa179504be6",
+            "prefLabel": "LAKE BAYKAL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533521,
+            "uuid": "b870624c-8668-4c3e-9f0d-6c2f08bce62b",
+            "prefLabel": "ST KITTS AND NEVIS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533523,
+            "uuid": "b8bdae16-f063-42a5-8d47-2ee863fa56e9",
+            "prefLabel": "NEW MEXICO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533525,
+            "uuid": "b907550e-6aa1-4cbf-b83b-08546f949d12",
+            "prefLabel": "ONTARIO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533527,
+            "uuid": "b9c9d69b-9221-4aac-affb-5d3e98039251",
+            "prefLabel": "BLACK SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533529,
+            "uuid": "b9f52e70-8d85-45b6-b166-79201ce7d2bc",
+            "prefLabel": "LA CROSSE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533531,
+            "uuid": "baa8382b-6ee9-4a9d-9937-bf0e6b062ac7",
+            "prefLabel": "SOUTH SANDWICH ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533533,
+            "uuid": "bab83514-4a6a-4ac5-a130-378ee49fdf18",
+            "prefLabel": "NEW BRUNSWICK",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533535,
+            "uuid": "bb293e12-6ffe-48e2-96e5-8f5ae9c137c2",
+            "prefLabel": "AMAZONIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533537,
+            "uuid": "bbbb53c6-a8e8-4db6-8849-07316a5ff6c8",
+            "prefLabel": "NEW JERSEY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533539,
+            "uuid": "bc151f49-5347-401a-a0b6-476656a2df23",
+            "prefLabel": "MALAWI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533541,
+            "uuid": "bc7f49de-7e63-495c-af20-851938d4f6bc",
+            "prefLabel": "BONAIRE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533543,
+            "uuid": "bf35988f-1bab-4b16-87c4-811c572f7b24",
+            "prefLabel": "ETHIOPIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533545,
+            "uuid": "c09d2746-b111-4a47-86a6-3a5932b5ceb6",
+            "prefLabel": "EAST ANTARCTIC CONTINENTAL SHELF",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533547,
+            "uuid": "c23966c4-9e16-484c-a1ef-efcd2354d71c",
+            "prefLabel": "OHIO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533549,
+            "uuid": "c2847793-0bb8-41cf-b3e0-d4e4b27914ce",
+            "prefLabel": "WYOMING",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533551,
+            "uuid": "c322d007-8d19-451b-ba46-daa216782248",
+            "prefLabel": "MEDITERRANEAN SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533553,
+            "uuid": "c3954181-53c1-4847-84dd-cf62815b985f",
+            "prefLabel": "MISSISSIPPI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533555,
+            "uuid": "c42c3695-f569-40f4-8330-9b6fde553abf",
+            "prefLabel": "MISSOURI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533557,
+            "uuid": "c46d59a8-d874-4db8-87f5-d59ecbb79a29",
+            "prefLabel": "ARIZONA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533559,
+            "uuid": "c4ff980e-6edd-400f-9c99-951fa0d0c887",
+            "prefLabel": "NETHERLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533561,
+            "uuid": "c707babd-bca8-46ea-90ab-8cf17a6c50fe",
+            "prefLabel": "SLOVAKIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533563,
+            "uuid": "c7db33e9-b333-4aee-bcf8-8003fba420b0",
+            "prefLabel": "LIBERIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533565,
+            "uuid": "c7e30fc4-c8f0-4945-b161-214ab253f170",
+            "prefLabel": "SASKATCHEWAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533567,
+            "uuid": "c86d3f12-106a-435d-ba9e-d735b306b200",
+            "prefLabel": "VIRGINIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533569,
+            "uuid": "c977c83a-f171-4337-8001-abb2539cdc76",
+            "prefLabel": "QUEBEC",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533571,
+            "uuid": "c9e8dfcd-18ac-405d-b6a0-934ae3c743d3",
+            "prefLabel": "BRITISH ISLES",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533573,
+            "uuid": "caa8da5b-48da-44fd-946c-24717d8bfdec",
+            "prefLabel": "SABA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533575,
+            "uuid": "cae6eb69-7ef9-451c-a77e-4c32a9665ee2",
+            "prefLabel": "BOW SHOCK",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533577,
+            "uuid": "cb410cb0-d8f3-42e2-9500-5576b802a7fa",
+            "prefLabel": "MOROCCO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533579,
+            "uuid": "cbb172c1-a791-4a87-ab39-fe54508b26cd",
+            "prefLabel": "ALAND ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533581,
+            "uuid": "cbbe14fb-a5ee-4236-84ae-cc8dee612b49",
+            "prefLabel": "SPAIN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533583,
+            "uuid": "cd638f0d-4740-4ab3-938d-6f8f284f78ae",
+            "prefLabel": "DAVENPORT",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533585,
+            "uuid": "cd8541b7-973c-4365-bed3-c4ec0ffd9953",
+            "prefLabel": "SOLID EARTH",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533587,
+            "uuid": "cdb3d558-8f51-45bc-8845-7362c63aa0f7",
+            "prefLabel": "UGANDA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533589,
+            "uuid": "ce0984da-1151-41ff-8d92-ab551c9d08bc",
+            "prefLabel": "AUSTRALIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533591,
+            "uuid": "ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24",
+            "prefLabel": "ALASKA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533593,
+            "uuid": "cf249a36-2e82-4d32-84cd-23a4f40bb393",
+            "prefLabel": "ATLANTIC OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533595,
+            "uuid": "cf414436-730e-407c-9175-fa97c4f6429d",
+            "prefLabel": "OKINAWA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533597,
+            "uuid": "d0081284-5cef-484d-b1ee-a6787b197a33",
+            "prefLabel": "CANADA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533599,
+            "uuid": "d019b59f-23d5-4ee5-9b3a-ee8ed75d666d",
+            "prefLabel": "ZAMBIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533601,
+            "uuid": "d1040157-9bcb-4013-b01c-66325a9ac227",
+            "prefLabel": "NEW CALEDONIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533603,
+            "uuid": "d225920a-b027-4931-83d4-b60918251b59",
+            "prefLabel": "NEW ZEALAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533605,
+            "uuid": "d322d155-b8f0-4173-b382-b762a070e4d9",
+            "prefLabel": "MOZAMBIQUE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533607,
+            "uuid": "d3e1cc23-39d3-42af-ab7e-c4f7a59858b7",
+            "prefLabel": "YELLOW SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533609,
+            "uuid": "d401d70a-eacf-4ee7-89a4-70b67f711ccd",
+            "prefLabel": "SOUTH DAKOTA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533611,
+            "uuid": "d40d9651-aa19-4b2c-9764-7371bb64b9a7",
+            "prefLabel": "ARCTIC",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533613,
+            "uuid": "d4c65f0d-f825-4040-8dd3-69b85979101a",
+            "prefLabel": "TAIWAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533615,
+            "uuid": "d4db292f-3097-4843-a6c5-291cf993bea9",
+            "prefLabel": "AMERICAN SAMOA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533617,
+            "uuid": "d5182160-6764-4662-80fe-1ec252d36f20",
+            "prefLabel": "HONG KONG",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533619,
+            "uuid": "d52321c6-ccc4-4a4a-bf94-638e57aaed63",
+            "prefLabel": "SEA OF JAPAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533621,
+            "uuid": "d582a87a-8969-45bf-947a-2864d2d0fcd7",
+            "prefLabel": "FRENCH SOUTHERN TERRITORIES",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533623,
+            "uuid": "d62d5dfe-b9a8-4107-aa4e-126192d5a487",
+            "prefLabel": "TURKMENISTAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533625,
+            "uuid": "d66512f7-e44b-4cf0-a3cd-25750934b5f9",
+            "prefLabel": "TOGO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533627,
+            "uuid": "d68d3910-3eeb-4c18-b95c-561a30f38550",
+            "prefLabel": "LAESO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533629,
+            "uuid": "d6cde6e4-f89b-4cde-8bdf-245a4c67c1ff",
+            "prefLabel": "ROSS SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533631,
+            "uuid": "d729cdbb-b302-42fb-8c72-3068302eada6",
+            "prefLabel": "ST MAARTEN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533633,
+            "uuid": "d7808080-aea5-48f3-b0da-78141ef6324e",
+            "prefLabel": "RED SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533635,
+            "uuid": "d79e134c-a4d0-44f2-9706-cad2b59de992",
+            "prefLabel": "GEORGIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533637,
+            "uuid": "d7fa4d05-8c37-4e23-99eb-4f9a888a0d5d",
+            "prefLabel": "PENNSYLVANIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533639,
+            "uuid": "d85ae1ed-4b5f-440d-aaf0-7f9d605fec3b",
+            "prefLabel": "BERING SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533641,
+            "uuid": "d8ad42ae-624f-48a2-be40-cf04c53e6543",
+            "prefLabel": "WISCONSIN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533643,
+            "uuid": "d8f2db47-29ae-4999-aeca-360e4f98f256",
+            "prefLabel": "MONTENEGRO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533645,
+            "uuid": "d911a6dc-347c-45e6-8836-764fa7aac223",
+            "prefLabel": "SIPLE ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533647,
+            "uuid": "d9f82c3c-0edf-445e-b838-eebc2278d4c1",
+            "prefLabel": "MADAGASCAR",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533649,
+            "uuid": "da0e4453-5f69-4656-a7f1-a68da6640dc8",
+            "prefLabel": "GUAM",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533651,
+            "uuid": "da26d486-1ee6-4689-abe9-5a59b2d572b1",
+            "prefLabel": "CHILE",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533653,
+            "uuid": "dc107028-a895-4ec0-8570-dba4caf0468c",
+            "prefLabel": "VANUATU",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533655,
+            "uuid": "dc173a40-c1a0-4fd0-b059-2db52ca65639",
+            "prefLabel": "SEYCHELLES",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533657,
+            "uuid": "dca3c058-59cd-48b1-9f61-b30557e87e51",
+            "prefLabel": "EASTERN PACIFIC OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533659,
+            "uuid": "dca66e52-9406-4824-8639-602e12dc7d62",
+            "prefLabel": "KYRGYZSTAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533661,
+            "uuid": "dcc856e9-c215-4799-b64d-d406e3da8541",
+            "prefLabel": "ISLA BARTOLOME",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533663,
+            "uuid": "dcef091b-18b5-48bf-b191-69ab7a3511f1",
+            "prefLabel": "WASHINGTON",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533665,
+            "uuid": "dd3f51a1-9fe0-47ce-bdd5-772df3e450d5",
+            "prefLabel": "TONGA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533667,
+            "uuid": "dd540b86-0422-496c-9c6b-5800192d7f8e",
+            "prefLabel": "DRAKE PASSAGE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533669,
+            "uuid": "deeef0af-f305-4fd4-9796-e9e1906e5e15",
+            "prefLabel": "SAHEL",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533671,
+            "uuid": "df8d8422-8497-44c4-a147-1e4d0bdb4ad0",
+            "prefLabel": "LIECHTENSTEIN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533673,
+            "uuid": "dfe30ec4-50e4-402e-9ab0-f5f6d141bb9c",
+            "prefLabel": "DELAWARE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533675,
+            "uuid": "e0137b35-e179-4601-8ff5-9292fafe5959",
+            "prefLabel": "COMOROS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533677,
+            "uuid": "e05da771-e0e8-4ce6-a599-078819c872b5",
+            "prefLabel": "BELARUS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533679,
+            "uuid": "e0d8e561-956e-4450-9948-0568357c6abf",
+            "prefLabel": "MALI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533681,
+            "uuid": "e1078fd4-fa6b-4c35-81ee-648bc086e9c5",
+            "prefLabel": "MACAU",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533683,
+            "uuid": "e10d421b-11fd-4344-b0ad-b4d3eaec2fe5",
+            "prefLabel": "COLORADO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533685,
+            "uuid": "e142eefd-c5cb-48b4-8bdd-87a3ddc7ad8f",
+            "prefLabel": "WAKE ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533687,
+            "uuid": "e17e528b-9730-46ca-9439-09bc2a3cf9c6",
+            "prefLabel": "SIERRA LEONE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533689,
+            "uuid": "e2408bfc-f7d3-49a6-ad87-f025654e3af9",
+            "prefLabel": "ARAL SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533691,
+            "uuid": "e2e7fb18-459b-4d43-8065-ce5ca7e5bdb9",
+            "prefLabel": "LATVIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533693,
+            "uuid": "e3205e96-9379-4b6c-86e0-c012090549f7",
+            "prefLabel": "OCEANIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533695,
+            "uuid": "e325f579-2d4c-4c72-81f4-30cb8723261a",
+            "prefLabel": "GUATEMALA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533697,
+            "uuid": "e4d33a7a-f145-4aec-9d15-e21dc9916aad",
+            "prefLabel": "AUSTRIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533699,
+            "uuid": "e4efa84c-fe5a-49f0-81cd-0a6e7b38074d",
+            "prefLabel": "ANDORRA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533701,
+            "uuid": "e554d02d-0532-4bcb-a8b8-ce869c25cd15",
+            "prefLabel": "OAHU",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533703,
+            "uuid": "e56c5b41-7568-42db-ae22-ae9c1c9dc26a",
+            "prefLabel": "CENTRAL EUROPE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533705,
+            "uuid": "e58dcd83-8521-4d5a-b528-9cf60a50274d",
+            "prefLabel": "POINTE BENEDICTE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533707,
+            "uuid": "e5965e59-3d33-4bab-9220-688c12154702",
+            "prefLabel": "BURUNDI",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533709,
+            "uuid": "e5a8c108-e85c-4aa1-8b59-1da5817287ee",
+            "prefLabel": "POLYNESIA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533711,
+            "uuid": "e6c50f42-9065-4ff8-a172-58d668fde547",
+            "prefLabel": "BOLIVIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533713,
+            "uuid": "ea2ec2ff-f0e5-4366-8255-621ad52f9e5f",
+            "prefLabel": "RHODE ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533715,
+            "uuid": "ea7ae83d-94f5-4d2b-9b1a-6c8ac2b82c78",
+            "prefLabel": "NORTH KOREA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533717,
+            "uuid": "ea8a08f7-9b41-4541-8078-e9c9dd41d7f3",
+            "prefLabel": "MAYOTTE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533719,
+            "uuid": "eabe42d5-1826-4d7c-9988-4a6397873061",
+            "prefLabel": "MALDIVES",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533721,
+            "uuid": "eb176e48-13e2-413c-85d6-b37e16303573",
+            "prefLabel": "CARIBBEAN SEA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533723,
+            "uuid": "ecac51c2-4def-4dac-b965-a5103402395b",
+            "prefLabel": "PALAU",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533725,
+            "uuid": "ed048ffc-f15c-4b27-899e-70d00417685b",
+            "prefLabel": "IOWA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533727,
+            "uuid": "ee6ff7cd-2902-4856-bdf3-dc7cf95d0440",
+            "prefLabel": "TERRA NOVA BAY",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533729,
+            "uuid": "ef8a6ecf-f0ca-4e05-81f9-d3be89e1ddc4",
+            "prefLabel": "SOUTHCENTRAL ASIA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533731,
+            "uuid": "f0757092-c0bf-4937-83bc-6011c682bae9",
+            "prefLabel": "PAPUA NEW GUINEA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533733,
+            "uuid": "f0b2da18-9290-4aaf-8e91-4b52e3d9dfc4",
+            "prefLabel": "ESTONIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533735,
+            "uuid": "f0dd2220-9947-41db-a185-b05aaf26963b",
+            "prefLabel": "CURACAO",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533737,
+            "uuid": "f1d9391a-071b-4264-a409-de3739e516d0",
+            "prefLabel": "VERTICAL LOCATION",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533739,
+            "uuid": "f20c126e-476c-45de-af7e-5800f2237569",
+            "prefLabel": "CORONA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533741,
+            "uuid": "f26c754c-1765-4a45-920e-792b43353a39",
+            "prefLabel": "HUDSON BAY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533743,
+            "uuid": "f2f14e18-261a-426f-96bc-2922264637b2",
+            "prefLabel": "ST PIERRE AND MIQUELON",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533745,
+            "uuid": "f2ffbe58-8792-413b-805b-3e1c8de1c6ff",
+            "prefLabel": "CENTRAL AFRICA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533747,
+            "uuid": "f39da294-1678-4cca-b545-885612e9f7de",
+            "prefLabel": "ARUBA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533749,
+            "uuid": "f487ce0b-ade2-4c3d-976f-3101da973126",
+            "prefLabel": "AZERBAIJAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533751,
+            "uuid": "f58ab39c-6c61-47cf-9117-50aa4e8aa93a",
+            "prefLabel": "GUYANA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533753,
+            "uuid": "f58fbdce-3ee6-4dc1-b9ca-27953d89955f",
+            "prefLabel": "TIMOR-LESTE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533755,
+            "uuid": "f6ed7b70-c420-46e0-97db-2aecd9748788",
+            "prefLabel": "LONG ISLAND SOUND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533757,
+            "uuid": "f7026a7d-92db-4b7b-aa46-c839ff72e79a",
+            "prefLabel": "HIMALAYAS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533759,
+            "uuid": "f8a52f41-6584-457e-9162-7dde82c00d79",
+            "prefLabel": "GOUDIER ISLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533761,
+            "uuid": "f8ea9f90-eb85-42b0-8d30-93e2bdca16ef",
+            "prefLabel": "NORTHERN AFRICA",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533763,
+            "uuid": "f9837873-62cd-402c-af8b-571876942a83",
+            "prefLabel": "MASSACHUSETTS",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533765,
+            "uuid": "fa0ec8a7-ebed-4f2d-834b-1fa6a1c2e0ed",
+            "prefLabel": "SOUTH PACIFIC OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533767,
+            "uuid": "fa3c995d-58d6-4f06-9fb0-ec04e0456d7b",
+            "prefLabel": "AFGHANISTAN",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533769,
+            "uuid": "fab1118b-afa8-4cfd-a05b-ed808392e910",
+            "prefLabel": "WESTERN SAHARA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533771,
+            "uuid": "fb580be4-2d1c-4226-b8bb-53c3ac03c634",
+            "prefLabel": "SOUTH SHETLAND ISLANDS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533773,
+            "uuid": "fb6d9fe3-10b5-4a75-be97-521d4058a4a9",
+            "prefLabel": "SOUTH AFRICA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533775,
+            "uuid": "fbf0a017-08a4-4bc8-a0f8-c178550a3ccb",
+            "prefLabel": "LAKE TANGANYIKA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533777,
+            "uuid": "fc4f2acd-ace7-452b-a540-4162f9e9ddb0",
+            "prefLabel": "CALIFORNIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533779,
+            "uuid": "fc90f569-b291-40f5-bbe1-5c5c21075686",
+            "prefLabel": "SWITZERLAND",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533781,
+            "uuid": "fcc2ca75-790a-4e69-80b6-7af8be328a71",
+            "prefLabel": "MAINE",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533783,
+            "uuid": "fe4326f9-1089-4ede-ae32-5d7bc7d2349b",
+            "prefLabel": "MARTINIQUE",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533785,
+            "uuid": "feff6e5e-27be-4404-af9c-c80b56d48ad4",
+            "prefLabel": "CYPRUS",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533787,
+            "uuid": "ff03e9fc-9882-4a5e-ad0b-830d8f1186cb",
+            "prefLabel": "OCEAN",
+            "conceptScheme": "locations",
+            "isLeaf": "false"
+        },
+        {
+            "id": 533789,
+            "uuid": "ff1cfc9c-5e73-4137-b8e1-d6f4e83e61c4",
+            "prefLabel": "ITALY",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533791,
+            "uuid": "ff28159f-dbc2-4585-bbfd-fbc8cabbffe3",
+            "prefLabel": "CZECH REPUBLIC",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        },
+        {
+            "id": 533793,
+            "uuid": "ffcee960-5527-43e0-bfd0-ad48b1151cf0",
+            "prefLabel": "ALBANIA",
+            "conceptScheme": "locations",
+            "isLeaf": "true"
+        }
+    ]
+}

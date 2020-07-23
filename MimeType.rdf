@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:gcmd="http://gcmd.gsfc.nasa.gov/kms#"><gcmd:gcmd><gcmd:termsOfUse>http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion>9.1.5</gcmd:keywordVersion><gcmd:schemeVersion>2018-10-22 16:22:17</gcmd:schemeVersion></gcmd:gcmd>
+<skos:Concept rdf:about="07bcc60e-1551-44d9-b87e-7c260d230ecb"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/opensearchdescription+xml</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for Opensearch Description files. application/opensearchdescription+xml provides a human-readable text description of the search engine.
+
+Parent: OpenSearchDescription
+Restrictions: The value must contain 1024 or fewer characters of plain text. The value must not contain HTML or other markup.
+Requirements: This element must appear exactly once.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:51:26.0 [sritz]  
+update Definition (MIME Type for Opensearch Description files. application/opensearchdescription+xml provides a human-readable text description of the search engine.
+
+Parent: OpenSearchDescription
+Restrictions: The value must contain 1024 or fewer characters of plain text. The value must not contain HTML or other markup.
+Requirements: This element must appear exactly once.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 14:46:16.0 [sritz]  
+update Definition (application/opensearchdescription+xml provides a human-readable text description of the search engine.
+
+Parent: OpenSearchDescription
+Restrictions: The value must contain 1024 or fewer characters of plain text. The value must not contain HTML or other markup.
+Requirements: This element must appear exactly once.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:32:46.0 [sritz]  
+insert Definition (id: null
+text: application/opensearchdescription+xml provides a Contains a human-readable text description of the search engine.
+
+Parent: OpenSearchDescription
+Restrictions: The value must contain 1024 or fewer characters of plain text. The value must not contain HTML or other markup.
+Requirements: This element must appear exactly once.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-07-17 04:26:50.0 [mmorahan] Insert Concept 
+add broader relation (application/opensearchdescription+xml [07bcc60e-1551-44d9-b87e-7c260d230ecb,309819] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="091b6afc-ab75-4790-8e71-3b32ae8bd0a4"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">text/xml</skos:prefLabel>
+   <skos:definition xml:lang="en">Mime Type for an unprocessed, source XML document that is readable by casual users. Application/xml is preferable when the XML MIME entity is unreadable by casual users.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:40:26.0 [sritz]  
+insert Definition (id: null
+text: Mime Type for an unprocessed, source XML document that is readable by casual users. Application/xml is preferable when the XML MIME entity is unreadable by casual users.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:03:09.0 [sritz] Insert Concept 
+add broader relation (text/xml [091b6afc-ab75-4790-8e71-3b32ae8bd0a4,310349] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="2065aabb-9beb-4c84-8ad7-0e16cfed17cf"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">text/csv</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for CSV files.
+
+In computing, a comma-separated values (CSV) file stores tabular data (numbers and text) in plain text. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:58:45.0 [sritz]  
+update Definition (MIME Type for CSV files.
+
+In computing, a comma-separated values (CSV) file stores tabular data (numbers and text) in plain text. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 14:21:11.0 [sritz]  
+insert Definition (id: null
+text: In computing, a comma-separated values (CSV) file stores tabular data (numbers and text) in plain text. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:02:55.0 [sritz] Insert Concept 
+add broader relation (text/csv [2065aabb-9beb-4c84-8ad7-0e16cfed17cf,310345] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="2b192915-32a8-4b68-a720-8ca8a84f04ca"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/x-netcdf</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for NetCDF files.
+
+NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:54:45.0 [sritz]  
+update Definition (MIME Type for NetCDF files.
+
+NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:45:13.0 [sritz]  
+insert Definition (id: null
+text: NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 17:58:56.0 [sritz] Insert Concept 
+add broader relation (application/x-netcdf [2b192915-32a8-4b68-a720-8ca8a84f04ca,310289] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="3195dfce-51db-4b40-aadb-808b43573743"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">text/css</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for CSS files.
+
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language.[1] Although most often used to set the visual style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any XML document, including plain XML, SVG and XUL, and is applicable to rendering in speech, or on other media. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:58:28.0 [sritz]  
+update Definition (MIME Type for CSS files.
+
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language.[1] Although most often used to set the visual style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any XML document, including plain XML, SVG and XUL, and is applicable to rendering in speech, or on other media. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 14:19:32.0 [sritz]  
+insert Definition (id: null
+text: Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language.[1] Although most often used to set the visual style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any XML document, including plain XML, SVG and XUL, and is applicable to rendering in speech, or on other media. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:03:18.0 [sritz] Insert Concept 
+add broader relation (text/css [3195dfce-51db-4b40-aadb-808b43573743,310353] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="3e048f9e-8f93-4f0c-9f0b-20bafb909c68"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">image/tiff</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for TIFF files.
+
+Tagged Image File Format, abbreviated TIFF or TIF, is a computer file format for storing raster graphics images, popular among graphic artists, the publishing industry,[1] and photographers. TIFF is widely supported by scanning, faxing, word processing, optical character recognition, image manipulation, desktop publishing, and page-layout applications.[2] The format was created by Aldus Corporation for use in desktop publishing. It published the latest version 6.0 in 1992, subsequently updated with an Adobe Systems copyright after the latter acquired Aldus in 1994.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:57:46.0 [sritz]  
+update Definition (MIME Type for TIFF files.
+
+Tagged Image File Format, abbreviated TIFF or TIF, is a computer file format for storing raster graphics images, popular among graphic artists, the publishing industry,[1] and photographers. TIFF is widely supported by scanning, faxing, word processing, optical character recognition, image manipulation, desktop publishing, and page-layout applications.[2] The format was created by Aldus Corporation for use in desktop publishing. It published the latest version 6.0 in 1992, subsequently updated with an Adobe Systems copyright after the latter acquired Aldus in 1994.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 14:16:33.0 [sritz]  
+insert Definition (id: null
+text: Tagged Image File Format, abbreviated TIFF or TIF, is a computer file format for storing raster graphics images, popular among graphic artists, the publishing industry,[1] and photographers. TIFF is widely supported by scanning, faxing, word processing, optical character recognition, image manipulation, desktop publishing, and page-layout applications.[2] The format was created by Aldus Corporation for use in desktop publishing. It published the latest version 6.0 in 1992, subsequently updated with an Adobe Systems copyright after the latter acquired Aldus in 1994.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:04:14.0 [sritz] Insert Concept 
+add broader relation (image/tiff [3e048f9e-8f93-4f0c-9f0b-20bafb909c68,310365] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="3f697f52-6a1c-4e2c-bd4b-13aaaf45f2e6"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">image/jpeg</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for JPEG files.
+
+JPEG is a commonly used method of lossy compression for digital images, particularly for those images produced by digital photography. The degree of compression can be adjusted, allowing a selectable tradeoff between storage size and image quality. JPEG typically achieves 10:1 compression with little perceptible loss in image quality.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:57:11.0 [sritz]  
+update Definition (MIME Type for JPEG files.
+
+JPEG is a commonly used method of lossy compression for digital images, particularly for those images produced by digital photography. The degree of compression can be adjusted, allowing a selectable tradeoff between storage size and image quality. JPEG typically achieves 10:1 compression with little perceptible loss in image quality.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 14:02:32.0 [sritz]  
+insert Definition (id: null
+text: JPEG is a commonly used method of lossy compression for digital images, particularly for those images produced by digital photography. The degree of compression can be adjusted, allowing a selectable tradeoff between storage size and image quality. JPEG typically achieves 10:1 compression with little perceptible loss in image quality.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-22 08:39:59.0 [mgenazzi] Insert Concept 
+add broader relation (image/jpeg [3f697f52-6a1c-4e2c-bd4b-13aaaf45f2e6,278339] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,265827]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="40bdf6e5-780c-43e2-ab8e-e5dfae4bd779"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/gml+xml</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for GML files. 
+
+GML (Geography Markup Language) is an international standard adopted by both the Open Geospatial Consortium (OGC) and International Organization for Standardization (ISO).</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:48:22.0 [sritz]  
+update Definition (MIME Type for GML files. 
+
+GML (Geography Markup Language) is an international standard adopted by both the Open Geospatial Consortium (OGC) and International Organization for Standardization (ISO).); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:21:54.0 [sritz]  
+insert Definition (id: null
+text: GML (Geography Markup Language) is an international standard adopted by both the Open Geospatial Consortium (OGC) and International Organization for Standardization (ISO).
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 17:59:07.0 [sritz] Insert Concept 
+add broader relation (application/gml+xml [40bdf6e5-780c-43e2-ab8e-e5dfae4bd779,310293] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="40cb0bdd-67f4-43c8-aa57-2bdc260e6950"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">text/javascript</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for JavaScript files.
+
+JavaScript often abbreviated as JS, is a high-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted programming language. Alongside HTML and CSS, JavaScript is one of the three core technologies of World Wide Web content production. It is used to make webpages interactive and provide online programs, including video games. The majority of websites employ it, and all modern web browsers support it without the need for plug-ins by means of a built-in JavaScript engine. Each of the many JavaScript engines represent a different implementation of JavaScript, all based on the ECMAScript specification, with some engines not supporting the spec fully, and with many engines supporting additional features beyond ECMA.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:59:34.0 [sritz]  
+update Definition (MIME Type for JavaScript files.
+
+JavaScript often abbreviated as JS, is a high-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted programming language. Alongside HTML and CSS, JavaScript is one of the three core technologies of World Wide Web content production. It is used to make webpages interactive and provide online programs, including video games. The majority of websites employ it, and all modern web browsers support it without the need for plug-ins by means of a built-in JavaScript engine. Each of the many JavaScript engines represent a different implementation of JavaScript, all based on the ECMAScript specification, with some engines not supporting the spec fully, and with many engines supporting additional features beyond ECMA.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 14:23:45.0 [sritz]  
+insert Definition (id: null
+text: JavaScript often abbreviated as JS, is a high-level, dynamic, weakly typed, prototype-based, multi-paradigm, and interpreted programming language. Alongside HTML and CSS, JavaScript is one of the three core technologies of World Wide Web content production. It is used to make webpages interactive and provide online programs, including video games. The majority of websites employ it, and all modern web browsers support it without the need for plug-ins by means of a built-in JavaScript engine. Each of the many JavaScript engines represent a different implementation of JavaScript, all based on the ECMAScript specification, with some engines not supporting the spec fully, and with many engines supporting additional features beyond ECMA.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:03:28.0 [sritz] Insert Concept 
+add broader relation (text/javascript [40cb0bdd-67f4-43c8-aa57-2bdc260e6950,310357] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="415a10b5-7286-4195-a88e-00c7b995b7d0"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">text/html</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for HTML files.
+
+Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript it forms a triad of cornerstone technologies for the World Wide Web.[3] Web browsers receive HTML documents from a web server or from local storage and render them into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:59:15.0 [sritz]  
+update Definition (MIME Type for HTML files.
+
+Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript it forms a triad of cornerstone technologies for the World Wide Web.[3] Web browsers receive HTML documents from a web server or from local storage and render them into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 14:22:43.0 [sritz]  
+insert Definition (id: null
+text: Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript it forms a triad of cornerstone technologies for the World Wide Web.[3] Web browsers receive HTML documents from a web server or from local storage and render them into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-23 15:58:59.0 [mgenazzi] Insert Concept 
+add broader relation (text/html [415a10b5-7286-4195-a88e-00c7b995b7d0,278431] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,265827]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="4e5db77b-bc1d-4f7c-9f13-e3e54e0b2e3b"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/zip</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for ZIP files.
+
+ZIP is an archive file format that supports lossless data compression. A .ZIP file may contain one or more files or directories that may have been compressed. The .ZIP file format permits a number of compression algorithms, though DEFLATE is the most common. This format was originally created in 1989 by Phil Katz, and was first implemented in PKWARE, Inc.'s PKZIP utility,[2] as a replacement for the previous ARC compression format by Thom Henderson. The .ZIP format is now supported by many software utilities other than PKZIP. Microsoft has included built-in .ZIP support (under the name "compressed folders") in versions of Microsoft Windows since 1998. Apple has included built-in .ZIP support in Mac OS X 10.3 (via BOMArchiveHelper, now Archive Utility) and later. Most free operating systems have built in support for .ZIP in similar manners to Windows and Mac OS X.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:55:58.0 [sritz]  
+update Definition (MIME Type for ZIP files.
+
+ZIP is an archive file format that supports lossless data compression. A .ZIP file may contain one or more files or directories that may have been compressed. The .ZIP file format permits a number of compression algorithms, though DEFLATE is the most common. This format was originally created in 1989 by Phil Katz, and was first implemented in PKWARE, Inc.'s PKZIP utility,[2] as a replacement for the previous ARC compression format by Thom Henderson. The .ZIP format is now supported by many software utilities other than PKZIP. Microsoft has included built-in .ZIP support (under the name "compressed folders") in versions of Microsoft Windows since 1998. Apple has included built-in .ZIP support in Mac OS X 10.3 (via BOMArchiveHelper, now Archive Utility) and later. Most free operating systems have built in support for .ZIP in similar manners to Windows and Mac OS X.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:53:03.0 [sritz]  
+insert Definition (id: null
+text: ZIP is an archive file format that supports lossless data compression. A .ZIP file may contain one or more files or directories that may have been compressed. The .ZIP file format permits a number of compression algorithms, though DEFLATE is the most common. This format was originally created in 1989 by Phil Katz, and was first implemented in PKWARE, Inc.'s PKZIP utility,[2] as a replacement for the previous ARC compression format by Thom Henderson. The .ZIP format is now supported by many software utilities other than PKZIP. Microsoft has included built-in .ZIP support (under the name "compressed folders") in versions of Microsoft Windows since 1998. Apple has included built-in .ZIP support in Mac OS X 10.3 (via BOMArchiveHelper, now Archive Utility) and later. Most free operating systems have built in support for .ZIP in similar manners to Windows and Mac OS X.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:02:16.0 [sritz] Insert Concept 
+add broader relation (application/zip [4e5db77b-bc1d-4f7c-9f13-e3e54e0b2e3b,310333] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="4e80047b-c50b-4805-ac68-789dbc38803f"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/x-hdf5</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for HDF5 files.
+
+HDF5 is a data model, library, and file format for storing and managing data. It supports an unlimited variety of datatypes, and is designed for flexible and efficient I/O and for high volume and complex data. HDF5 is portable and is extensible, allowing applications to evolve in their use of HDF5. The HDF5 Technology suite includes tools and applications for managing, manipulating, viewing, and analyzing data in the HDF5 format.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:54:25.0 [sritz]  
+update Definition (MIME Type for HDF5 files.
+
+HDF5 is a data model, library, and file format for storing and managing data. It supports an unlimited variety of datatypes, and is designed for flexible and efficient I/O and for high volume and complex data. HDF5 is portable and is extensible, allowing applications to evolve in their use of HDF5. The HDF5 Technology suite includes tools and applications for managing, manipulating, viewing, and analyzing data in the HDF5 format.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:43:39.0 [sritz]  
+insert Definition (id: null
+text: HDF5 is a data model, library, and file format for storing and managing data. It supports an unlimited variety of datatypes, and is designed for flexible and efficient I/O and for high volume and complex data. HDF5 is portable and is extensible, allowing applications to evolve in their use of HDF5. The HDF5 Technology suite includes tools and applications for managing, manipulating, viewing, and analyzing data in the HDF5 format.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 17:59:56.0 [sritz] Insert Concept 
+add broader relation (application/x-hdf5 [4e80047b-c50b-4805-ac68-789dbc38803f,310305] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="5e70beda-396e-4cc8-bdd5-70dfc8a1142e"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/x-tar-gz</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for .tar.gz files.
+
+Under Unix, tar archives are the most common means of distributing bundles of files, and gzip is the most common compression program.
+A .tar.gz file is simply a bundle of files packaged with tar, and subsequently compressed with gzip.
+
+Sometimes the extension ".tgz" is used as an abbreviation for ".tar.gz". This is especially common on platforms such as MS-DOS that have arbitrary constraints on filenames (no more than one dot, and no more than three characters after the dot).</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:55:26.0 [sritz]  
+update Definition (MIME Type for .tar.gz files.
+
+Under Unix, tar archives are the most common means of distributing bundles of files, and gzip is the most common compression program.
+A .tar.gz file is simply a bundle of files packaged with tar, and subsequently compressed with gzip.
+
+Sometimes the extension ".tgz" is used as an abbreviation for ".tar.gz". This is especially common on platforms such as MS-DOS that have arbitrary constraints on filenames (no more than one dot, and no more than three characters after the dot).); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:47:30.0 [sritz]  
+insert Definition (id: null
+text: Under Unix, tar archives are the most common means of distributing bundles of files, and gzip is the most common compression program.
+A .tar.gz file is simply a bundle of files packaged with tar, and subsequently compressed with gzip.
+
+Sometimes the extension ".tgz" is used as an abbreviation for ".tar.gz". This is especially common on platforms such as MS-DOS that have arbitrary constraints on filenames (no more than one dot, and no more than three characters after the dot).
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:02:23.0 [sritz] Insert Concept 
+add broader relation (application/x-tar-gz [5e70beda-396e-4cc8-bdd5-70dfc8a1142e,310337] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="627269ae-ba93-492e-8c31-cc4de1d69810"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/pdf</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for PDF files.
+
+Portable Document Format (PDF) is a file format used to present documents in a manner independent of application software, hardware, and operating systems.[3] Each PDF file encapsulates a complete description of a fixed-layout flat document, including the text, fonts, graphics, and other information needed to display it.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:51:44.0 [sritz]  
+update Definition (MIME Type for PDF files.
+
+Portable Document Format (PDF) is a file format used to present documents in a manner independent of application software, hardware, and operating systems.[3] Each PDF file encapsulates a complete description of a fixed-layout flat document, including the text, fonts, graphics, and other information needed to display it.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:33:56.0 [sritz]  
+insert Definition (id: null
+text: Portable Document Format (PDF) is a file format used to present documents in a manner independent of application software, hardware, and operating systems.[3] Each PDF file encapsulates a complete description of a fixed-layout flat document, including the text, fonts, graphics, and other information needed to display it.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-22 08:39:45.0 [mgenazzi] Insert Concept 
+add broader relation (application/pdf [627269ae-ba93-492e-8c31-cc4de1d69810,278331] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,265827]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="7c99ff72-5239-424d-a0bf-9712c33ea76d"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/vnd.ms-excel</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for Microsoft Excel files.
+
+Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. It has been a very widely applied spreadsheet for these platforms, especially since version 5 in 1993, and it has replaced Lotus 1-2-3 as the industry standard for spreadsheets. Excel forms part of Microsoft Office.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:53:09.0 [sritz]  
+update Definition (MIME Type for Microsoft Excel files.
+
+Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. It has been a very widely applied spreadsheet for these platforms, especially since version 5 in 1993, and it has replaced Lotus 1-2-3 as the industry standard for spreadsheets. Excel forms part of Microsoft Office.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:39:24.0 [sritz]  
+insert Definition (id: null
+text: Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. It has been a very widely applied spreadsheet for these platforms, especially since version 5 in 1993, and it has replaced Lotus 1-2-3 as the industry standard for spreadsheets. Excel forms part of Microsoft Office.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:01:49.0 [sritz] Insert Concept 
+add broader relation (application/vnd.ms-excel [7c99ff72-5239-424d-a0bf-9712c33ea76d,310321] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="80045dcb-18ee-463a-8baf-ffcabed510ea"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/vnd.google-earth.kml+xml</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for KML files.
+
+KML is an acronym for Keyhole Markup Langage, which stems from the time before the Keyhole Corporation was acquried by Google, and their Keyhole application redesigned and rebranded as Google Earth.
+
+KML is an XML-based file format and grammar for modeling and storing 
+geographic features such as points, lines, images, and polygons for display in 
+a geospatial browser.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:52:14.0 [sritz]  
+update Definition (MIME Type for KML files.
+
+KML is an acronym for Keyhole Markup Langage, which stems from the time before the Keyhole Corporation was acquried by Google, and their Keyhole application redesigned and rebranded as Google Earth.
+
+KML is an XML-based file format and grammar for modeling and storing 
+geographic features such as points, lines, images, and polygons for display in 
+a geospatial browser.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:35:17.0 [sritz]  
+insert Definition (id: null
+text: KML is an acronym for Keyhole Markup Langage, which stems from the time before 
+the Keyhole Corporation was acquried by Google, and their Keyhole application 
+redesigned and rebranded as Google Earth.
+
+KML is an XML-based file format and grammar for modeling and storing 
+geographic features such as points, lines, images, and polygons for display in 
+a geospatial browser.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 17:59:20.0 [sritz] Insert Concept 
+add broader relation (application/vnd.google-earth.kml+xml [80045dcb-18ee-463a-8baf-ffcabed510ea,310297] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="8542dd4a-a11b-475d-8d46-cad785a7f510"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/json</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for JSON files.
+
+JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language, Standard ECMA-262 3rd Edition - December 1999. JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:49:31.0 [sritz]  
+update Definition (MIME Type for JSON files.
+
+JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language, Standard ECMA-262 3rd Edition - December 1999. JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:24:54.0 [sritz]  
+insert Definition (id: null
+text: JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language, Standard ECMA-262 3rd Edition - December 1999. JSON is a text format that is completely language independent but uses conventions that are familiar to programmers of the C-family of languages, including C, C++, C#, Java, JavaScript, Perl, Python, and many others. These properties make JSON an ideal data-interchange language.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 17:58:41.0 [sritz] Insert Concept 
+add broader relation (application/json [8542dd4a-a11b-475d-8d46-cad785a7f510,310285] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="a8ee535a-8bc8-46fd-8b97-917bd7ea7666"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/gzip</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for gzip files. 
+
+gzip is a file format and a software application used for file compression and decompression. The program was created by Jean-loup Gailly and Mark Adler as a free software replacement for the compress program used in early Unix systems, and intended for use by GNU (the "g" is from "GNU"). Version 0.1 was first publicly released on 31 October 1992, and version 1.0 followed in February 1993.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:49:07.0 [sritz]  
+update Definition (MIME Type for gzip files. 
+
+gzip is a file format and a software application used for file compression and decompression. The program was created by Jean-loup Gailly and Mark Adler as a free software replacement for the compress program used in early Unix systems, and intended for use by GNU (the "g" is from "GNU"). Version 0.1 was first publicly released on 31 October 1992, and version 1.0 followed in February 1993.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:23:25.0 [sritz]  
+insert Definition (id: null
+text: gzip is a file format and a software application used for file compression and decompression. The program was created by Jean-loup Gailly and Mark Adler as a free software replacement for the compress program used in early Unix systems, and intended for use by GNU (the "g" is from "GNU"). Version 0.1 was first publicly released on 31 October 1992, and version 1.0 followed in February 1993.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:02:03.0 [sritz] Insert Concept 
+add broader relation (application/gzip [a8ee535a-8bc8-46fd-8b97-917bd7ea7666,310329] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="ad61b259-8131-4e0e-aac8-a800a0a51ca6"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">image/gif</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for GIF iles.
+
+The Graphics Interchange Format (better known by its acronym GIF is a bitmap image format that was developed by a team at the bulletin board service (BBS) provider CompuServe led by American computer scientist Steve Wilhite on June 15, 1987.[1] It has since come into widespread usage on the World Wide Web due to its wide support and portability.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:56:51.0 [sritz]  
+update Definition (MIME Type for GIF iles.
+
+The Graphics Interchange Format (better known by its acronym GIF is a bitmap image format that was developed by a team at the bulletin board service (BBS) provider CompuServe led by American computer scientist Steve Wilhite on June 15, 1987.[1] It has since come into widespread usage on the World Wide Web due to its wide support and portability.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 14:03:04.0 [sritz]  
+update Definition (The Graphics Interchange Format (better known by its acronym GIF is a bitmap image format that was developed by a team at the bulletin board service (BBS) provider CompuServe led by American computer scientist Steve Wilhite on June 15, 1987.[1] It has since come into widespread usage on the World Wide Web due to its wide support and portability.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 14:00:00.0 [sritz]  
+insert Definition (id: null
+text: The Graphics Interchange Format (better known by its acronym GIF /ˈdʒɪf/ JIF or /ˈɡɪf/ GHIF) is a bitmap image format that was developed by a team at the bulletin board service (BBS) provider CompuServe led by American computer scientist Steve Wilhite on June 15, 1987.[1] It has since come into widespread usage on the World Wide Web due to its wide support and portability.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:04:00.0 [sritz] Rename Concept 
+update PrefLabel (image/gif); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:03:42.0 [sritz] Insert Concept 
+add broader relation (mage/gif [ad61b259-8131-4e0e-aac8-a800a0a51ca6,310361] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="b0a3e733-4d1b-486f-b56c-c405a5e4367b"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/x-hdf</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for HDF files.
+
+Hierarchical Data Format (HDF) is a set of file formats (HDF4, HDF5) designed to store and organize large amounts of data. Originally developed at the National Center for Supercomputing Applications, it is supported by The HDF Group, a non-profit corporation whose mission is to ensure continued development of HDF5 technologies and the continued accessibility of data stored in HDF.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:53:58.0 [sritz]  
+update Definition (MIME Type for HDF files.
+
+Hierarchical Data Format (HDF) is a set of file formats (HDF4, HDF5) designed to store and organize large amounts of data. Originally developed at the National Center for Supercomputing Applications, it is supported by The HDF Group, a non-profit corporation whose mission is to ensure continued development of HDF5 technologies and the continued accessibility of data stored in HDF.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:43:00.0 [sritz]  
+insert Definition (id: null
+text: Hierarchical Data Format (HDF) is a set of file formats (HDF4, HDF5) designed to store and organize large amounts of data. Originally developed at the National Center for Supercomputing Applications, it is supported by The HDF Group, a non-profit corporation whose mission is to ensure continued development of HDF5 technologies and the continued accessibility of data stored in HDF.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 17:59:46.0 [sritz] Insert Concept 
+add broader relation (application/x-hdf [b0a3e733-4d1b-486f-b56c-c405a5e4367b,310301] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="b403039f-a107-4a84-88a1-29e4d1b30b0b"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">text/markdown</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for Markdown files.
+
+Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats using a tool by the same name.[8] Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. As the initial description of Markdown contained ambiguities and unanswered questions, many implementations and extensions of Markdown appeared over the years to answer these issues.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 15:00:00.0 [sritz]  
+update Definition (MIME Type for Markdown files.
+
+Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats using a tool by the same name.[8] Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. As the initial description of Markdown contained ambiguities and unanswered questions, many implementations and extensions of Markdown appeared over the years to answer these issues.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 14:24:54.0 [sritz]  
+insert Definition (id: null
+text: Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats using a tool by the same name.[8] Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. As the initial description of Markdown contained ambiguities and unanswered questions, many implementations and extensions of Markdown appeared over the years to answer these issues.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:02:42.0 [sritz] Insert Concept 
+add broader relation (text/markdown [b403039f-a107-4a84-88a1-29e4d1b30b0b,310341] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="b7687b8f-7a24-4150-bd9d-28e0d53f7554"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">image/bmp</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for BMP files.
+
+The BMP file format, also known as bitmap image file or device independent bitmap (DIB) file format or simply a bitmap, is a raster graphics image file format used to store bitmap digital images, independently of the display device (such as a graphics adapter), especially on Microsoft Windows[1] and OS/2[2] operating systems.
+
+The BMP file format is capable of storing two-dimensional digital images both monochrome and color, in various color depths, and optionally with data compression, alpha channels, and color profiles. The Windows Metafile (WMF) specification covers the BMP file format.[3] Among others wingdi.h defines BMP constants and structures.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:56:16.0 [sritz]  
+update Definition (MIME Type for BMP files.
+
+The BMP file format, also known as bitmap image file or device independent bitmap (DIB) file format or simply a bitmap, is a raster graphics image file format used to store bitmap digital images, independently of the display device (such as a graphics adapter), especially on Microsoft Windows[1] and OS/2[2] operating systems.
+
+The BMP file format is capable of storing two-dimensional digital images both monochrome and color, in various color depths, and optionally with data compression, alpha channels, and color profiles. The Windows Metafile (WMF) specification covers the BMP file format.[3] Among others wingdi.h defines BMP constants and structures.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:55:30.0 [sritz]  
+insert Definition (id: null
+text: The BMP file format, also known as bitmap image file or device independent bitmap (DIB) file format or simply a bitmap, is a raster graphics image file format used to store bitmap digital images, independently of the display device (such as a graphics adapter), especially on Microsoft Windows[1] and OS/2[2] operating systems.
+
+The BMP file format is capable of storing two-dimensional digital images both monochrome and color, in various color depths, and optionally with data compression, alpha channels, and color profiles. The Windows Metafile (WMF) specification covers the BMP file format.[3] Among others wingdi.h defines BMP constants and structures.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:04:54.0 [sritz] Insert Concept 
+add broader relation (image/bmp [b7687b8f-7a24-4150-bd9d-28e0d53f7554,310377] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="b77e64ef-ce80-4dab-b552-c6062990a6e0"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/octet-stream</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for "octet-stream" files.
+
+The "octet-stream" subtype is used to indicate that a body contains arbitrary binary data.  
+
+The set of currently defined parameters is:
+
+ (1)   TYPE -- the general type or category of binary data.
+       This is intended as information for the human recipient
+       rather than for any automatic processing.
+
+ (2)   PADDING -- the number of bits of padding that were
+       appended to the bit-stream comprising the actual
+       contents to produce the enclosed 8bit byte-oriented
+       data.  This is useful for enclosing a bit-stream in a
+       body when the total number of bits is not a multiple of
+       8.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:50:36.0 [sritz]  
+update Definition (MIME Type for "octet-stream" files.
+
+The "octet-stream" subtype is used to indicate that a body contains arbitrary binary data.  
+
+The set of currently defined parameters is:
+
+ (1)   TYPE -- the general type or category of binary data.
+       This is intended as information for the human recipient
+       rather than for any automatic processing.
+
+ (2)   PADDING -- the number of bits of padding that were
+       appended to the bit-stream comprising the actual
+       contents to produce the enclosed 8bit byte-oriented
+       data.  This is useful for enclosing a bit-stream in a
+       body when the total number of bits is not a multiple of
+       8.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:27:24.0 [sritz]  
+insert Definition (id: null
+text: The "octet-stream" subtype is used to indicate that a body contains
+arbitrary binary data.  The set of currently defined parameters is:
+
+ (1)   TYPE -- the general type or category of binary data.
+       This is intended as information for the human recipient
+       rather than for any automatic processing.
+
+ (2)   PADDING -- the number of bits of padding that were
+       appended to the bit-stream comprising the actual
+       contents to produce the enclosed 8bit byte-oriented
+       data.  This is useful for enclosing a bit-stream in a
+       body when the total number of bits is not a multiple of
+       8.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:00:49.0 [sritz] Insert Concept 
+add broader relation (application/octet-stream [b77e64ef-ce80-4dab-b552-c6062990a6e0,310313] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="c1a8dbb7-312d-4481-998e-58d126b32080"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/x-vnd.iso.19139-2+xml</skos:prefLabel>
+   <skos:definition xml:lang="en">ISO 19139-2:2012 defines Geographic Metadata for imagery and gridded data (gmi) encoding. This is an XML Schema implementation derived from ISO 19115-2.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2018-10-22 16:22:17.0 [sritz]  
+update PrefLabel (application/x-vnd.iso.19139-2+xml); 
+</skos:changeNote>
+   <skos:changeNote>2018-10-19 12:40:29.0 [mmorahan]  
+insert Definition (id: null
+text: ISO 19139-2:2012 defines Geographic Metadata for imagery and gridded data (gmi) encoding. This is an XML Schema implementation derived from ISO 19115-2.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-10-19 12:35:22.0 [mmorahan] Insert Concept 
+add broader relation (application/vnd.iso.19139-2+xml [c1a8dbb7-312d-4481-998e-58d126b32080,368183] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,354773]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="c79a0e11-2774-4cf3-a194-45b9e58a93fd"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/msword</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for Microsoft Word files.
+
+Microsoft Word is a word processor developed by Microsoft. It was first released on October 25, 1983[4] under the name Multi-Tool Word for Xenix systems.[5][6][7] Subsequent versions were later written for several other platforms including IBM PCs running DOS (1983), Apple Macintosh running Classic Mac OS (1985), AT&amp;T Unix PC (1985), Atari ST (1988), OS/2 (1989), Microsoft Windows (1989), SCO Unix (1994), and macOS (2001). Commercial versions of Word are licensed as a standalone product or as a component of Microsoft Office, Windows RT or the discontinued Microsoft Works suite. Microsoft Word Viewer and Office Online are freeware editions of Word with limited features.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:49:56.0 [sritz]  
+update Definition (MIME Type for Microsoft Word files.
+
+Microsoft Word is a word processor developed by Microsoft. It was first released on October 25, 1983[4] under the name Multi-Tool Word for Xenix systems.[5][6][7] Subsequent versions were later written for several other platforms including IBM PCs running DOS (1983), Apple Macintosh running Classic Mac OS (1985), AT&amp;T Unix PC (1985), Atari ST (1988), OS/2 (1989), Microsoft Windows (1989), SCO Unix (1994), and macOS (2001). Commercial versions of Word are licensed as a standalone product or as a component of Microsoft Office, Windows RT or the discontinued Microsoft Works suite. Microsoft Word Viewer and Office Online are freeware editions of Word with limited features.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:26:17.0 [sritz]  
+insert Definition (id: null
+text: Microsoft Word is a word processor developed by Microsoft. It was first released on October 25, 1983[4] under the name Multi-Tool Word for Xenix systems.[5][6][7] Subsequent versions were later written for several other platforms including IBM PCs running DOS (1983), Apple Macintosh running Classic Mac OS (1985), AT&amp;T Unix PC (1985), Atari ST (1988), OS/2 (1989), Microsoft Windows (1989), SCO Unix (1994), and macOS (2001). Commercial versions of Word are licensed as a standalone product or as a component of Microsoft Office, Windows RT or the discontinued Microsoft Works suite. Microsoft Word Viewer and Office Online are freeware editions of Word with limited features.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-22 08:39:37.0 [mgenazzi] Insert Concept 
+add broader relation (application/msword [c79a0e11-2774-4cf3-a194-45b9e58a93fd,278327] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,265827]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="d3ef6fe7-b6cd-45b4-9a27-d42fa3289116"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">image/vnd.collada+xml</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for COLLADA files.
+
+COLLADA (COLLAborative Design Activity) is an interchange file format for interactive 3D applications. It is managed by the nonprofit technology consortium, the Khronos Group, and has been adopted by ISO as a publicly available specification, ISO/PAS 17506.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:58:06.0 [sritz]  
+update Definition (MIME Type for COLLADA files.
+
+COLLADA (COLLAborative Design Activity) is an interchange file format for interactive 3D applications. It is managed by the nonprofit technology consortium, the Khronos Group, and has been adopted by ISO as a publicly available specification, ISO/PAS 17506.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 14:17:53.0 [sritz]  
+insert Definition (id: null
+text: COLLADA (COLLAborative Design Activity) is an interchange file format for interactive 3D applications. It is managed by the nonprofit technology consortium, the Khronos Group, and has been adopted by ISO as a publicly available specification, ISO/PAS 17506.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:04:43.0 [sritz] Insert Concept 
+add broader relation (image/vnd.collada+xml [d3ef6fe7-b6cd-45b4-9a27-d42fa3289116,310373] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="dd6c5cea-4100-4973-9ba9-659fdd7fd608"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/xml</skos:prefLabel>
+   <skos:definition xml:lang="en">Mime Type when the XML MIME entity is unreadable by casual users.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:41:43.0 [sritz]  
+update Definition (Mime Type when the XML MIME entity is unreadable by casual users.); 
+update Definition (https://tools.ietf.org/html/rfc3023); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:51:28.0 [sritz]  
+insert Definition (id: null
+text: Extensible Markup Language (XML) is a simple, very flexible text format derived from SGML (ISO 8879). Originally designed to meet the challenges of large-scale electronic publishing, XML is also playing an increasingly important role in the exchange of a wide variety of data on the Web and elsewhere.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-22 08:39:52.0 [mgenazzi] Insert Concept 
+add broader relation (application/xml [dd6c5cea-4100-4973-9ba9-659fdd7fd608,278335] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,265827]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="e384b8a8-8cec-4230-9ebe-4db76bbef706"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/x-bufr</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for BUFR files.
+
+The Binary Universal Form for the Representation of meteorological data (BUFR) is a binary data format maintained by the World Meteorological Organization (WMO). The latest version is BUFR Edition 4. BUFR Edition 3 is also considered current for operational use.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:53:35.0 [sritz]  
+update Definition (MIME Type for BUFR files.
+
+The Binary Universal Form for the Representation of meteorological data (BUFR) is a binary data format maintained by the World Meteorological Organization (WMO). The latest version is BUFR Edition 4. BUFR Edition 3 is also considered current for operational use.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:41:27.0 [sritz]  
+insert Definition (id: null
+text: The Binary Universal Form for the Representation of meteorological data (BUFR) is a binary data format maintained by the World Meteorological Organization (WMO). The latest version is BUFR Edition 4. BUFR Edition 3 is also considered current for operational use.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:01:56.0 [sritz] Insert Concept 
+add broader relation (application/x-bufr [e384b8a8-8cec-4230-9ebe-4db76bbef706,310325] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="ec1a1350-be24-42e6-a5cc-ccb806793def"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">Mime Type</skos:prefLabel>
+   <skos:narrower rdf:resource="07bcc60e-1551-44d9-b87e-7c260d230ecb"/>
+   <skos:narrower rdf:resource="091b6afc-ab75-4790-8e71-3b32ae8bd0a4"/>
+   <skos:narrower rdf:resource="2065aabb-9beb-4c84-8ad7-0e16cfed17cf"/>
+   <skos:narrower rdf:resource="2b192915-32a8-4b68-a720-8ca8a84f04ca"/>
+   <skos:narrower rdf:resource="3195dfce-51db-4b40-aadb-808b43573743"/>
+   <skos:narrower rdf:resource="3e048f9e-8f93-4f0c-9f0b-20bafb909c68"/>
+   <skos:narrower rdf:resource="3f697f52-6a1c-4e2c-bd4b-13aaaf45f2e6"/>
+   <skos:narrower rdf:resource="40bdf6e5-780c-43e2-ab8e-e5dfae4bd779"/>
+   <skos:narrower rdf:resource="40cb0bdd-67f4-43c8-aa57-2bdc260e6950"/>
+   <skos:narrower rdf:resource="415a10b5-7286-4195-a88e-00c7b995b7d0"/>
+   <skos:narrower rdf:resource="4e5db77b-bc1d-4f7c-9f13-e3e54e0b2e3b"/>
+   <skos:narrower rdf:resource="4e80047b-c50b-4805-ac68-789dbc38803f"/>
+   <skos:narrower rdf:resource="5e70beda-396e-4cc8-bdd5-70dfc8a1142e"/>
+   <skos:narrower rdf:resource="627269ae-ba93-492e-8c31-cc4de1d69810"/>
+   <skos:narrower rdf:resource="7c99ff72-5239-424d-a0bf-9712c33ea76d"/>
+   <skos:narrower rdf:resource="80045dcb-18ee-463a-8baf-ffcabed510ea"/>
+   <skos:narrower rdf:resource="8542dd4a-a11b-475d-8d46-cad785a7f510"/>
+   <skos:narrower rdf:resource="a8ee535a-8bc8-46fd-8b97-917bd7ea7666"/>
+   <skos:narrower rdf:resource="ad61b259-8131-4e0e-aac8-a800a0a51ca6"/>
+   <skos:narrower rdf:resource="b0a3e733-4d1b-486f-b56c-c405a5e4367b"/>
+   <skos:narrower rdf:resource="b403039f-a107-4a84-88a1-29e4d1b30b0b"/>
+   <skos:narrower rdf:resource="b7687b8f-7a24-4150-bd9d-28e0d53f7554"/>
+   <skos:narrower rdf:resource="b77e64ef-ce80-4dab-b552-c6062990a6e0"/>
+   <skos:narrower rdf:resource="c1a8dbb7-312d-4481-998e-58d126b32080"/>
+   <skos:narrower rdf:resource="c79a0e11-2774-4cf3-a194-45b9e58a93fd"/>
+   <skos:narrower rdf:resource="d3ef6fe7-b6cd-45b4-9a27-d42fa3289116"/>
+   <skos:narrower rdf:resource="dd6c5cea-4100-4973-9ba9-659fdd7fd608"/>
+   <skos:narrower rdf:resource="e384b8a8-8cec-4230-9ebe-4db76bbef706"/>
+   <skos:narrower rdf:resource="edb9e800-ec31-4d5c-848d-c548fd151db2"/>
+   <skos:narrower rdf:resource="f7328bf5-8ef2-4f95-a4e0-6fb16d122237"/>
+   <skos:narrower rdf:resource="fea4e0a7-d794-481d-9915-52f1be226714"/>
+   <skos:changeNote>2018-10-19 12:35:22.0 [mmorahan] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,354773] - application/vnd.iso.19139-2+xml [c1a8dbb7-312d-4481-998e-58d126b32080,368183]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:04:54.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - image/bmp [b7687b8f-7a24-4150-bd9d-28e0d53f7554,310377]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:04:43.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - image/vnd.collada+xml [d3ef6fe7-b6cd-45b4-9a27-d42fa3289116,310373]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:04:32.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - image/png [edb9e800-ec31-4d5c-848d-c548fd151db2,310369]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:04:14.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - image/tiff [3e048f9e-8f93-4f0c-9f0b-20bafb909c68,310365]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:03:42.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - mage/gif [ad61b259-8131-4e0e-aac8-a800a0a51ca6,310361]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:03:28.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - text/javascript [40cb0bdd-67f4-43c8-aa57-2bdc260e6950,310357]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:03:18.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - text/css [3195dfce-51db-4b40-aadb-808b43573743,310353]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:03:09.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - text/xml [091b6afc-ab75-4790-8e71-3b32ae8bd0a4,310349]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:02:55.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - text/csv [2065aabb-9beb-4c84-8ad7-0e16cfed17cf,310345]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:02:42.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - text/markdown [b403039f-a107-4a84-88a1-29e4d1b30b0b,310341]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:02:23.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/x-tar-gz [5e70beda-396e-4cc8-bdd5-70dfc8a1142e,310337]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:02:16.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/zip [4e5db77b-bc1d-4f7c-9f13-e3e54e0b2e3b,310333]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:02:03.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/gzip [a8ee535a-8bc8-46fd-8b97-917bd7ea7666,310329]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:01:56.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/x-bufr [e384b8a8-8cec-4230-9ebe-4db76bbef706,310325]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:01:49.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/vnd.ms-excel [7c99ff72-5239-424d-a0bf-9712c33ea76d,310321]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:01:01.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/vnd.google-earth.kmz [f7328bf5-8ef2-4f95-a4e0-6fb16d122237,310317]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:00:49.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/octet-stream [b77e64ef-ce80-4dab-b552-c6062990a6e0,310313]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:00:32.0 [sritz] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:00:11.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/opensearchdescription+xml [3a181b73-10e4-4cad-95b2-46c585bc11a4,310309]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 17:59:56.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/x-hdf5 [4e80047b-c50b-4805-ac68-789dbc38803f,310305]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 17:59:46.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/x-hdf [b0a3e733-4d1b-486f-b56c-c405a5e4367b,310301]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 17:59:20.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/vnd.google-earth.kml+xml [80045dcb-18ee-463a-8baf-ffcabed510ea,310297]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 17:59:07.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/gml+xml [40bdf6e5-780c-43e2-ab8e-e5dfae4bd779,310293]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 17:58:56.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/x-netcdf [2b192915-32a8-4b68-a720-8ca8a84f04ca,310289]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 17:58:41.0 [sritz] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/json [8542dd4a-a11b-475d-8d46-cad785a7f510,310285]); 
+</skos:changeNote>
+   <skos:changeNote>2017-07-17 04:26:50.0 [mmorahan] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289] - application/opensearchdescription+xml [07bcc60e-1551-44d9-b87e-7c260d230ecb,309819]); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-23 15:58:59.0 [mgenazzi] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,265827] - text/html [415a10b5-7286-4195-a88e-00c7b995b7d0,278431]); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-23 10:23:30.0 [gee-cee] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-23 10:23:24.0 [gee-cee] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,265827] - text/htm [3f863984-3132-465f-ab5e-8754f867bdad,278419]); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-22 08:40:49.0 [mgenazzi] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,265827] - text/plain [fea4e0a7-d794-481d-9915-52f1be226714,278343]); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-22 08:39:59.0 [mgenazzi] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,265827] - image/jpeg [3f697f52-6a1c-4e2c-bd4b-13aaaf45f2e6,278339]); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-22 08:39:52.0 [mgenazzi] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,265827] - application/xml [dd6c5cea-4100-4973-9ba9-659fdd7fd608,278335]); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-22 08:39:45.0 [mgenazzi] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,265827] - application/pdf [627269ae-ba93-492e-8c31-cc4de1d69810,278331]); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-22 08:39:37.0 [mgenazzi] Insert Concept 
+add narrower relation (Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,265827] - application/msword [c79a0e11-2774-4cf3-a194-45b9e58a93fd,278327]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="edb9e800-ec31-4d5c-848d-c548fd151db2"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">image/png</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for PNG files.
+
+Portable Network Graphics (PNG) is a raster graphics file format that supports lossless data compression. PNG was created as an improved, non-patented replacement for Graphics Interchange Format (GIF), and is the most widely used lossless image compression format on the Internet.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:57:26.0 [sritz]  
+update Definition (MIME Type for PNG files.
+
+Portable Network Graphics (PNG) is a raster graphics file format that supports lossless data compression. PNG was created as an improved, non-patented replacement for Graphics Interchange Format (GIF), and is the most widely used lossless image compression format on the Internet.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 14:15:21.0 [sritz]  
+insert Definition (id: null
+text: Portable Network Graphics (PNG) is a raster graphics file format that supports lossless data compression. PNG was created as an improved, non-patented replacement for Graphics Interchange Format (GIF), and is the most widely used lossless image compression format on the Internet.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:04:32.0 [sritz] Insert Concept 
+add broader relation (image/png [edb9e800-ec31-4d5c-848d-c548fd151db2,310369] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="f7328bf5-8ef2-4f95-a4e0-6fb16d122237"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">application/vnd.google-earth.kmz</skos:prefLabel>
+   <skos:definition xml:lang="en">MIME Type for KMZ files.
+
+KML files are very often distributed in KMZ files, which are zipped KML files with a .kmz extension. These must be legacy (ZIP 2.0) compression compatible (i.e. stored or deflate method), otherwise the .kmz file might not uncompress in all geobrowsers.[5] The contents of a KMZ file are a single root KML document (notionally "doc.kml") and optionally any overlays, images, icons, and COLLADA 3D models referenced in the KML including network-linked KML files. The root KML document by convention is a file named "doc.kml" at the root directory level, which is the file loaded upon opening. By convention the root KML document is at root level and referenced files are in subdirectories (e.g. images for overlay images).</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:52:50.0 [sritz]  
+update Definition (MIME Type for KMZ files.
+
+KML files are very often distributed in KMZ files, which are zipped KML files with a .kmz extension. These must be legacy (ZIP 2.0) compression compatible (i.e. stored or deflate method), otherwise the .kmz file might not uncompress in all geobrowsers.[5] The contents of a KMZ file are a single root KML document (notionally "doc.kml") and optionally any overlays, images, icons, and COLLADA 3D models referenced in the KML including network-linked KML files. The root KML document by convention is a file named "doc.kml" at the root directory level, which is the file loaded upon opening. By convention the root KML document is at root level and referenced files are in subdirectories (e.g. images for overlay images).); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-15 13:37:42.0 [sritz]  
+insert Definition (id: null
+text: KML files are very often distributed in KMZ files, which are zipped KML files with a .kmz extension. These must be legacy (ZIP 2.0) compression compatible (i.e. stored or deflate method), otherwise the .kmz file might not uncompress in all geobrowsers.[5] The contents of a KMZ file are a single root KML document (notionally "doc.kml") and optionally any overlays, images, icons, and COLLADA 3D models referenced in the KML including network-linked KML files. The root KML document by convention is a file named "doc.kml" at the root directory level, which is the file loaded upon opening. By convention the root KML document is at root level and referenced files are in subdirectories (e.g. images for overlay images).
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-09 18:01:01.0 [sritz] Insert Concept 
+add broader relation (application/vnd.google-earth.kmz [f7328bf5-8ef2-4f95-a4e0-6fb16d122237,310317] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,297289]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="fea4e0a7-d794-481d-9915-52f1be226714"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/MimeType"/>
+   <skos:prefLabel xml:lang="en">text/plain</skos:prefLabel>
+   <skos:definition xml:lang="en">Default MimeType value for for textual files.</skos:definition>
+   <skos:broader rdf:resource="ec1a1350-be24-42e6-a5cc-ccb806793def"/>
+   <skos:changeNote>2017-11-15 14:35:52.0 [sritz]  
+insert Definition (id: null
+text: Default MimeType value for for textual files.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-22 08:40:49.0 [mgenazzi] Insert Concept 
+add broader relation (text/plain [fea4e0a7-d794-481d-9915-52f1be226714,278343] - Mime Type [ec1a1350-be24-42e6-a5cc-ccb806793def,265827]); 
+</skos:changeNote>
+</skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,1906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:gcmd="http://gcmd.gsfc.nasa.gov/kms#"><gcmd:gcmd><gcmd:termsOfUse>http://gcmd.nasa.gov/r/l/TermsOfUse</gcmd:termsOfUse><gcmd:keywordVersion>9.1.5</gcmd:keywordVersion><gcmd:schemeVersion>2018-12-10 07:27:24</gcmd:schemeVersion></gcmd:gcmd>
+<skos:Concept rdf:about="029540bb-7f5c-44ba-8578-61e2f858be60"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">WEB COVERAGE SERVICE (WCS)</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for leveraging the Web Coverage Service (WCS) API. The Open Geospatial Consortium, Inc. (OGC) Web Coverage Service (WCS) provides an open specification for sharing raster datasets on the web.</skos:definition>
+   <skos:broader rdf:resource="d117cf5c-8d23-4662-be62-7b883cecb219"/>
+   <skos:changeNote>2018-03-12 12:42:18.0 [tstevens]  
+update Definition (The URL for leveraging the Web Coverage Service (WCS) API. The Open Geospatial Consortium, Inc. (OGC) Web Coverage Service (WCS) provides an open specification for sharing raster datasets on the web.); 
+update Definition (http://www.opengeospatial.org/standards/wcs); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:48:51.0 [tstevens]  
+update Definition (The URL for leveraging the Web Coverage Service (WCS) API.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:47:56.0 [tstevens]  
+update Definition (The URL for leveraging the Web Coverage Service (WCS).); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:39:33.0 [tstevens]  
+insert Definition (id: null
+text: The URL for leveraging the Web Coverage Service (WCS) API.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:02:33.0 [tstevens]  
+update PrefLabel (WEB COVERAGE SERVICE (WCS)); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:01:19.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (GET WEB COVERAGE SERVICE (WCS) [029540bb-7f5c-44ba-8578-61e2f858be60,104815] - USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="0b50c12d-a6ae-4d63-b42b-d99bf7aa2da0"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">LAADS</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data sets via the NASA LAADS system.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-12 10:56:42.0 [tstevens]  
+update Definition (https://ladsweb.modaps.eosdis.nasa.gov/); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:01:11.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data sets via the NASA LAADS system.
+language code: en); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="0b597285-eaac-4cbd-94cc-d87ae8046681"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">PRODUCTION HISTORY</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data set production version history. Product version history refers to a history of each version type of a data product and the differences between each version including how the data was produced and any changes in science parameters and quality.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-13 10:20:06.0 [tstevens]  
+update Definition (The URL for accessing data set production version history. Product version history refers to a history of each version type of a data product and the differences between each version including how the data was produced and any changes in science parameters and quality.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 12:19:57.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data set production version history.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:20:11.0 [tstevens] Insert Concept 
+add broader relation (PRODUCTION HISTORY [0b597285-eaac-4cbd-94cc-d87ae8046681,310739] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="0c3aa5c6-f1f9-4c16-aa96-30672028d26c"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">MAP SERVICE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a map service.</skos:definition>
+   <skos:broader rdf:resource="d117cf5c-8d23-4662-be62-7b883cecb219"/>
+   <skos:changeNote>2018-03-08 10:42:18.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a map service.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:03:43.0 [tstevens]  
+update PrefLabel (MAP SERVICE); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:02:57.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (GET MAP SERVICE [0c3aa5c6-f1f9-4c16-aa96-30672028d26c,104871] - USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="0eba3253-8eb7-4e43-9627-9cff48775e27"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">DATA QUALITY</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data quality information for a data set.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 11:11:00.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data quality information for a data set.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:19:39.0 [tstevens] Insert Concept 
+add broader relation (DATA QUALITY [0eba3253-8eb7-4e43-9627-9cff48775e27,310733] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="1132a0fc-888b-4332-ad0a-dc5c6e615afa"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">PRODUCT USAGE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a data set product usage information.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 11:17:06.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a data set product usage information.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:20:32.0 [tstevens] Insert Concept 
+add broader relation (PRODUCT USAGE [1132a0fc-888b-4332-ad0a-dc5c6e615afa,310743] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="13a4deec-bd22-4864-9804-77fac181f484"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">PUBLICATIONS</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing related data set publications.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 12:05:00.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing related data set publications.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2013-12-17 06:28:52.0 [mpmorahan] Insert Concept 
+add broader relation (PUBLICATIONS [13a4deec-bd22-4864-9804-77fac181f484,106043] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="15b0a4c4-b39d-48f5-92d2-905e45e6dc6a"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">SCIENCE DATA PRODUCT VALIDATION</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing science data product validation information.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 11:25:00.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing science data product validation information.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:21:34.0 [tstevens] Insert Concept 
+add broader relation (SCIENCE DATA PRODUCT VALIDATION [15b0a4c4-b39d-48f5-92d2-905e45e6dc6a,310753] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="20ab6d52-f5a7-439c-a044-6ef2452a2838"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">LIVE ACCESS SERVER (LAS)</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a Live Access Server (LAS) tool. The Live Access Server (LAS) is a highly configurable web server designed to provide flexible access to geo-referenced scientific data. It can present distributed data sets as a unified virtual data base through the use of DODS networking. Ferret is the default visualization application used by LAS, though other applications (Matlab, IDL, GrADS, ...) can also be used.</skos:definition>
+   <skos:broader rdf:resource="ffccf1c0-f25d-4747-ac4a-f09444383031"/>
+   <skos:changeNote>2018-03-12 12:50:14.0 [tstevens]  
+update Definition (The URL for accessing a Live Access Server (LAS) tool. The Live Access Server (LAS) is a highly configurable web server designed to provide flexible access to geo-referenced scientific data. It can present distributed data sets as a unified virtual data base through the use of DODS networking. Ferret is the default visualization application used by LAS, though other applications (Matlab, IDL, GrADS, ...) can also be used.); 
+update Definition (http://ferret.pmel.noaa.gov/LAS/); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:51:47.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a Live Access Server (LAS) tool.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:15:17.0 [tstevens]  
+update PrefLabel (LIVE ACCESS SERVER (LAS)); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:28:17.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (LAS [20ab6d52-f5a7-439c-a044-6ef2452a2838,104835] - GOTO WEB TOOL [ffccf1c0-f25d-4747-ac4a-f09444383031,310713]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="26431afd-cb37-4772-9e97-3a36f6dff32d"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">MODAPS</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data sets via the NASA MODIS Adaptive Processing System (MODAPS).</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-14 09:54:30.0 [tstevens]  
+update Definition (The URL for accessing data sets via the NASA MODIS Adaptive Processing System (MODAPS).); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-12 10:59:57.0 [tstevens]  
+update Definition (https://earthdata.nasa.gov/about/sips/sips-modaps); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:03:47.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data sets via NASA MODIS Adaptive Processing System (MODAPS).
+language code: en); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="2af2cfc4-9390-43da-8fa8-1f272e8ee0b0"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">IMPORTANT NOTICE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing important notice web pages.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 12:02:26.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing important notice web pages.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2016-10-18 11:22:31.0 [gee-cee] Insert Concept 
+add broader relation (IMPORTANT NOTICE [2af2cfc4-9390-43da-8fa8-1f272e8ee0b0,278465] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="2e869d22-88fe-43dc-852d-9f50c911ad02"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">GIOVANNI</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data sets via the NASA GIOVANNI tool.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-12 10:55:46.0 [tstevens]  
+update Definition (https://giovanni.gsfc.nasa.gov/giovanni/); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 09:59:48.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data sets via the NASA GIOVANNI tool.
+language code: en); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="2fc3797c-71b5-4d01-8ae1-d5634ec625ce"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">DATACAST URL</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data sets via the EOSDIS DAAC data cast feed.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-08 09:57:29.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data sets via the EOSDIS DAAC data cast feed.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2012-09-17 09:53:43.0 [saritz] Insert Concept 
+add broader relation (DATACAST URL [2fc3797c-71b5-4d01-8ae1-d5634ec625ce,40585] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,39451]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="3112d474-b44f-4af1-8266-c3dd6d28220f"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">CASE STUDY</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data set case study information.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 12:16:42.0 [tstevens]  
+update Definition (The URL for accessing data set case study information.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 11:10:03.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a data set case study information.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:19:21.0 [tstevens] Insert Concept 
+add broader relation (CASE STUDY [3112d474-b44f-4af1-8266-c3dd6d28220f,310731] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="367f8b8a-e57e-4c49-b971-0b5c6a484186"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">PI DOCUMENTATION</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing project investigator documentation.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 12:03:04.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing project investigator documentation.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2014-07-24 12:39:42.0 [gee-cee] Insert Concept 
+add broader relation (PI DOCUMENTATION [367f8b8a-e57e-4c49-b971-0b5c6a484186,106519] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="3779ec72-c1e0-4a0f-aff8-8e2a2a7af486"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">EOSDIS DATA POOL</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data sets via the EOSDIS data pool.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-08 09:59:07.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data sets via the EOSDIS data pool.
+language code: en); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="38219044-ad26-4a32-98c0-dca8ad3cd29a"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">Subscribe</skos:prefLabel>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-12-10 07:26:52.0 [tstevens] Insert Concept 
+add broader relation (Subscribe [38219044-ad26-4a32-98c0-dca8ad3cd29a,368351] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,361073]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="3c2a68a6-d8c2-4f14-8208-e57a4446ad71"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">DATA TREE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for downloading a data set via a navigation tree.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-08 10:12:43.0 [tstevens]  
+insert Definition (id: null
+text: The URL for downloading a data set via a navigation tree.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:19:45.0 [tstevens]  
+update PrefLabel (DATA TREE); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="3c60609c-d48d-47c4-b069-43951fa0aea3"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">IceBridge Portal</skos:prefLabel>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-12-10 07:26:30.0 [tstevens] Insert Concept 
+add broader relation (IceBridge Portal [3c60609c-d48d-47c4-b069-43951fa0aea3,368347] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,361073]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="3c9d4493-22fd-48a8-9af5-bf0d16b7ede5"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">EXTENDED METADATA</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing supplementary metadata (DIF, SERF, ECHO, ISO, etc.).</skos:definition>
+   <skos:broader rdf:resource="8759ab63-ac04-4136-bc25-0c00eece1096"/>
+   <skos:changeNote>2018-03-08 09:48:18.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing supplementary metadata (DIF, SERF, ECHO, ISO, etc.).
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:09:23.0 [tstevens]  
+update PrefLabel (EXTENDED METADATA); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="40cf5001-15ec-4d9a-913c-bb323f2974fc"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">DATA CITATION POLICY</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing information related to a data set citation policy.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 11:27:34.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing information related to a data set citation policy.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 11:26:42.0 [tstevens] Insert Concept 
+add broader relation (DATA CITATION POLICY [40cf5001-15ec-4d9a-913c-bb323f2974fc,310761] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="411d2781-822c-4c48-8d5b-4b51b100ce0a"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">SERVICE CHAINING</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a service chain workflow service.</skos:definition>
+   <skos:broader rdf:resource="d117cf5c-8d23-4662-be62-7b883cecb219"/>
+   <skos:changeNote>2018-03-08 10:43:08.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a service chain workflow service.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:04:28.0 [tstevens]  
+update PrefLabel (SERVICE CHAINING); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:04:04.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (GET WORKFLOW (SERVICE CHAIN) [411d2781-822c-4c48-8d5b-4b51b100ce0a,104865] - USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="444f03b4-e588-42da-aee6-73028f3c45be"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">DATA COLLECTION BUNDLE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for downloading a data set bundled with additional data sets.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-12 10:53:47.0 [tstevens]  
+update Definition (The URL for downloading a data set bundled with additional data sets.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:28:46.0 [tstevens]  
+insert Definition (id: null
+text: The URL for downloading a data set bundled with additional data set(s).
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:15:33.0 [tstevens] Insert Concept 
+add broader relation (DATA COLLECTION BUNDLE [444f03b4-e588-42da-aee6-73028f3c45be,310723] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="4485a5b6-d84c-4c98-980e-164863ca518f"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">USGS EARTH EXPLORER</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data sets via the USGS Earth Explorer.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-12 11:02:11.0 [tstevens]  
+update Definition (https://earthexplorer.usgs.gov/); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:21:16.0 [tstevens]  
+update Definition (The URL for accessing data sets via the USGS Earth Explorer.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:20:34.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a data set from the USGS Earth Explorer.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:12:44.0 [tstevens] Insert Concept 
+add broader relation (USGS EARTH EXPLORER [4485a5b6-d84c-4c98-980e-164863ca518f,310715] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="49be0345-a6af-4608-98d8-9b2343e60077"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">PORTAL</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for downloading a data set via a portal.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-08 10:25:28.0 [tstevens]  
+insert Definition (id: null
+text: The URL for downloading a data set via a portal.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:14:22.0 [tstevens] Insert Concept 
+add broader relation (PORTAL [49be0345-a6af-4608-98d8-9b2343e60077,310719] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="4f3c0b04-1fe6-4e11-994a-9cc4afd09ce0"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">MICRO ARTICLE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing micro articles. Micro articles are concise and focused selections of information that allow users to quickly assess topics and locate the most useful or relevant associated data, information and tools.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-12 14:59:07.0 [tstevens]  
+update Definition (The URL for accessing micro articles. Micro articles are concise and focused selections of information that allow users to quickly assess topics and locate the most useful or relevant associated data, information and tools.); 
+update Definition (NASA); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 12:18:25.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing micro articles.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:22:27.0 [tstevens]  
+update PrefLabel (MICRO ARTICLE); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-27 08:22:14.0 [gee-cee] Insert Concept 
+add broader relation (VIEW MICRO ARTICLE [4f3c0b04-1fe6-4e11-994a-9cc4afd09ce0,278437] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="547600e9-b60a-44eb-b14b-5c6e1f2c094e"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">DATA RECIPE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data set recipes - instructions on how to access or use Earth science data sets.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-13 13:12:40.0 [tstevens]  
+update Definition (The URL for accessing data set recipes - instructions on how to access or use Earth science data sets.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 11:21:35.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data set recipes (instructions on how to access or use Earth science data sets).
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:20:56.0 [tstevens] Insert Concept 
+add broader relation (DATA RECIPE [547600e9-b60a-44eb-b14b-5c6e1f2c094e,310747] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="5520d1de-f7f5-4798-9ebc-698885805489"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">VERTEX</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data via Vertex, Alaska Satellite Facility’s data portal for remotely sensed imagery of the Earth.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-12 11:02:48.0 [tstevens]  
+update Definition (https://vertex.daac.asf.alaska.edu/); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:05:51.0 [tstevens]  
+update Definition (The URL for accessing data via Vertex, Alaska Satellite Facility’s data portal for remotely sensed imagery of the Earth.); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-30 06:53:11.0 [tstevens] Insert Concept 
+add broader relation (VERTEX [5520d1de-f7f5-4798-9ebc-698885805489,310417] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="5b8013bb-0b15-4811-8aa3-bfc108c3a041"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">Earthdata Search</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data sets via NASA's Earthdata search client.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-12 10:55:08.0 [tstevens]  
+update Definition (The URL for accessing data sets via NASA's Earthdata search client.); 
+update Definition (https://search.earthdata.nasa.gov/); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 09:58:12.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data sets via NASA Earthdata search.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2016-01-07 13:30:37.0 [saritz] Insert Concept 
+add broader relation (Earthdata Search [5b8013bb-0b15-4811-8aa3-bfc108c3a041,158657] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="5c0cd574-0255-4202-9b5b-3da8711b7ed7"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">GRADS DATA SERVER (GDS)</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for leveraging the Grid Analysis and Display System (GrADS) Data Server (GDS) API. GrADS Data Server (GDS), is a stable, secure data server that provides subsetting and analysis services across the internet. The core of the GDS is OPeNDAP, a software framework used for data networking that makes local data accessible to remote locations. GDS services can be provided for any GrADS-readable dataset: GRIB, Binary, NetCDF, HDF, BUFR, and GrADS station data format. The GDS unifies all these data formats into a NetCDF framework. The GDS subsetting capability allows users to retrieve a specified temporal and/or spatial subdomain from a large dataset, eliminating the need to download everything simply to access a small relevant portion of a dataset. The GDS analysis capability allows users to retrieve the results of an operation applied to one or more datasets on the server. Examples of analysis operations include basic math functions, averages, smoothing, differencing, correlation, and regression; the GDS supports any operation that can be expressed in a single GrADS expression. The GDS is based on Anagram, a modular framework for high-performace scientific data servers.</skos:definition>
+   <skos:broader rdf:resource="d117cf5c-8d23-4662-be62-7b883cecb219"/>
+   <skos:changeNote>2018-03-12 12:35:12.0 [tstevens]  
+update Definition (The URL for leveraging the Grid Analysis and Display System (GrADS) Data Server (GDS) API. GrADS Data Server (GDS), is a stable, secure data server that provides subsetting and analysis services across the internet. The core of the GDS is OPeNDAP, a software framework used for data networking that makes local data accessible to remote locations. GDS services can be provided for any GrADS-readable dataset: GRIB, Binary, NetCDF, HDF, BUFR, and GrADS station data format. The GDS unifies all these data formats into a NetCDF framework. The GDS subsetting capability allows users to retrieve a specified temporal and/or spatial subdomain from a large dataset, eliminating the need to download everything simply to access a small relevant portion of a dataset. The GDS analysis capability allows users to retrieve the results of an operation applied to one or more datasets on the server. Examples of analysis operations include basic math functions, averages, smoothing, differencing, correlation, and regression; the GDS supports any operation that can be expressed in a single GrADS expression. The GDS is based on Anagram, a modular framework for high-performace scientific data servers.); 
+update Definition (http://cola.gmu.edu/grads/gds.php); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:38:51.0 [tstevens]  
+insert Definition (id: null
+text: The URL for leveraging the GrADS Data Server (GDS) API.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:00:42.0 [tstevens]  
+update PrefLabel (GRADS DATA SERVER (GDS)); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:25:36.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (GDS [5c0cd574-0255-4202-9b5b-3da8711b7ed7,104801] - USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">VIEW RELATED INFORMATION</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing related data set documentation.</skos:definition>
+   <skos:broader rdf:resource="8759ab63-ac04-4136-bc25-0c00eece1096"/>
+   <skos:narrower rdf:resource="0b597285-eaac-4cbd-94cc-d87ae8046681"/>
+   <skos:narrower rdf:resource="0eba3253-8eb7-4e43-9627-9cff48775e27"/>
+   <skos:narrower rdf:resource="1132a0fc-888b-4332-ad0a-dc5c6e615afa"/>
+   <skos:narrower rdf:resource="13a4deec-bd22-4864-9804-77fac181f484"/>
+   <skos:narrower rdf:resource="15b0a4c4-b39d-48f5-92d2-905e45e6dc6a"/>
+   <skos:narrower rdf:resource="2af2cfc4-9390-43da-8fa8-1f272e8ee0b0"/>
+   <skos:narrower rdf:resource="3112d474-b44f-4af1-8266-c3dd6d28220f"/>
+   <skos:narrower rdf:resource="367f8b8a-e57e-4c49-b971-0b5c6a484186"/>
+   <skos:narrower rdf:resource="40cf5001-15ec-4d9a-913c-bb323f2974fc"/>
+   <skos:narrower rdf:resource="4f3c0b04-1fe6-4e11-994a-9cc4afd09ce0"/>
+   <skos:narrower rdf:resource="547600e9-b60a-44eb-b14b-5c6e1f2c094e"/>
+   <skos:narrower rdf:resource="7cfa5214-7f69-4355-b259-286be88f25d1"/>
+   <skos:narrower rdf:resource="7ebd73e5-b0aa-4cf2-ace5-1d3890c2c3ce"/>
+   <skos:narrower rdf:resource="86b8b121-d710-4c5b-84b0-7b40717f6c76"/>
+   <skos:narrower rdf:resource="914cbb7e-5b20-4bcd-86e3-ffcfa26f0a73"/>
+   <skos:narrower rdf:resource="aa3cea98-b20a-4de8-8f22-7a8b30784625"/>
+   <skos:narrower rdf:resource="ab2fce71-e5f9-4ba6-bfb1-bc428a8b7dd8"/>
+   <skos:narrower rdf:resource="aebf20eb-39c7-4f4f-aecf-a628f703867b"/>
+   <skos:narrower rdf:resource="b292f51f-d2b4-4e65-84a9-e50306238989"/>
+   <skos:narrower rdf:resource="b7ed88ce-3f04-40ea-863e-ac58bd048ff3"/>
+   <skos:narrower rdf:resource="be0460d8-ca8e-45c8-b637-8fb4ce5a5e97"/>
+   <skos:narrower rdf:resource="d1996d91-e824-4b24-b94e-3aae4543b63b"/>
+   <skos:narrower rdf:resource="e8e6e972-832f-4501-a721-4108f33332d6"/>
+   <skos:narrower rdf:resource="fc3c1abb-92c1-49c2-90d4-161c70cff44a"/>
+   <skos:narrower rdf:resource="fcc9411c-a1c9-415d-a16c-75c42f2cec45"/>
+   <skos:narrower rdf:resource="fd01f7ec-fdf6-4440-b974-75f12fb4ec5f"/>
+   <skos:changeNote>2018-03-12 14:12:19.0 [tstevens]  
+update Definition (The URL for accessing related data set documentation.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 12:00:07.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 11:26:42.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - DATA CITATION POLICY [40cf5001-15ec-4d9a-913c-bb323f2974fc,310761]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 09:55:05.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data set related documentation.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:40:35.0 [tstevens] Undo delete 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:22:00.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - DATA CITATION POLICY [e840fff9-26bc-4011-b0af-0c346d26efc6,310757]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:21:51.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - USER FEEDBACK PAGE [ab2fce71-e5f9-4ba6-bfb1-bc428a8b7dd8,310755]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:21:34.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - SCIENCE DATA PRODUCT VALIDATION [15b0a4c4-b39d-48f5-92d2-905e45e6dc6a,310753]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:21:24.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - SCIENCE DATA PRODUCT SOFTWARE DOCUMENTATION [e8e6e972-832f-4501-a721-4108f33332d6,310751]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:21:11.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - REQUIREMENTS AND DESIGN [86b8b121-d710-4c5b-84b0-7b40717f6c76,310749]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:20:56.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - DATA RECIPE [547600e9-b60a-44eb-b14b-5c6e1f2c094e,310747]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:20:44.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - READ-ME [aa3cea98-b20a-4de8-8f22-7a8b30784625,310745]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:20:32.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - PRODUCT USAGE [1132a0fc-888b-4332-ad0a-dc5c6e615afa,310743]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:20:21.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - PRODUCT QUALITY ASSESSMENT [b7ed88ce-3f04-40ea-863e-ac58bd048ff3,310741]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:20:11.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - PRODUCTION HISTORY [0b597285-eaac-4cbd-94cc-d87ae8046681,310739]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:20:01.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - PROCESSING HISTORY [7cfa5214-7f69-4355-b259-286be88f25d1,310737]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:19:49.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - DELIVERABLES CHECKLIST [be0460d8-ca8e-45c8-b637-8fb4ce5a5e97,310735]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:19:39.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - DATA QUALITY [0eba3253-8eb7-4e43-9627-9cff48775e27,310733]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:19:21.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - CASE STUDY [3112d474-b44f-4af1-8266-c3dd6d28220f,310731]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:19:09.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - INSTRUMENT/SENSOR CALIBRATION DOCUMENTATION [fc3c1abb-92c1-49c2-90d4-161c70cff44a,310729]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:18:53.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2017-03-13 13:46:31.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - DATA CONTACT [489b0072-9e8c-4b68-a0b5-79ae4f698418,278699]); 
+</skos:changeNote>
+   <skos:changeNote>2017-03-13 13:45:20.0 [tstevens] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - DATA CENTER [8b0bc440-964f-4414-9430-fe0b6c10ea5c,278695]); 
+</skos:changeNote>
+   <skos:changeNote>2016-10-18 11:22:31.0 [gee-cee] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - IMPORTANT NOTICE [2af2cfc4-9390-43da-8fa8-1f272e8ee0b0,278465]); 
+</skos:changeNote>
+   <skos:changeNote>2016-10-18 11:22:21.0 [gee-cee] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - ANOMALIES [914cbb7e-5b20-4bcd-86e3-ffcfa26f0a73,278461]); 
+</skos:changeNote>
+   <skos:changeNote>2016-10-18 11:22:10.0 [gee-cee] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - ALGORITHM DOCUMENTATION [fcc9411c-a1c9-415d-a16c-75c42f2cec45,278457]); 
+</skos:changeNote>
+   <skos:changeNote>2016-09-27 08:22:14.0 [gee-cee] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - VIEW MICRO ARTICLE [4f3c0b04-1fe6-4e11-994a-9cc4afd09ce0,278437]); 
+</skos:changeNote>
+   <skos:changeNote>2014-07-24 12:39:42.0 [gee-cee] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - PI DOCUMENTATION [367f8b8a-e57e-4c49-b971-0b5c6a484186,106519]); 
+</skos:changeNote>
+   <skos:changeNote>2014-06-19 15:25:51.0 [saritz] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - ALORITHM THEORETICAL BASIS DOCUMENT (ATBD) [fd01f7ec-fdf6-4440-b974-75f12fb4ec5f,106495]); 
+</skos:changeNote>
+   <skos:changeNote>2014-03-14 11:41:54.0 [saritz] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2014-03-14 11:39:45.0 [saritz] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - DISCLAIMER [da072026-03d8-41ef-9a93-ff34c420612c,106235]); 
+</skos:changeNote>
+   <skos:changeNote>2013-12-17 06:28:52.0 [mpmorahan] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - PUBLICATIONS [13a4deec-bd22-4864-9804-77fac181f484,106043]); 
+</skos:changeNote>
+   <skos:changeNote>2013-12-17 06:28:23.0 [mpmorahan] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - GENERAL DOCUMENTATION [aebf20eb-39c7-4f4f-aecf-a628f703867b,106039]); 
+</skos:changeNote>
+   <skos:changeNote>2013-06-13 11:09:09.0 [tbs1979] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - How-To [7ebd73e5-b0aa-4cf2-ace5-1d3890c2c3ce,105235]); 
+</skos:changeNote>
+   <skos:changeNote>2013-06-13 11:08:51.0 [tbs1979] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2013-06-04 13:52:49.0 [saritz] Insert Concept 
+add narrower relation (VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829] - COOKBOOK [2ecda1d7-2f7f-498d-904b-dada2ccb2798,105199]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="5fedeefd-2609-488c-a897-fe168cae34dd"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">MOBILE APP</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for downloading a mobile application.</skos:definition>
+   <skos:broader rdf:resource="ca8b62c9-5f31-40bd-92a9-8d30081309e2"/>
+   <skos:changeNote>2018-03-08 10:50:06.0 [tstevens]  
+insert Definition (id: null
+text: The URL for downloading a mobile application.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:11:09.0 [tstevens]  
+update PrefLabel (MOBILE APP); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:10:54.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (ACCESS MOBILE APP [5fedeefd-2609-488c-a897-fe168cae34dd,104813] - DOWNLOAD SOFTWARE [ca8b62c9-5f31-40bd-92a9-8d30081309e2,104869]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="690210ef-4cf8-4645-b68d-921466bba6a2"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">GIOVANNI</skos:prefLabel>
+   <skos:definition xml:lang="en">Giovanni is a Web-based application developed by the Goddard Earth Sciences Data and Information Services Center (GES DISC)  that provides a simple and intuitive way to visualize, analyze, and access vast amounts of Earth science remote sensing data without having to download the data. Giovanni is an acronym for the Geospatial Interactive Online Visualization ANd aNalysis Infrastructure.</skos:definition>
+   <skos:broader rdf:resource="dd2adc64-c7bd-4dbf-976b-f0496966817c"/>
+   <skos:changeNote>2018-03-08 10:56:42.0 [tstevens]  
+update Definition (https://giovanni.gsfc.nasa.gov/giovanni/); 
+</skos:changeNote>
+   <skos:changeNote>2014-03-26 15:27:59.0 [saritz] Insert Concept 
+add broader relation (GIOVANNI [690210ef-4cf8-4645-b68d-921466bba6a2,106259] - GET RELATED VISUALIZATION [dd2adc64-c7bd-4dbf-976b-f0496966817c,104881]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="6b8f0bfc-d9a4-4af1-9d94-6dcfade03bda"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">APPEEARS</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a data set via AppEEARS, the Application for Extracting and Exploring Analysis Ready Samples, which offers a simple and efficient way to access and transform geospatial data from a variety of federal data archives.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-08 10:24:20.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a data set via AppEEARS, the Application for Extracting and Exploring Analysis Ready Samples, which offers a simple and efficient way to access and transform geospatial data from a variety of federal data archives.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:13:22.0 [tstevens] Insert Concept 
+add broader relation (APPEEARS [6b8f0bfc-d9a4-4af1-9d94-6dcfade03bda,310717] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="6e72d128-7d28-4bd0-bac0-8c5ffd8b31f1"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">PROJECT HOME PAGE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data set related project home pages.</skos:definition>
+   <skos:broader rdf:resource="8759ab63-ac04-4136-bc25-0c00eece1096"/>
+   <skos:changeNote>2018-03-08 09:51:14.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data set related project home pages.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:10:15.0 [tstevens]  
+update PrefLabel (PROJECT HOME PAGE); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="6ffc54ea-001a-4c03-afff-5086b2da8f59"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">SIMPLE SUBSET WIZARD (SSW)</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing the Simple Subset Wizard (SSW) Tool. The Simple Subset Wizard (SSW) makes searching for granules easier. The tool unites the search function with various subsetters to deliver a single, simple, seamless process. SSW uses OpenSearch to query the Earth Observing System Clearing House (ECHO) for granules and then employs individual subset agents to submit requests.</skos:definition>
+   <skos:broader rdf:resource="ffccf1c0-f25d-4747-ac4a-f09444383031"/>
+   <skos:changeNote>2018-03-12 12:53:11.0 [tstevens]  
+update Definition (The URL for accessing the Simple Subset Wizard (SSW) Tool. The Simple Subset Wizard (SSW) makes searching for granules easier. The tool unites the search function with various subsetters to deliver a single, simple, seamless process. SSW uses OpenSearch to query the Earth Observing System Clearing House (ECHO) for granules and then employs individual subset agents to submit requests.); 
+update Definition (NASA GSFC); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:53:25.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing the Simple Subset Wizard (SSW) Tool.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:11:56.0 [tstevens]  
+update PrefLabel (SIMPLE SUBSET WIZARD (SSW)); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:33:10.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (SSW [6ffc54ea-001a-4c03-afff-5086b2da8f59,104863] - GOTO WEB TOOL [ffccf1c0-f25d-4747-ac4a-f09444383031,310713]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="750f6c61-0f15-4185-94d8-c029dec04bc5"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">GET DATA</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a data set.</skos:definition>
+   <skos:broader rdf:resource="8759ab63-ac04-4136-bc25-0c00eece1096"/>
+   <skos:narrower rdf:resource="0b50c12d-a6ae-4d63-b42b-d99bf7aa2da0"/>
+   <skos:narrower rdf:resource="26431afd-cb37-4772-9e97-3a36f6dff32d"/>
+   <skos:narrower rdf:resource="2e869d22-88fe-43dc-852d-9f50c911ad02"/>
+   <skos:narrower rdf:resource="2fc3797c-71b5-4d01-8ae1-d5634ec625ce"/>
+   <skos:narrower rdf:resource="3779ec72-c1e0-4a0f-aff8-8e2a2a7af486"/>
+   <skos:narrower rdf:resource="38219044-ad26-4a32-98c0-dca8ad3cd29a"/>
+   <skos:narrower rdf:resource="3c2a68a6-d8c2-4f14-8208-e57a4446ad71"/>
+   <skos:narrower rdf:resource="3c60609c-d48d-47c4-b069-43951fa0aea3"/>
+   <skos:narrower rdf:resource="444f03b4-e588-42da-aee6-73028f3c45be"/>
+   <skos:narrower rdf:resource="4485a5b6-d84c-4c98-980e-164863ca518f"/>
+   <skos:narrower rdf:resource="49be0345-a6af-4608-98d8-9b2343e60077"/>
+   <skos:narrower rdf:resource="5520d1de-f7f5-4798-9ebc-698885805489"/>
+   <skos:narrower rdf:resource="5b8013bb-0b15-4811-8aa3-bfc108c3a041"/>
+   <skos:narrower rdf:resource="6b8f0bfc-d9a4-4af1-9d94-6dcfade03bda"/>
+   <skos:narrower rdf:resource="78d28911-a87c-40a0-ada2-c14f7cfb0834"/>
+   <skos:narrower rdf:resource="8e33a2dd-df13-4079-8636-391abb5344c6"/>
+   <skos:narrower rdf:resource="9b05d2a3-9a5a-425c-b6ed-59e0e56814fa"/>
+   <skos:narrower rdf:resource="9bfb0f20-189e-411b-a678-768bf3fa256e"/>
+   <skos:narrower rdf:resource="a36f1716-a310-41f5-b4d8-6c6a5fc933d9"/>
+   <skos:narrower rdf:resource="aa11ac15-3042-4634-b47e-acc368f608bd"/>
+   <skos:narrower rdf:resource="b434314f-949f-4c26-be57-2ea4c7f03643"/>
+   <skos:narrower rdf:resource="bd91340d-a8b3-4c01-b262-71e50fe69c83"/>
+   <skos:changeNote>2018-12-10 07:27:24.0 [tstevens] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,361073] - GoLIVE Portal [9bfb0f20-189e-411b-a678-768bf3fa256e,368359]); 
+</skos:changeNote>
+   <skos:changeNote>2018-12-10 07:27:13.0 [tstevens] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,361073] - Order [bd91340d-a8b3-4c01-b262-71e50fe69c83,368355]); 
+</skos:changeNote>
+   <skos:changeNote>2018-12-10 07:26:52.0 [tstevens] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,361073] - Subscribe [38219044-ad26-4a32-98c0-dca8ad3cd29a,368351]); 
+</skos:changeNote>
+   <skos:changeNote>2018-12-10 07:26:30.0 [tstevens] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,361073] - IceBridge Portal [3c60609c-d48d-47c4-b069-43951fa0aea3,368347]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 09:34:34.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a data set.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:35:34.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:35:29.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:34:30.0 [tstevens] Move Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:33:23.0 [tstevens] Move Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:33:10.0 [tstevens] Move Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:31:17.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:31:07.0 [tstevens] Move Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:30:56.0 [tstevens] Undo delete 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803] - OPENDAP DATA [eae7a041-b004-48df-8d4e-d758969e3185,158705]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:30:42.0 [tstevens] Undo delete 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803] - OPENDAP DIRECTORY (DODS) [62919237-f020-4f9d-abcb-3d46b9b021e6,104845]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:29:56.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:29:40.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:28:17.0 [tstevens] Move Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:25:36.0 [tstevens] Move Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:21:32.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:21:25.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:20:36.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:20:28.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:20:16.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:18:00.0 [tstevens] Move Concepts 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803] - DATA LIST [78d28911-a87c-40a0-ada2-c14f7cfb0834,278481]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:15:33.0 [tstevens] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803] - DATA COLLECTION BUNDLE [444f03b4-e588-42da-aee6-73028f3c45be,310723]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:15:17.0 [tstevens] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803] - DIRECT DOWNLOAD [8e33a2dd-df13-4079-8636-391abb5344c6,310721]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:14:22.0 [tstevens] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803] - PORTAL [49be0345-a6af-4608-98d8-9b2343e60077,310719]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:13:22.0 [tstevens] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803] - APPEEARS [6b8f0bfc-d9a4-4af1-9d94-6dcfade03bda,310717]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:12:44.0 [tstevens] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803] - USGS EARTH EXPLORER [4485a5b6-d84c-4c98-980e-164863ca518f,310715]); 
+</skos:changeNote>
+   <skos:changeNote>2017-11-30 06:53:11.0 [tstevens] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803] - VERTEX [5520d1de-f7f5-4798-9ebc-698885805489,310417]); 
+</skos:changeNote>
+   <skos:changeNote>2017-07-07 13:06:12.0 [sritz] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2016-10-18 11:20:43.0 [gee-cee] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803] - ALTERNATE ACCESS [3d6d7df1-e026-4170-8979-bcc24c1be2bb,278441]); 
+</skos:changeNote>
+   <skos:changeNote>2016-03-16 15:40:48.0 [epneff] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803] - OPENDAP DATA [eae7a041-b004-48df-8d4e-d758969e3185,158705]); 
+</skos:changeNote>
+   <skos:changeNote>2016-01-07 13:30:37.0 [saritz] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803] - Earthdata Search [5b8013bb-0b15-4811-8aa3-bfc108c3a041,158657]); 
+</skos:changeNote>
+   <skos:changeNote>2013-12-03 13:58:50.0 [saritz] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803] - SUBSETTER [bf37a20c-8e99-4187-b91b-3ea254f006f9,105975]); 
+</skos:changeNote>
+   <skos:changeNote>2012-09-17 09:53:43.0 [saritz] Insert Concept 
+add narrower relation (GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,39451] - DATACAST URL [2fc3797c-71b5-4d01-8ae1-d5634ec625ce,40585]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="77cae7cb-4676-4c69-a88b-d78971496f97"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">THREDDS DATA</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for access to the Thematic Real-time Environmental Distributed Data Services (THREDDS). The THREDDS Data Server (TDS) is a web server that provides metadata and data access for scientific datasets, using OPeNDAP, OGC WMS and WCS, HTTP, and other remote data access protocols.</skos:definition>
+   <skos:broader rdf:resource="d117cf5c-8d23-4662-be62-7b883cecb219"/>
+   <skos:changeNote>2018-03-12 12:40:57.0 [tstevens]  
+update Definition (The URL for access to the Thematic Real-time Environmental Distributed Data Services (THREDDS). The THREDDS Data Server (TDS) is a web server that provides metadata and data access for scientific datasets, using OPeNDAP, OGC WMS and WCS, HTTP, and other remote data access protocols.); 
+update Definition (https://www.dataone.org/software-tools/thematic-realtime-environmental-distributed-data-services-thredds); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:47:26.0 [tstevens]  
+update Definition (The URL for access to the Thematic Real-time Environmental Distributed Data Services (THREDDS).); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:41:44.0 [tstevens]  
+insert Definition (id: null
+text: The URL for access to Thematic Real-time Environmental Distributed Data Services (THREDDS).
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:34:30.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (THREDDS DATA [77cae7cb-4676-4c69-a88b-d78971496f97,104841] - USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="78d28911-a87c-40a0-ada2-c14f7cfb0834"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">VIRTUAL COLLECTION</skos:prefLabel>
+   <skos:definition xml:lang="en">A URL that points to annotated (i.e., with metadata) collections of resource addresses, such as URLs. They can span multiple DAACs, SIPS, and/or EOSDIS elements. Virtual collection URLs can include:
+
+- Specific data directories or data files
+- OPeNDAP data directories
+- OPeNDAP constraint URLs
+- WMS GetMap requests
+- WCS GetCoverage requests
+- OpenSearch Description Documents
+- OpenSearch search requests
+- Giovanni requests</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-10-24 16:01:48.0 [sritz]  
+update PrefLabel (VIRTUAL COLLECTION); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-12 11:03:42.0 [tstevens]  
+update Definition (A URL that points to annotated (i.e., with metadata) collections of resource addresses, such as URLs. They can span multiple DAACs, SIPS, and/or EOSDIS elements. Virtual collection URLs can include:
+
+- Specific data directories or data files
+- OPeNDAP data directories
+- OPeNDAP constraint URLs
+- WMS GetMap requests
+- WCS GetCoverage requests
+- OpenSearch Description Documents
+- OpenSearch search requests
+- Giovanni requests); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:11:35.0 [tstevens]  
+update Definition (A URL that points to annotated (i.e., with metadata) collections of resource addresses, such as URLs.  They can span multiple DAACs and/or SIPS and/or EOSDIS elements.  Virtual collection URLs can include:
+
+- Specific data directories or data files
+- OPeNDAP data directories
+- OPeNDAP constraint URLs
+- WMS GetMap requests
+- WCS GetCoverage requests
+- OpenSearch Description Documents
+- OpenSearch search requests
+- Giovanni requests); 
+update Definition (NASA EOSDIS); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:18:29.0 [tstevens]  
+update PrefLabel (VIRTUAL COLLECTION ); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:18:00.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (DATA LIST [78d28911-a87c-40a0-ada2-c14f7cfb0834,278481] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803]); 
+</skos:changeNote>
+   <skos:changeNote>2016-10-28 15:44:36.0 [saritz] Insert Concept 
+add broader relation (DATA LIST [78d28911-a87c-40a0-ada2-c14f7cfb0834,278481] - GET SERVICE [52a320c4-1e83-4ce6-b494-f29531b7b1e2,104809]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="7aac9f91-20c4-4234-9153-e850c8ace8a9"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">WEB MAP TILE SERVICE (WMTS)</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for leveraging the GIBS Web Map Tile Service (WMTS) API. The WMTS implementation standard provides a standards-based solution for serviing digital maps using predefined image tiles. Through the constructs of the specification, a WMTS service advertises imagery layers (e.g. imagery product) and defines the coordinate reference system, scale, and tiling grid available for access.</skos:definition>
+   <skos:broader rdf:resource="d117cf5c-8d23-4662-be62-7b883cecb219"/>
+   <skos:changeNote>2018-03-12 12:45:50.0 [tstevens]  
+update Definition (The URL for leveraging the GIBS Web Map Tile Service (WMTS) API. The WMTS implementation standard provides a standards-based solution for serviing digital maps using predefined image tiles. Through the constructs of the specification, a WMTS service advertises imagery layers (e.g. imagery product) and defines the coordinate reference system, scale, and tiling grid available for access.); 
+update Definition (NASA); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:35:44.0 [tstevens]  
+insert Definition (id: null
+text: The URL for leveraging the GIBS Web Map Tile Service (WMTS) API.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:00:00.0 [tstevens] Insert Concept 
+add broader relation (WEB MAP TILE SERVICE (WMTS) [7aac9f91-20c4-4234-9153-e850c8ace8a9,310727] - USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="7b664934-70c4-4694-b8c1-416e7c91afb9"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">TABULAR DATA STREAM (TDS)</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for leveraging the Tabular Data Stream (TDS) API. The Tabular Data Stream (TDS) Protocol is an application-level protocol used for the transfer of requests and responses between clients and database server systems.</skos:definition>
+   <skos:broader rdf:resource="d117cf5c-8d23-4662-be62-7b883cecb219"/>
+   <skos:changeNote>2018-03-12 12:39:45.0 [tstevens]  
+update Definition (The URL for leveraging the Tabular Data Stream (TDS) API. The Tabular Data Stream (TDS) Protocol is an application-level protocol used for the transfer of requests and responses between clients and database server systems.); 
+update Definition (https://msdn.microsoft.com/en-us/library/dd357628.aspx); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:35:09.0 [tstevens]  
+insert Definition (id: null
+text: The URL for leveraging the Tabular Data Stream (TDS) API.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:40:29.0 [tstevens] Insert Concept 
+add broader relation (TABULAR DATA STREAM (TDS) [7b664934-70c4-4694-b8c1-416e7c91afb9,310725] - USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="7cfa5214-7f69-4355-b259-286be88f25d1"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">PROCESSING HISTORY</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data set processing history.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-13 10:05:21.0 [tstevens]  
+update Definition (The URL for accessing data set processing history.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 11:13:45.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a data set processing history.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:20:01.0 [tstevens] Insert Concept 
+add broader relation (PROCESSING HISTORY [7cfa5214-7f69-4355-b259-286be88f25d1,310737] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="7ebd73e5-b0aa-4cf2-ace5-1d3890c2c3ce"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">HOW-TO</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing how-to web pages. How-To web pages describe how to accomplish specific tasks related to data discovery, access and/or usage.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 12:01:40.0 [tstevens]  
+update Definition (The URL for accessing how-to web pages. How-To web pages describe how to accomplish specific tasks related to data discovery, access and/or usage.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:25:19.0 [tstevens]  
+update PrefLabel (HOW-TO); 
+</skos:changeNote>
+   <skos:changeNote>2013-06-13 11:09:09.0 [tbs1979] Insert Concept 
+add broader relation (How-To [7ebd73e5-b0aa-4cf2-ace5-1d3890c2c3ce,105235] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="86b8b121-d710-4c5b-84b0-7b40717f6c76"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">REQUIREMENTS AND DESIGN</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing requirements and design information for a data set or service/software/tool.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 11:22:52.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing requirements and design information for a data set or service/software/tool.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:21:11.0 [tstevens] Insert Concept 
+add broader relation (REQUIREMENTS AND DESIGN [86b8b121-d710-4c5b-84b0-7b40717f6c76,310749] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="8759ab63-ac04-4136-bc25-0c00eece1096"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">Related URL Content Types</skos:prefLabel>
+   <skos:narrower rdf:resource="3c9d4493-22fd-48a8-9af5-bf0d16b7ede5"/>
+   <skos:narrower rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:narrower rdf:resource="6e72d128-7d28-4bd0-bac0-8c5ffd8b31f1"/>
+   <skos:narrower rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:narrower rdf:resource="8826912b-c89e-4810-b446-39b98b5d937c"/>
+   <skos:narrower rdf:resource="ca8b62c9-5f31-40bd-92a9-8d30081309e2"/>
+   <skos:narrower rdf:resource="d117cf5c-8d23-4662-be62-7b883cecb219"/>
+   <skos:narrower rdf:resource="dd2adc64-c7bd-4dbf-976b-f0496966817c"/>
+   <skos:narrower rdf:resource="f00cf885-8fc5-42ca-a70e-1689530f00cf"/>
+   <skos:narrower rdf:resource="ffccf1c0-f25d-4747-ac4a-f09444383031"/>
+   <skos:changeNote>2018-09-10 09:50:17.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-04-05 07:50:40.0 [tstevens] Insert Concept 
+add narrower relation (Related URL Content Types [8759ab63-ac04-4136-bc25-0c00eece1096,361089] - BROWSE [bf3bf666-12c6-4981-9799-9a92d5c907df,367475]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 09:49:59.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:43:24.0 [tstevens] Insert Concept 
+add narrower relation (Related URL Content Types [8759ab63-ac04-4136-bc25-0c00eece1096,104799] - PROFESSIONAL HOME PAGE [2634dc39-93b1-47e3-872c-34a62aecc8ec,310759]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:16:56.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:12:08.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:11:12.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:11:03.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:07:22.0 [tstevens] Move Concepts 
+add narrower relation (Related URL Content Types [8759ab63-ac04-4136-bc25-0c00eece1096,104799] - GET SOFTWARE PACKAGE [ca8b62c9-5f31-40bd-92a9-8d30081309e2,104869]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:06:59.0 [tstevens] Insert Concept 
+add narrower relation (Related URL Content Types [8759ab63-ac04-4136-bc25-0c00eece1096,104799] - GOTO WEB TOOL [ffccf1c0-f25d-4747-ac4a-f09444383031,310713]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:06:11.0 [tstevens] Insert Concept 
+add narrower relation (Related URL Content Types [8759ab63-ac04-4136-bc25-0c00eece1096,104799] - USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711]); 
+</skos:changeNote>
+   <skos:changeNote>2016-10-18 11:21:23.0 [gee-cee] Insert Concept 
+add narrower relation (Related URL Content Types [8759ab63-ac04-4136-bc25-0c00eece1096,104799] - VIEW IMAGES [ad5794bf-f00c-4e27-8806-11f666a5e2f2,278449]); 
+</skos:changeNote>
+   <skos:changeNote>2014-07-24 11:43:59.0 [gee-cee] Insert Concept 
+add narrower relation (Related URL Content Types [8759ab63-ac04-4136-bc25-0c00eece1096,104799] - VIEW DATA SET LANDING PAGE [8826912b-c89e-4810-b446-39b98b5d937c,106515]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="8826912b-c89e-4810-b446-39b98b5d937c"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">DATA SET LANDING PAGE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a data set landing page. A data set landing page generally has information about the data set including the identifier information, data set version, abstract, provenance information, and a link to download the data set. There may be other relevant information about the data set on the landing page.</skos:definition>
+   <skos:broader rdf:resource="8759ab63-ac04-4136-bc25-0c00eece1096"/>
+   <skos:changeNote>2018-03-12 10:43:13.0 [tstevens]  
+update Definition (The URL for accessing a data set landing page. A data set landing page generally has information about the data set including the identifier information, data set version, abstract, provenance information, and a link to download the data set. There may be other relevant information about the data set on the landing page.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 09:46:48.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a data set landing page.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:08:57.0 [tstevens]  
+update PrefLabel (DATA SET LANDING PAGE); 
+</skos:changeNote>
+   <skos:changeNote>2014-07-24 11:43:59.0 [gee-cee] Insert Concept 
+add broader relation (VIEW DATA SET LANDING PAGE [8826912b-c89e-4810-b446-39b98b5d937c,106515] - Related URL Content Types [8759ab63-ac04-4136-bc25-0c00eece1096,104799]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="89b80cbd-027f-4eab-823f-ae00c268f5bf"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">OpenSearch</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing OpenSearch, which is a collection of simple formats for the sharing of search results. A user can use OpenSearch formats to help people discover and use your search engine and to syndicate search results across the web.</skos:definition>
+   <skos:broader rdf:resource="d117cf5c-8d23-4662-be62-7b883cecb219"/>
+   <skos:changeNote>2018-03-12 12:38:38.0 [tstevens]  
+update Definition (http://www.opensearch.org/Home); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:46:04.0 [tstevens]  
+update Definition (The URL for accessing OpenSearch, which is a collection of simple formats for the sharing of search results. A user can use OpenSearch formats to help people discover and use your search engine and to syndicate search results across the web.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:08:11.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (OpenSearch [89b80cbd-027f-4eab-823f-ae00c268f5bf,105861] - USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711]); 
+</skos:changeNote>
+   <skos:changeNote>2013-09-25 12:37:23.0 [mpmorahan] Insert Concept 
+add broader relation (OpenSearch [89b80cbd-027f-4eab-823f-ae00c268f5bf,105861] - GET SERVICE [52a320c4-1e83-4ce6-b494-f29531b7b1e2,104809]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="8e33a2dd-df13-4079-8636-391abb5344c6"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">DIRECT DOWNLOAD</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for downloading the entire data set.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-08 10:27:52.0 [tstevens]  
+insert Definition (id: null
+text: The URL for downloading the entire data set.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:15:17.0 [tstevens] Insert Concept 
+add broader relation (DIRECT DOWNLOAD [8e33a2dd-df13-4079-8636-391abb5344c6,310721] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="914cbb7e-5b20-4bcd-86e3-ffcfa26f0a73"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">ANOMALIES</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data set anomaly information.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 12:12:51.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data set anomaly information.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2016-10-18 11:22:21.0 [gee-cee] Insert Concept 
+add broader relation (ANOMALIES [914cbb7e-5b20-4bcd-86e3-ffcfa26f0a73,278461] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="9b05d2a3-9a5a-425c-b6ed-59e0e56814fa"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">MIRADOR</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data sets via the NASA MIRADOR system.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-12 10:59:07.0 [tstevens]  
+update Definition (https://mirador.gsfc.nasa.gov/); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:03:01.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data sets via the NASA MIRADOR system.
+language code: en); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="9bfb0f20-189e-411b-a678-768bf3fa256e"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">GoLIVE Portal</skos:prefLabel>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-12-10 07:27:24.0 [tstevens] Insert Concept 
+add broader relation (GoLIVE Portal [9bfb0f20-189e-411b-a678-768bf3fa256e,368359] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,361073]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="a36f1716-a310-41f5-b4d8-6c6a5fc933d9"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">NOAA CLASS</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data sets via the NOAA Comprehensive Large Array-data Stewardship System (CLASS).</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-12 11:00:56.0 [tstevens]  
+update Definition (https://www.class.ngdc.noaa.gov/saa/products/welcome); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:04:29.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data sets via the NOAA Comprehensive Large Array-data Stewardship System (CLASS).
+language code: en); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="aa11ac15-3042-4634-b47e-acc368f608bd"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">LANCE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data sets via the NASA Land, Atmosphere Near real-time Capability for EOS (LANCE) system.</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-12 10:57:52.0 [tstevens]  
+update Definition (The URL for accessing data sets via the NASA Land, Atmosphere Near real-time Capability for EOS (LANCE) system.); 
+update Definition (https://earthdata.nasa.gov/earth-observation-data/near-real-time); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:02:12.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing data sets via the NASA LANCE system.
+language code: en); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="aa3cea98-b20a-4de8-8f22-7a8b30784625"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">READ-ME</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a data set READ-ME file. A README file contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called READ.ME, README.TXT,[1] README.md (for a text file using markdown markup), README.1ST – or simply README.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-13 10:26:30.0 [tstevens]  
+update Definition (The URL for accessing a data set READ-ME file. A README file contains information about other files in a directory or archive of computer software. A form of documentation, it is usually a simple plain text file called READ.ME, README.TXT,[1] README.md (for a text file using markdown markup), README.1ST – or simply README.); 
+update Definition (Raymond, Eric S. (1996). The New Hacker's Dictionary. MIT Press. pp. 378–79. ISBN 9780262680929.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 11:18:10.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a data set READ-ME file.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:20:44.0 [tstevens] Insert Concept 
+add broader relation (READ-ME [aa3cea98-b20a-4de8-8f22-7a8b30784625,310745] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="ab2fce71-e5f9-4ba6-bfb1-bc428a8b7dd8"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">USER FEEDBACK PAGE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing user feedback information.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 11:25:40.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing user feedback information.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:21:51.0 [tstevens] Insert Concept 
+add broader relation (USER FEEDBACK PAGE [ab2fce71-e5f9-4ba6-bfb1-bc428a8b7dd8,310755] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="aebf20eb-39c7-4f4f-aecf-a628f703867b"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">GENERAL DOCUMENTATION</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing general documentation.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 12:00:34.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing general documentation.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2013-12-17 06:28:23.0 [mpmorahan] Insert Concept 
+add broader relation (GENERAL DOCUMENTATION [aebf20eb-39c7-4f4f-aecf-a628f703867b,106039] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="b0e2089c-3c1d-4c12-b833-e07365a4038e"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">WEB MAP SERVICE (WMS)</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for leveraging a Web Map Service (WMS) API. The Open Geospatial Consortium, Inc. (OGC), Web Map Service (WMS) specification is an international specification for serving and consuming dynamic maps on the web.</skos:definition>
+   <skos:broader rdf:resource="d117cf5c-8d23-4662-be62-7b883cecb219"/>
+   <skos:changeNote>2018-03-12 12:44:35.0 [tstevens]  
+update Definition (The URL for leveraging a Web Map Service (WMS) API. The Open Geospatial Consortium, Inc. (OGC), Web Map Service (WMS) specification is an international specification for serving and consuming dynamic maps on the web.); 
+update Definition (http://www.opengeospatial.org/standards/wms); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:48:20.0 [tstevens]  
+update Definition (The URL for leveraging a Web Map Service (WMS) API.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:45:02.0 [tstevens]  
+insert Definition (id: null
+text: The URL for leveraging a Web Map Service (WMS).
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:07:12.0 [tstevens]  
+update PrefLabel (WEB MAP SERVICE (WMS)); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:07:00.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (GET WEB MAP SERVICE (WMS) [b0e2089c-3c1d-4c12-b833-e07365a4038e,104827] - USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="b292f51f-d2b4-4e65-84a9-e50306238989"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">PRODUCT HISTORY</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a data set product version history.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 12:04:29.0 [tstevens]  
+update Definition (The URL for accessing a data set product version history.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 11:15:45.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a data set production version history.
+language code: en); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="b434314f-949f-4c26-be57-2ea4c7f03643"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">NOMADS</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a data set via NOAA National Operational Model Archive and Distribution System (NOMADS).</skos:definition>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-03-12 11:01:25.0 [tstevens]  
+update Definition (http://nomads.ncep.noaa.gov/); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:22:22.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a data set via NOAA National Operational Model Archive and Distribution System (NOMADS).
+language code: en); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="b7ed88ce-3f04-40ea-863e-ac58bd048ff3"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">PRODUCT QUALITY ASSESSMENT</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a data set product quality assessment. The assessment comprises of administrative and procedural activities implemented in a quality system so that requirements and goals for a product, service or activity will be fulfilled. It is the systematic measurement, comparison with a standard, monitoring of processes and an associated feedback loop that confers error prevention.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-13 10:17:35.0 [tstevens]  
+update Definition (The URL for accessing a data set product quality assessment. The assessment comprises of administrative and procedural activities implemented in a quality system so that requirements and goals for a product, service or activity will be fulfilled. It is the systematic measurement, comparison with a standard, monitoring of processes and an associated feedback loop that confers error prevention.); 
+update Definition (http://asq.org/learn-about-quality/quality-assurance-quality-control/overview/overview.html); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 11:16:25.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a data set product quality assessment.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:20:21.0 [tstevens] Insert Concept 
+add broader relation (PRODUCT QUALITY ASSESSMENT [b7ed88ce-3f04-40ea-863e-ac58bd048ff3,310741] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="bd91340d-a8b3-4c01-b262-71e50fe69c83"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">Order</skos:prefLabel>
+   <skos:broader rdf:resource="750f6c61-0f15-4185-94d8-c029dec04bc5"/>
+   <skos:changeNote>2018-12-10 07:27:13.0 [tstevens] Insert Concept 
+add broader relation (Order [bd91340d-a8b3-4c01-b262-71e50fe69c83,368355] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,361073]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="be0460d8-ca8e-45c8-b637-8fb4ce5a5e97"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">DELIVERABLES CHECKLIST</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a deliverables checklist for a data set or service.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-12 14:48:48.0 [tstevens]  
+update Definition (The URL for accessing a deliverables checklist for a data set or service.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 11:12:41.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a deliverables checklist.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:19:49.0 [tstevens] Insert Concept 
+add broader relation (DELIVERABLES CHECKLIST [be0460d8-ca8e-45c8-b637-8fb4ce5a5e97,310735] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="bf37a20c-8e99-4187-b91b-3ea254f006f9"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">SUBSETTER</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a subsetter tool. A subsetter provides the user with a way to subset and regrid the data on-the-fly. You can choose from several subsetting options such as spatial, variable, temporal and vertical level.</skos:definition>
+   <skos:broader rdf:resource="ffccf1c0-f25d-4747-ac4a-f09444383031"/>
+   <skos:changeNote>2018-03-12 12:54:06.0 [tstevens]  
+update Definition (The URL for accessing a subsetter tool. A subsetter provides the user with a way to subset and regrid the data on-the-fly. You can choose from several subsetting options such as spatial, variable, temporal and vertical level.); 
+update Definition (NASA GSFC); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:54:23.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a subsetter tool.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:33:23.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (SUBSETTER [bf37a20c-8e99-4187-b91b-3ea254f006f9,105975] - GOTO WEB TOOL [ffccf1c0-f25d-4747-ac4a-f09444383031,310713]); 
+</skos:changeNote>
+   <skos:changeNote>2013-12-03 13:58:50.0 [saritz] Insert Concept 
+add broader relation (SUBSETTER [bf37a20c-8e99-4187-b91b-3ea254f006f9,105975] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="c1c61697-b4bd-467c-9db4-5bd0115545a3"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">MAP VIEWER</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a map viewer.  A map viewer is an easy way to view and access maps and data.</skos:definition>
+   <skos:broader rdf:resource="ffccf1c0-f25d-4747-ac4a-f09444383031"/>
+   <skos:changeNote>2018-03-12 12:51:39.0 [tstevens]  
+update Definition (The URL for accessing a map viewer.  A map viewer is an easy way to view and access maps and data.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:52:25.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a map viewer.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:13:06.0 [tstevens]  
+update PrefLabel (MAP VIEWER); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:12:46.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (ACCESS MAP VIEWER [c1c61697-b4bd-467c-9db4-5bd0115545a3,104873] - GOTO WEB TOOL [ffccf1c0-f25d-4747-ac4a-f09444383031,310713]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="c4d406e6-7a34-42aa-bd79-f7f9265cc7bd"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">WEB FEATURE SERVICE (WFS)</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a Web Feature Service (WFS) API. The Open Geospatial Consortium Web Feature Service (WFS) Interface Standard provides an interface allowing requests for geographical features across the web using platform-independent calls.</skos:definition>
+   <skos:broader rdf:resource="d117cf5c-8d23-4662-be62-7b883cecb219"/>
+   <skos:changeNote>2018-03-12 12:43:17.0 [tstevens]  
+update Definition (The URL for accessing a Web Feature Service (WFS) API. The Open Geospatial Consortium Web Feature Service (WFS) Interface Standard provides an interface allowing requests for geographical features across the web using platform-independent calls.); 
+update Definition (http://www.opengeospatial.org/standards/wfs); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:48:36.0 [tstevens]  
+update Definition (The URL for accessing a Web Feature Service (WFS) API.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:44:00.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a Web Feature Service (WFS).
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:05:45.0 [tstevens]  
+update PrefLabel (WEB FEATURE SERVICE (WFS)); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:05:22.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (GET WEB FEATURE SERVICE (WFS) [c4d406e6-7a34-42aa-bd79-f7f9265cc7bd,104807] - USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="ca8b62c9-5f31-40bd-92a9-8d30081309e2"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">DOWNLOAD SOFTWARE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for downloading a software package.</skos:definition>
+   <skos:broader rdf:resource="8759ab63-ac04-4136-bc25-0c00eece1096"/>
+   <skos:narrower rdf:resource="5fedeefd-2609-488c-a897-fe168cae34dd"/>
+   <skos:changeNote>2018-03-08 09:39:08.0 [tstevens]  
+insert Definition (id: null
+text: The URL for downloading a software package.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:10:54.0 [tstevens] Move Concepts 
+add narrower relation (DOWNLOAD SOFTWARE [ca8b62c9-5f31-40bd-92a9-8d30081309e2,104869] - ACCESS MOBILE APP [5fedeefd-2609-488c-a897-fe168cae34dd,104813]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:08:02.0 [tstevens]  
+update PrefLabel (DOWNLOAD SOFTWARE); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:07:22.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (GET SOFTWARE PACKAGE [ca8b62c9-5f31-40bd-92a9-8d30081309e2,104869] - Related URL Content Types [8759ab63-ac04-4136-bc25-0c00eece1096,104799]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="d117cf5c-8d23-4662-be62-7b883cecb219"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">USE SERVICE API</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a service Application Programming Interface (API).</skos:definition>
+   <skos:broader rdf:resource="8759ab63-ac04-4136-bc25-0c00eece1096"/>
+   <skos:narrower rdf:resource="029540bb-7f5c-44ba-8578-61e2f858be60"/>
+   <skos:narrower rdf:resource="0c3aa5c6-f1f9-4c16-aa96-30672028d26c"/>
+   <skos:narrower rdf:resource="411d2781-822c-4c48-8d5b-4b51b100ce0a"/>
+   <skos:narrower rdf:resource="5c0cd574-0255-4202-9b5b-3da8711b7ed7"/>
+   <skos:narrower rdf:resource="77cae7cb-4676-4c69-a88b-d78971496f97"/>
+   <skos:narrower rdf:resource="7aac9f91-20c4-4234-9153-e850c8ace8a9"/>
+   <skos:narrower rdf:resource="7b664934-70c4-4694-b8c1-416e7c91afb9"/>
+   <skos:narrower rdf:resource="89b80cbd-027f-4eab-823f-ae00c268f5bf"/>
+   <skos:narrower rdf:resource="b0e2089c-3c1d-4c12-b833-e07365a4038e"/>
+   <skos:narrower rdf:resource="c4d406e6-7a34-42aa-bd79-f7f9265cc7bd"/>
+   <skos:narrower rdf:resource="eae7a041-b004-48df-8d4e-d758969e3185"/>
+   <skos:changeNote>2018-03-14 09:56:57.0 [tstevens]  
+update Definition (The URL for accessing a service Application Programming Interface (API).); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-12 10:47:07.0 [tstevens]  
+update Definition (The URL for accessing a service related application programming interface (API).); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 09:35:36.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a service related API.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:08:11.0 [tstevens] Move Concepts 
+add narrower relation (USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711] - OpenSearch [89b80cbd-027f-4eab-823f-ae00c268f5bf,105861]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:07:00.0 [tstevens] Move Concepts 
+add narrower relation (USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711] - GET WEB MAP SERVICE (WMS) [b0e2089c-3c1d-4c12-b833-e07365a4038e,104827]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:05:22.0 [tstevens] Move Concepts 
+add narrower relation (USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711] - GET WEB FEATURE SERVICE (WFS) [c4d406e6-7a34-42aa-bd79-f7f9265cc7bd,104807]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:04:04.0 [tstevens] Move Concepts 
+add narrower relation (USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711] - GET WORKFLOW (SERVICE CHAIN) [411d2781-822c-4c48-8d5b-4b51b100ce0a,104865]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:02:57.0 [tstevens] Move Concepts 
+add narrower relation (USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711] - GET MAP SERVICE [0c3aa5c6-f1f9-4c16-aa96-30672028d26c,104871]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:01:19.0 [tstevens] Move Concepts 
+add narrower relation (USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711] - GET WEB COVERAGE SERVICE (WCS) [029540bb-7f5c-44ba-8578-61e2f858be60,104815]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:00:00.0 [tstevens] Insert Concept 
+add narrower relation (USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711] - WEB MAP TILE SERVICE (WMTS) [7aac9f91-20c4-4234-9153-e850c8ace8a9,310727]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:40:29.0 [tstevens] Insert Concept 
+add narrower relation (USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711] - TABULAR DATA STREAM (TDS) [7b664934-70c4-4694-b8c1-416e7c91afb9,310725]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:34:30.0 [tstevens] Move Concepts 
+add narrower relation (USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711] - THREDDS DATA [77cae7cb-4676-4c69-a88b-d78971496f97,104841]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:31:07.0 [tstevens] Move Concepts 
+add narrower relation (USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711] - OPENDAP DATA [eae7a041-b004-48df-8d4e-d758969e3185,158705]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:25:36.0 [tstevens] Move Concepts 
+add narrower relation (USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711] - GDS [5c0cd574-0255-4202-9b5b-3da8711b7ed7,104801]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:06:11.0 [tstevens] Insert Concept 
+add broader relation (USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711] - Related URL Content Types [8759ab63-ac04-4136-bc25-0c00eece1096,104799]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="d1996d91-e824-4b24-b94e-3aae4543b63b"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">USER'S GUIDE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a user's guide. A user guide is a technical communication document intended to give assistance to people regarding a data set and/or service.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-13 13:10:54.0 [tstevens]  
+update Definition (The URL for accessing a user's guide. A user guide is a technical communication document intended to give assistance to people regarding a data set and/or service.); 
+update Definition (Gary Blake and Robert W. Bly, The Elements of Technical Writing, pg. 143. New York: Macmillan Publishers, 1993. ISBN 0020130856); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 12:13:41.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a user's guide.
+language code: en); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="dd2adc64-c7bd-4dbf-976b-f0496966817c"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">GET RELATED VISUALIZATION</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a data set visualization.</skos:definition>
+   <skos:broader rdf:resource="8759ab63-ac04-4136-bc25-0c00eece1096"/>
+   <skos:narrower rdf:resource="690210ef-4cf8-4645-b68d-921466bba6a2"/>
+   <skos:narrower rdf:resource="e6f9524a-e4bc-460a-bdf3-a5e8f0e921a9"/>
+   <skos:narrower rdf:resource="eeff646c-6faf-468e-a0ab-ff78fc6f86f9"/>
+   <skos:changeNote>2018-04-19 07:31:39.0 [tstevens] Insert Concept 
+add narrower relation (GET RELATED VISUALIZATION [dd2adc64-c7bd-4dbf-976b-f0496966817c,361133] - MAP [e6f9524a-e4bc-460a-bdf3-a5e8f0e921a9,367539]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 09:45:28.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a data set visualization.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:18:16.0 [tstevens] Remove Concepts 
+delete narrower relation (null); 
+</skos:changeNote>
+   <skos:changeNote>2017-09-20 07:35:12.0 [tstevens] Insert Concept 
+add narrower relation (GET RELATED VISUALIZATION [dd2adc64-c7bd-4dbf-976b-f0496966817c,104881] - MAP [768edc20-4e4b-4856-8913-a750351ff0f0,310203]); 
+</skos:changeNote>
+   <skos:changeNote>2016-10-18 11:21:06.0 [gee-cee] Insert Concept 
+add narrower relation (GET RELATED VISUALIZATION [dd2adc64-c7bd-4dbf-976b-f0496966817c,104881] - WORLDVIEW [eeff646c-6faf-468e-a0ab-ff78fc6f86f9,278445]); 
+</skos:changeNote>
+   <skos:changeNote>2014-03-26 15:27:59.0 [saritz] Insert Concept 
+add narrower relation (GET RELATED VISUALIZATION [dd2adc64-c7bd-4dbf-976b-f0496966817c,104881] - GIOVANNI [690210ef-4cf8-4645-b68d-921466bba6a2,106259]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="e6f9524a-e4bc-460a-bdf3-a5e8f0e921a9"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">MAP</skos:prefLabel>
+   <skos:broader rdf:resource="dd2adc64-c7bd-4dbf-976b-f0496966817c"/>
+   <skos:changeNote>2018-04-19 07:31:39.0 [tstevens] Insert Concept 
+add broader relation (MAP [e6f9524a-e4bc-460a-bdf3-a5e8f0e921a9,367539] - GET RELATED VISUALIZATION [dd2adc64-c7bd-4dbf-976b-f0496966817c,361133]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="e8e6e972-832f-4501-a721-4108f33332d6"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">SCIENCE DATA PRODUCT SOFTWARE DOCUMENTATION</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing science data product software documentation.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 11:23:59.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing science data product software documentation.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:21:24.0 [tstevens] Insert Concept 
+add broader relation (SCIENCE DATA PRODUCT SOFTWARE DOCUMENTATION [e8e6e972-832f-4501-a721-4108f33332d6,310751] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="eae7a041-b004-48df-8d4e-d758969e3185"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">OPENDAP DATA</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing an Open-source Project for a Network Data Access Protocol (OPeNDAP ) API framework.</skos:definition>
+   <skos:broader rdf:resource="d117cf5c-8d23-4662-be62-7b883cecb219"/>
+   <skos:changeNote>2018-03-12 12:37:35.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing an Open-source Project for a Network Data Access Protocol (OPeNDAP ) API framework.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:31:07.0 [tstevens] Move Concepts 
+delete broader relation (null); 
+add broader relation (OPENDAP DATA [eae7a041-b004-48df-8d4e-d758969e3185,158705] - USE SERVICE API [d117cf5c-8d23-4662-be62-7b883cecb219,310711]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:30:56.0 [tstevens] Undo delete 
+delete concept (false); 
+delete broader relation (null); 
+add broader relation (OPENDAP DATA [eae7a041-b004-48df-8d4e-d758969e3185,158705] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:29:40.0 [tstevens] Remove Concepts 
+delete concept (true); 
+delete broader relation (null); 
+add broader relation (OPENDAP DATA [eae7a041-b004-48df-8d4e-d758969e3185,158705] - Trash Can/Related URL Content Types [2629b019-989c-4549-a59c-6a766455b44e,105231]); 
+</skos:changeNote>
+   <skos:changeNote>2016-03-16 15:40:48.0 [epneff] Insert Concept 
+add broader relation (OPENDAP DATA [eae7a041-b004-48df-8d4e-d758969e3185,158705] - GET DATA [750f6c61-0f15-4185-94d8-c029dec04bc5,104803]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="eeff646c-6faf-468e-a0ab-ff78fc6f86f9"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">WORLDVIEW</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for viewing a Worldview visualization. The Worldview tool from NASA's Earth Observing System Data and Information System (EOSDIS) provides the capability to interactively browse over 600 global, full-resolution satellite imagery layers and then download the underlying data. Many of the imagery layers are updated within three hours of observation, essentially showing the entire Earth as it looks "right now". This supports time-critical application areas such as wildfire management, air quality measurements, and flood monitoring.</skos:definition>
+   <skos:broader rdf:resource="dd2adc64-c7bd-4dbf-976b-f0496966817c"/>
+   <skos:changeNote>2018-03-12 14:11:12.0 [tstevens]  
+update Definition (The URL for viewing a Worldview visualization. The Worldview tool from NASA's Earth Observing System Data and Information System (EOSDIS) provides the capability to interactively browse over 600 global, full-resolution satellite imagery layers and then download the underlying data. Many of the imagery layers are updated within three hours of observation, essentially showing the entire Earth as it looks "right now". This supports time-critical application areas such as wildfire management, air quality measurements, and flood monitoring.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 10:57:41.0 [tstevens]  
+insert Definition (id: null
+text: The URL for viewing a Worldview visualization.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2016-10-18 11:21:06.0 [gee-cee] Insert Concept 
+add broader relation (WORLDVIEW [eeff646c-6faf-468e-a0ab-ff78fc6f86f9,278445] - GET RELATED VISUALIZATION [dd2adc64-c7bd-4dbf-976b-f0496966817c,104881]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="f00cf885-8fc5-42ca-a70e-1689530f00cf"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">PROFESSIONAL HOME PAGE</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a professional web page of a PI at a data center or university.</skos:definition>
+   <skos:broader rdf:resource="8759ab63-ac04-4136-bc25-0c00eece1096"/>
+   <skos:changeNote>2018-03-12 10:45:37.0 [tstevens]  
+update Definition (The URL for accessing a professional web page of a PI at a data center or university.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 09:50:23.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing professional web pages.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:09:50.0 [tstevens]  
+update PrefLabel (PROFESSIONAL HOME PAGE); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="fc3c1abb-92c1-49c2-90d4-161c70cff44a"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">INSTRUMENT/SENSOR CALIBRATION DOCUMENTATION</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing instrument and sensor calibration data documentation.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 10:59:14.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing instrument and sensor calibration data documentation.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:19:09.0 [tstevens] Insert Concept 
+add broader relation (INSTRUMENT/SENSOR CALIBRATION DOCUMENTATION [fc3c1abb-92c1-49c2-90d4-161c70cff44a,310729] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="fcc9411c-a1c9-415d-a16c-75c42f2cec45"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">ALGORITHM DOCUMENTATION</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing data set algorithm documentation.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-12 14:39:47.0 [tstevens]  
+update Definition (The URL for accessing data set algorithm documentation.); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 12:06:27.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing algorithm documentation.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2016-10-18 11:22:10.0 [gee-cee] Insert Concept 
+add broader relation (ALGORITHM DOCUMENTATION [fcc9411c-a1c9-415d-a16c-75c42f2cec45,278457] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="fd01f7ec-fdf6-4440-b974-75f12fb4ec5f"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">ALGORITHM THEORETICAL BASIS DOCUMENT (ATBD)</skos:prefLabel>
+   <skos:altLabel xml:lang="en">ATBD</skos:altLabel>
+   <skos:definition xml:lang="en">The URL for accessing Algorithm Theoretical Basis Documents (ATBD). Algorithm Theoretical Basis Documents (ATBD) are intended to describe the physical and mathematical description of the algorithms to be used in the generation of data products. The ATBD include a description of variance and uncertainty estimates and considerations of calibration and validation, exception control, and diagnostics. In some cases, internal and external data product flows are required.</skos:definition>
+   <skos:broader rdf:resource="5ec1bb9d-0efc-4099-9b31-ec791bbd8145"/>
+   <skos:changeNote>2018-03-08 12:12:00.0 [tstevens]  
+update Definition (The URL for accessing Algorithm Theoretical Basis Documents (ATBD). Algorithm Theoretical Basis Documents (ATBD) are intended to describe the physical and mathematical description of the algorithms to be used in the generation of data products. The ATBD include a description of variance and uncertainty estimates and considerations of calibration and validation, exception control, and diagnostics. In some cases, internal and external data product flows are required.); 
+update Definition (https://www.csr.utexas.edu/glas/atbd.html); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 12:10:38.0 [tstevens]  
+update PrefLabel (ALGORITHM THEORETICAL BASIS DOCUMENT (ATBD)); 
+insert Definition (id: null
+text: The URL for accessing Algorithm Theoretical Basis Document (ATBD).
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2014-06-19 15:25:51.0 [saritz] Insert Concept 
+add broader relation (ALORITHM THEORETICAL BASIS DOCUMENT (ATBD) [fd01f7ec-fdf6-4440-b974-75f12fb4ec5f,106495] - VIEW RELATED INFORMATION [5ec1bb9d-0efc-4099-9b31-ec791bbd8145,104829]); 
+</skos:changeNote>
+</skos:Concept>
+
+<skos:Concept rdf:about="ffccf1c0-f25d-4747-ac4a-f09444383031"
+   xml:base="https://gcmd.earthdata.nasa.gov/kms/concept/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+   <skos:inScheme rdf:resource="https://gcmd.earthdata.nasa.gov/kms/concepts/concept_scheme/rucontenttype"/>
+   <skos:prefLabel xml:lang="en">GOTO WEB TOOL</skos:prefLabel>
+   <skos:definition xml:lang="en">The URL for accessing a data set related tool.</skos:definition>
+   <skos:broader rdf:resource="8759ab63-ac04-4136-bc25-0c00eece1096"/>
+   <skos:narrower rdf:resource="20ab6d52-f5a7-439c-a044-6ef2452a2838"/>
+   <skos:narrower rdf:resource="6ffc54ea-001a-4c03-afff-5086b2da8f59"/>
+   <skos:narrower rdf:resource="bf37a20c-8e99-4187-b91b-3ea254f006f9"/>
+   <skos:narrower rdf:resource="c1c61697-b4bd-467c-9db4-5bd0115545a3"/>
+   <skos:changeNote>2018-03-08 09:43:33.0 [tstevens]  
+insert Definition (id: null
+text: The URL for accessing a data set related tool.
+language code: en); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-08 08:12:46.0 [tstevens] Move Concepts 
+add narrower relation (GOTO WEB TOOL [ffccf1c0-f25d-4747-ac4a-f09444383031,310713] - ACCESS MAP VIEWER [c1c61697-b4bd-467c-9db4-5bd0115545a3,104873]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:33:23.0 [tstevens] Move Concepts 
+add narrower relation (GOTO WEB TOOL [ffccf1c0-f25d-4747-ac4a-f09444383031,310713] - SUBSETTER [bf37a20c-8e99-4187-b91b-3ea254f006f9,105975]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:33:10.0 [tstevens] Move Concepts 
+add narrower relation (GOTO WEB TOOL [ffccf1c0-f25d-4747-ac4a-f09444383031,310713] - SSW [6ffc54ea-001a-4c03-afff-5086b2da8f59,104863]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:28:17.0 [tstevens] Move Concepts 
+add narrower relation (GOTO WEB TOOL [ffccf1c0-f25d-4747-ac4a-f09444383031,310713] - LAS [20ab6d52-f5a7-439c-a044-6ef2452a2838,104835]); 
+</skos:changeNote>
+   <skos:changeNote>2018-03-07 15:06:59.0 [tstevens] Insert Concept 
+add broader relation (GOTO WEB TOOL [ffccf1c0-f25d-4747-ac4a-f09444383031,310713] - Related URL Content Types [8759ab63-ac04-4136-bc25-0c00eece1096,104799]); 
+</skos:changeNote>
+</skos:Concept>
+</rdf:RDF>

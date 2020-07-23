@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<concepts xsi:noNamespaceSchemaLocation="http://gcmd.gsfc.nasa.gov/Aboutus/xml/kms/kms.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <termsOfUse>http://gcmd.nasa.gov/r/l/TermsOfUse</termsOfUse>
+    <keywordVersion>9.1.5</keywordVersion>
+    <schemeVersion>2019-09-06 09:33:40</schemeVersion>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PALMYRA ATOLL" uuid="0086ca79-d40d-4119-97d0-f5911df75a37" id="532709"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NEWFOUNDLAND AND LABRADOR" uuid="009ebc80-5561-40d1-98d9-13cbc5bd1591" id="532711"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TURKS AND CAICOS ISLANDS" uuid="00fdb6a0-3063-45d3-9930-71b5a9a3206c" id="532713"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="KIRIBATI" uuid="00fdc4bb-8f93-4170-bca1-e51315b46304" id="532715"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="HAWAII" uuid="017ac312-b650-4800-992f-5167708b4d31" id="532717"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LUXEMBOURG" uuid="018ef16b-76e2-4d3d-a981-76bd7ea02e5f" id="532719"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="AUSTRALIA/NEW ZEALAND" uuid="02156a5c-5ea1-43e3-acf1-a89e99027555" id="532721"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ROMANIA" uuid="0295111a-b3ad-472c-a71c-9161c663716b" id="532723"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ZANZIBAR" uuid="02fb6908-e5bd-4dd0-a627-2f6e13b4281f" id="532725"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MACEDONIA" uuid="03280af1-94e4-4918-8a19-70b8445f9d6f" id="532727"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CORE" uuid="05af56f1-42b1-4205-8b85-0f3470f30011" id="532729"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TAJIKISTAN" uuid="05ccd1da-7d1e-4489-9e12-4168874c1b71" id="532731"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BENIN" uuid="05d03731-d997-49d9-bfa3-6221d9e5bdeb" id="532733"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PITCAIRN ISLAND" uuid="060156ad-6f16-4a9f-9515-e59a5aba05b4" id="532735"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CENTRAL AFRICAN REPUBLIC" uuid="065fc27f-5b54-4cfc-a616-8661a55e04b8" id="532737"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ILLINOIS" uuid="06b1e163-667a-4d13-b638-5273e7a65dad" id="532739"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MIDWAY ATOLL" uuid="075b5332-e4cc-4367-ab95-5b327b4712b4" id="532741"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="POLAND" uuid="09029b84-fdf7-45d2-b684-4152c9b55d7d" id="532743"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="KERGUELEN ISLANDS" uuid="0958cd41-f5bf-444e-9e91-c8d9307effe7" id="532745"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SEA FLOOR" uuid="096fd984-efe4-45db-9827-5ef972fedd5d" id="532747"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CENTRAL AMERICA" uuid="0980d595-3dbe-4247-82f2-40b5e8df603f" id="532749"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CORSICA" uuid="09d995de-2158-43f7-b113-9babb9a1593e" id="532751"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TUVALU" uuid="09f61b6a-c4ef-46d1-be0d-16b396f84a16" id="532753"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CROATIA" uuid="0a19cdd4-48ec-4551-9e5f-7be860891f94" id="532755"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SEA OF OKHOTSK" uuid="0a63a576-6ceb-43d7-a606-b7a924881000" id="532757"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CONTINENT" uuid="0a672f19-dad5-4114-819a-2eb55bdbb56a" id="532759"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EUROPE" uuid="0b3765f7-20f7-4425-bd50-d1bb99d09d86" id="532761"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GEORGIAN BAY" uuid="0b5164a2-ce21-4b36-9502-5e1d05a2e3ae" id="532763"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ANDAMAN ISLANDS" uuid="0b7d96be-3d27-40b8-9876-61b2d7c2bd58" id="532765"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="WESTERN AFRICA" uuid="0bd7d518-6e4d-455e-95cd-2add85fc88fa" id="532767"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="WESTERN EUROPE" uuid="0cd8148f-6feb-42ea-b867-5af9a933d673" id="532769"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SYRIAN ARAB REPUBLIC" uuid="0d0210bb-0be8-47b0-94f2-8695e226ccc8" id="532771"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="THERMOSPHERE" uuid="0dc6a186-8da6-4a88-bb6b-3cc3343d2599" id="532773"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SWAZILAND" uuid="0dd6b942-de19-4712-bd1d-aa301f0ee965" id="532775"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CONGO" uuid="0ebe4123-f42a-41fb-80ea-bb1b97b9db0b" id="532777"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TEXAS" uuid="0f01d3b9-3691-471e-b21b-3f42c512dcd2" id="532779"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LAO PEOPLE'S DEMOCRATIC REPUBLIC" uuid="0f023a42-94f0-4c8c-b2c9-792eaa6aa784" id="532781"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GREECE" uuid="103ca372-ccaa-4cca-9e1a-ef2219ad6bb2" id="532783"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="STRATOSPHERE" uuid="106a3756-af68-4ea1-8eae-a6f5e5a2265f" id="532785"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CASPIAN SEA" uuid="109670ea-5fc7-4726-b772-f315fa0fa603" id="532787"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTHERN EUROPE" uuid="10b324f6-0541-42c2-938d-e2acec0de8ed" id="532789"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="DIEGO RAMIREZ ISLANDS" uuid="1132b6fb-a1fe-42df-a7c6-38ee030aceaa" id="532791"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EASTERN HEMISPHERE" uuid="116620fb-2762-4032-9bfa-152d109c029d" id="532793"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PORTLAND" uuid="11a7e181-3804-4ec7-8717-446546fdd014" id="532795"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BRITISH COLUMBIA" uuid="12b71c1c-bdb2-4cc6-bab9-0569563da458" id="532797"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="POSSESSION ISLAND" uuid="12c922d0-63e7-453e-aef6-d8c4d21d93c0" id="532799"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MICRONESIA" uuid="12f8b383-3220-464f-baf3-2ec810247e44" id="532801"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BELGIUM" uuid="132c1238-6779-443c-9a5c-3df2f238beae" id="532803"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="FRENCH GUIANA" uuid="146ee1c3-67c3-45a0-ad64-c67f12032351" id="532805"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SRI LANKA" uuid="149fef08-334f-4eb4-a4b6-12ebe8eb9570" id="532807"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ASCENSION ISLAND" uuid="14e52f21-8d11-484b-8c88-ca36ce712561" id="532809"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BRUNEI" uuid="160b4977-218b-4d49-b1f1-0193f8ac2091" id="532811"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="REUNION" uuid="16cc58c4-fd7b-40b7-8f33-30d26674fd8b" id="532813"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BELLINGSHAUSEN SEA" uuid="17585ec9-4a92-4f37-96b4-034c9e7afa75" id="532815"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EASTERN AFRICA" uuid="1837fc8f-4622-433b-8148-dd2b5826f6f2" id="532817"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SAN MARINO" uuid="18493ec7-f2a5-47bc-8200-8d9e0c41dcf3" id="532819"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PANAMA" uuid="190f39d7-66d7-4b5a-964f-0d47382d8e2e" id="532821"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="UNITED KINGDOM" uuid="1928f419-0c4b-4b06-9f66-eb37f49105de" id="532823"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORTHERN EUROPE" uuid="1b0b4340-30a6-4cdd-b356-9c6a0b674a29" id="532825"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="WESTERN ASIA" uuid="1b6309ac-463b-4512-ab29-9870f3f8ba19" id="532827"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BAKER ISLAND" uuid="1cefbe03-03dd-4dd2-abed-0eac80bf00cf" id="532829"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="QATAR" uuid="1d131de3-da6c-40b9-84a5-02f8696e9f49" id="532831"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="INNER MAGNETOSPHERE" uuid="1d44a144-2344-4a82-931b-6604bbbe14bc" id="532833"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TROPOSPHERE" uuid="1d6baa6e-5a29-4d4e-add7-a2b1ddfff712" id="532835"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LEBANON" uuid="1dbb3f84-a25b-4738-bbee-f5371f471aec" id="532837"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GIBRALTAR" uuid="1dd688e9-3c50-4be0-907a-423d2371dc3e" id="532839"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="UNITED STATES MINOR OUTLYING ISLANDS" uuid="1e3fd59a-fed3-4c99-8e3f-28c16c0fcea1" id="532841"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="COTE D'IVOIRE" uuid="1e41939f-8c5e-4aee-8345-61736accffe4" id="532843"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LIBYA" uuid="1e535be2-e7cf-42fc-aec4-6f8a6ca3727d" id="532845"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SLOVENIA" uuid="1e7cf5e6-e98a-45ae-a300-6ee43aaf9a1d" id="532847"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BOUVET ISLAND" uuid="1eaf9a26-59b9-49fc-8f9f-1a72891edfe1" id="532849"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ARCTIC OCEAN" uuid="1ed45273-3e2b-4586-b852-05578c04041b" id="532851"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="HAWAIIAN ISLANDS" uuid="2006ec69-34f2-4ece-8823-6dc49f892b02" id="532853"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ANTARCTIC PENINSULA" uuid="20229c10-303d-4fc9-89b0-8ae372df445f" id="532855"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GEOGRAPHIC REGION" uuid="204270d9-8039-4768-851e-63635af5fb65" id="532857"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NAVASSA ISLAND" uuid="21be5553-67cb-4e54-9807-f1b558d72ae4" id="532859"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ROSS ISLAND" uuid="21fb55d8-62f5-4453-b26a-794b6f0e88a5" id="532861"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NICARAGUA" uuid="2274358d-11e5-442f-af41-e20fe1ba69c6" id="532863"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="JORDAN" uuid="232cab66-2a19-4d21-8ad2-8d60b1e87b07" id="532865"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="FLORIDA KEYS" uuid="23e967b5-6a87-47a6-aa93-0a96dbe6c316" id="532867"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="HUNGARY" uuid="250456aa-1202-411d-b88f-919386a4ebe5" id="532869"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORTH DAKOTA" uuid="25ff6e15-1d40-4df6-b008-eb11c3a199d9" id="532871"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PHOTOSPHERE" uuid="260436f2-f80a-4e2a-9a8a-1c8780e33d13" id="532873"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TURKEY" uuid="26aad1c3-3d0e-4e4d-b1fe-e20961bb6b90" id="532875"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SARDINIA" uuid="26ce44ec-4a5d-413f-ae6e-2064a374c8f1" id="532877"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GREAT LAKES" uuid="271c9002-8a96-406e-a0ec-8fdbac41eb1e" id="532879"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MADEIRA" uuid="283ecddd-37db-471c-a600-a45b4419918e" id="532881"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GREAT LAKES, CANADA" uuid="2844fb17-9f62-47c9-90c4-d61125e0922e" id="532883"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TANZANIA" uuid="28633bd4-eb04-43d6-9c1c-04b4a843fb63" id="532885"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BANGLADESH" uuid="28761db9-82fe-4a24-9a89-0fd6047fa1ea" id="532887"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TENNESSEE" uuid="29ad7c2a-42d5-49e6-9093-e758da70432e" id="532889"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="DAVIS STRAIT" uuid="29e79a9c-f1a9-4832-8813-e3a12dfddec6" id="532891"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOLAR INTERIOR" uuid="2a363f95-3822-468e-98b5-2c92f7c05e00" id="532893"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NIGERIA" uuid="2a5c24de-0eb1-4049-a58b-7cc716ecd34c" id="532895"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BRAZIL" uuid="2a65dfd1-83e7-4886-a732-316b170522a1" id="532897"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ST BARTHELEMY" uuid="2a726c91-2cd0-4b08-a301-30396de71b91" id="532899"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="DISTRICT OF COLUMBIA" uuid="2ad8b29a-df7d-4fdc-b7b9-bcd2ff8d9866" id="532901"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NEVADA" uuid="2bdea9ad-43c4-4559-a156-6dad5d9ba137" id="532903"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH KOREA" uuid="2c12f87b-a4c7-4aec-b10b-0f3e37560ccf" id="532905"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="AFRICA" uuid="2ca1b865-5555-4375-aa81-72811335b695" id="532907"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MAURITANIA" uuid="2d39101d-4602-4688-91f0-84f1a37a1441" id="532909"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CAMBODIA" uuid="2d955182-b62b-43eb-9acc-74f1f1f062f7" id="532911"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MANTLE" uuid="2da8b88a-1a2e-4635-9ba9-dd5f9c5aad99" id="532913"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CENTRAL PACIFIC KWAJ" uuid="2dda5d3d-a8f2-4e29-b300-f7383f8ae02d" id="532915"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MINNESOTA" uuid="2e2d65b6-d3de-4921-877c-2d3a4e447978" id="532917"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GALAPAGOS ISLANDS" uuid="2ed1cf61-0636-4a43-9acd-037c563a1a8b" id="532919"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="VIRGIN ISLANDS" uuid="2ed1d456-b067-45bc-857f-8ba5fe87035e" id="532921"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SWEDEN" uuid="2edce566-82e1-4645-a94d-58cffa42f8e2" id="532923"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GAMBIA" uuid="2ffc8cf6-f9fb-4f0e-858a-53766c4ba4b8" id="532925"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GAZA STRIP" uuid="302ab5f2-5fa2-482d-9d22-8a7a1546a62d" id="532927"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BAHAMAS" uuid="31c5e65c-05b6-4806-830f-94c912f03c77" id="532929"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="OKLAHOMA" uuid="31ea4578-9b23-4f66-b454-b7dae358267c" id="532931"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ILE DE LA POSSESSION, BASE ALFRED FAURE" uuid="336b41d3-5597-46ee-9d26-8d992399da93" id="532933"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MELANESIA" uuid="33ceb9b7-d144-4e19-92b5-27861898bfd4" id="532935"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PARAGUAY" uuid="3456a093-81b0-4f6b-9073-d17502a8072b" id="532937"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOLOMON ISLANDS" uuid="34ade06e-d992-45aa-8fd1-9eabd2d417fc" id="532939"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EURASIA" uuid="350fb2da-c713-497e-9d7d-42dcad0df83f" id="532941"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TRISTAN DA CUNHA" uuid="35203540-ed8a-4087-82aa-bfcdc3bc11ec" id="532943"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CUBA" uuid="3588a42b-43bc-43d1-ad7b-3c43ba3bec4b" id="532945"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="VERMONT" uuid="359e1e8f-1789-4c32-9afc-79c2fd6f9884" id="532947"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SUDAN" uuid="35c312f3-ef63-44c1-9668-b6c7f7ff025e" id="532949"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CUSP" uuid="35f9f5d9-c2fd-420e-a08d-34938fd22d6c" id="532951"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GOUGH ISLAND" uuid="3629338b-cfef-4119-ae3c-b9c800776275" id="532953"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CONGO, DEMOCRATIC REPUBLIC" uuid="3682524d-6ff3-4224-a635-9741726f025f" id="532955"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="WALLIS AND FUTUNA ISLANDS" uuid="37c58b9a-dbba-4941-bcc9-99b2ef10c43c" id="532957"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ISRAEL" uuid="3898679c-68f8-42af-bbf1-1400955e0076" id="532959"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORTHERN MARIANA ISLANDS" uuid="39fefc6a-a548-4a7f-96a8-434dae6d56ed" id="532961"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SAO TOME AND PRINCIPE" uuid="3a607d6a-1d8e-4bd2-8ce3-6d4a6ab21ad3" id="532963"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EQUATORIAL GUINEA" uuid="3b515cd8-bc42-4fab-9990-df3be2817938" id="532965"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="VENEZUELA" uuid="3bd4aae9-4415-44bb-ad97-5db303ad8cd8" id="532967"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MERTZ GLACIER" uuid="3c374d0e-fb82-4e14-9119-2f958747dca4" id="532969"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PITCAIRN ISLANDS" uuid="3c4bed7f-1e6b-435f-878f-70da1601f29b" id="532971"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="FIJI" uuid="3c6073a8-432d-4cf9-9d48-1963cc5290ff" id="532973"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GLOBAL OCEAN" uuid="3d4e44c4-5d99-4a9b-8388-43c63533ee97" id="532975"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ERITREA" uuid="3f3cc6a3-81e3-49b6-b23a-b02678840e06" id="532977"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="POLAR" uuid="3fedcf7c-7b0c-4b51-abd2-2c54de713061" id="532979"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORFOLK ISLAND" uuid="3fef61fe-15e9-4cd7-a43c-18d28c26706e" id="532981"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SPACE" uuid="3ffa2d97-a066-4b3c-87f9-06779f12e726" id="532983"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PORT-AUX-FRANCAIS" uuid="4095946b-4a9b-40f5-a0ee-fcfbae12b64e" id="532985"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GHANA" uuid="4169d7ae-fa7e-4264-888c-c15b14c574cb" id="532987"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTHERN HEMISPHERE" uuid="417235ba-103a-443c-bb43-75a1a772a2e2" id="532989"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MARYLAND" uuid="417c01a8-79c5-40e6-affc-8a462b0b4336" id="532991"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NUNAVUT" uuid="4185beef-8d24-4205-9fe7-2d1345671680" id="532993"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CONNECTICUT" uuid="41ac6bda-027c-438b-b41f-a6e6cb2f03ce" id="532995"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BALTIC SEA" uuid="41cd228c-4677-4900-9507-70144d8b50bc" id="532997"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="KANSAS" uuid="42b510c8-3f17-4f95-85f5-011065fcc038" id="532999"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ARMENIA" uuid="42c902b9-ed3b-435f-89c3-150de74451f1" id="533001"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GUINEA" uuid="4334c04a-1ab1-475d-9aab-bc30476a8b25" id="533003"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TUNISIA" uuid="434da207-97f4-4bb5-9550-40b0237f0a3f" id="533005"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PERU" uuid="4366972c-aa2d-41cb-b9c3-4d6f57546f65" id="533007"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="KAHOOLAWE" uuid="43bdd952-dc95-45a0-bf60-05a4c958ff0c" id="533009"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORTH SEA" uuid="4401ec0e-0d64-41d3-b4bd-2ff797865e83" id="533011"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BOTSWANA" uuid="444367b0-aa47-4d8b-94d7-41f7d69d2738" id="533013"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="INDIA" uuid="446c1b9a-cee6-46e6-99be-3db5fbb798fb" id="533015"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="IRISH SEA" uuid="452868d2-bcca-4cb5-8d5d-102b4f6019eb" id="533017"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="COLOMBIA" uuid="452b929e-ffdb-48c8-b3a2-bddd1ab2bf97" id="533019"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LANAI" uuid="456dc4c6-5750-449c-b2cf-61969bcf728c" id="533021"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="KAUAI" uuid="45fe9be8-818b-465e-ad75-b025ff447844" id="533023"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="UZBEKISTAN" uuid="4642acf0-c21c-48a6-91f4-6fbd6d0966d4" id="533025"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MID-LATITUDE" uuid="46769685-522d-49c3-ad81-22e1cc8c0c2b" id="533027"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MONTSERRAT" uuid="46cfe46b-7a99-413b-b763-dd8c8f579e1a" id="533029"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ST LUCIA" uuid="477a9a14-0c23-4f74-a82b-565fd3a856ab" id="533031"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BERMUDA" uuid="4811b042-546d-43de-88c4-fdfef09fab80" id="533033"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOMALIA" uuid="48beae8c-e18a-4924-9d39-a6c7b18e29cb" id="533035"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NEBRASKA" uuid="48c90518-9246-452b-8874-d50975e87ef6" id="533037"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CAPE COD" uuid="48f4e536-a426-4735-b0c4-f80a1d0afa19" id="533039"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="RWANDA" uuid="4a86e5fb-6155-47c0-883b-2edb8e1257aa" id="533041"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="KINGMAN REEF" uuid="4ad44654-2b00-4544-a149-1f01056e57c0" id="533043"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="INDIAN OCEAN" uuid="4b75a3a2-9811-43b9-8f8c-64d0ae4d9ca8" id="533045"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORWAY" uuid="4bbd9eec-9daa-45c5-9cc7-1d8fb8bffd79" id="533047"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="IRELAND" uuid="4bcfd0d2-b5c7-47cb-8ded-d544a84f0c47" id="533049"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BRITISH INDIAN OCEAN TERRITORY" uuid="4d9cb925-670c-43e6-af0f-40372df8b206" id="533051"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SABLE ISLAND" uuid="4e5212a7-40a1-4866-8e58-2ca71cc26054" id="533053"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="INDIANA" uuid="5061b32d-58dc-4a48-ba0a-5e8d3c686cc3" id="533055"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORTHERN HEMISPHERE" uuid="507794a1-9563-49a4-b2d3-8a28347c1fd7" id="533057"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="YEMEN" uuid="50d3d6bf-d409-466d-9ad8-469bf5d110a4" id="533059"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="VAN ALLEN RADIATION BELTS" uuid="50e1aaa9-fea0-4322-8ba1-cf39efce9daa" id="533061"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NETHERLANDS ANTILLES" uuid="514053f8-27a3-4fcb-8ce8-0d63cb345740" id="533063"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GLOBAL" uuid="51e3593f-4b42-4141-972e-96666c479f9c" id="533065"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CHINA" uuid="523afb73-9b4c-4478-97e2-a7d5e228e31c" id="533067"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOLAR CORE" uuid="52cf52d6-c2d9-4dd5-88a6-580621eebfd4" id="533069"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SCANDINAVIA" uuid="5367bbef-371d-43be-a4cd-5f4f5ccc4403" id="533071"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="VATICAN CITY" uuid="538d7162-9823-4942-ae11-3131c8fbd245" id="533073"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="FAEROE ISLANDS" uuid="539e03d8-2a5c-4786-8ed5-ff27cf595e36" id="533075"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CENTRAL PACIFIC OCEAN" uuid="54340be8-8bd7-40be-a9d0-2e212bddd5d9" id="533077"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MAURITIUS" uuid="5477242e-79ee-4139-bb1f-ab3ace1eb864" id="533079"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORTH PACIFIC OCEAN" uuid="5488b1cc-08b2-41cf-9bd2-4a2cdd0990de" id="533081"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="DOMINICA" uuid="54fc3042-e1a5-4381-859f-e80335831de4" id="533083"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ALGERIA" uuid="553fabba-37b9-4d16-aed1-cc6ac6f729e1" id="533085"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MICHIGAN" uuid="5561d10d-5224-4e09-9d68-caffd6bc3d74" id="533087"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BHUTAN" uuid="55a04c46-92cf-49c6-8c84-8cd2c058f1e4" id="533089"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SAMOA" uuid="55fcc7db-f0c6-4504-a686-b0318873efa2" id="533091"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GRAND BANKS" uuid="56c7983c-33fa-4abc-95d4-8ae848048abb" id="533093"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CROZET ISLANDS" uuid="57307aeb-06c4-443c-bdc3-e554d6414aa6" id="533095"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PALESTINE" uuid="57be5043-4557-45ad-8ac5-e1f8fbf92efc" id="533097"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ISLA GONZALEZ" uuid="57d5b413-48b5-485a-ad7b-bd0201c64a60" id="533099"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SEA SURFACE" uuid="5810d615-a3fc-4f79-947a-bae456b728c2" id="533101"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EGYPT" uuid="58813ee3-ea1f-40a3-a0da-1198d78c06dd" id="533103"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MARSHALL ISLANDS" uuid="589b1245-f1f8-4a63-882f-0e2e72625df0" id="533105"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="COSTA RICA" uuid="58ee925e-3285-4192-8f0a-f49a5c211439" id="533107"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ST HELENA" uuid="597b10dd-8822-46a7-922d-7d9a99abd8c1" id="533109"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MOLDOVA" uuid="59c12b6b-c5b4-4e23-9281-731e3473cca3" id="533111"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NEPAL" uuid="5a3c4d08-5924-4ea7-a59b-06cc653deba7" id="533113"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="COOK ISLANDS" uuid="5aab4096-0a38-4c38-88f1-126001f3d037" id="533115"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EASTERN EUROPE" uuid="5add948b-8520-4e55-808c-27f0be33d35a" id="533117"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BOSTON" uuid="5ae6db89-e135-4e83-9317-c48ee0bc832c" id="533119"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="COCOS ISLANDS" uuid="5bc49524-33cd-48b8-9c23-d648e8ecbad5" id="533121"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ADRIATIC SEA" uuid="5c439818-3a80-4c6d-9d2c-74ea1f1a294a" id="533123"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="FALKLAND ISLANDS" uuid="5c637509-8e68-4511-9b85-8bbee1107a7a" id="533125"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="YUKON TERRITORY" uuid="5da3b055-4215-4ec5-95f7-fdca626ebf57" id="533127"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="KUWAIT" uuid="5db07c1e-355b-40d9-94b2-7fabe4119af3" id="533129"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CAYMAN ISLANDS" uuid="5e154e2c-192d-4ef6-9279-84563cfcc5f5" id="533131"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="IDAHO" uuid="5e4b6864-4bf7-43a9-8ca6-2099cc40dd25" id="533133"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ICELAND" uuid="5e64ca14-42f3-4222-8f2c-5db3c7b71d8f" id="533135"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MOLOKAI" uuid="5eaf4989-04fa-4b01-8239-f325951832df" id="533137"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CHANNEL ISLANDS" uuid="5ef2ae17-111c-4e9e-a6c9-95ce17a8b75c" id="533139"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="WEST VIRGINIA" uuid="5f5917c3-7225-47d1-b465-03d7b8338060" id="533141"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BELIZE" uuid="5f8636bb-0dc3-4528-a1eb-da5ac3b51fe2" id="533143"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MALAYSIA" uuid="5f9a0900-8379-456b-bd5e-d6235a022bfa" id="533145"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SICILY" uuid="5ff76570-66c1-4095-af0b-f688fd8b026d" id="533147"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PAKISTAN" uuid="60b17f24-cf23-4209-91c4-975a87a7acb0" id="533149"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GLOBAL LAND" uuid="61cc17c8-4f06-4556-8117-8ba9bb329a3f" id="533151"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="HOWLAND ISLAND" uuid="626ee48e-c58c-4cbf-a15e-23bc0331857b" id="533153"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="HAITI" uuid="63246421-f046-4770-acd9-d0a3d31bbd36" id="533155"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="KOSOVO" uuid="632e6bd5-cdd5-42fa-801f-66b553155905" id="533157"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SINGAPORE" uuid="6364bdbb-cdec-4059-a2b5-6b873c09fc7d" id="533159"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TROPICS" uuid="639c23bd-f64a-4061-a535-4a1a842d230f" id="533161"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="DHEKELIA" uuid="63ddceba-4924-4c03-814f-ae7a90ddde62" id="533163"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BYELORUSSIAN SSR" uuid="649c7926-a726-406f-abec-92d3e1877714" id="533165"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BAY OF BENGAL" uuid="66dc90fd-304a-4379-a9e1-18cf184cc6da" id="533167"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CANARY ISLANDS" uuid="69534766-c309-4145-8963-2bdb7b57340b" id="533169"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="OREGON" uuid="699d5c22-6bcd-4cfa-be0f-f06e34a63513" id="533171"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ARKANSAS" uuid="69f4d2fa-5b3d-43fe-bd55-63f6c9d1ca5a" id="533173"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="THAILAND" uuid="6af5848c-db4b-4dd0-a6fb-1b9c904ef21b" id="533175"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LAKE VICTORIA" uuid="6c7b31f5-8e07-4a2c-b94f-69be416c60a3" id="533177"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MALTA" uuid="6d54689d-b634-4d5e-b2f9-752c3648bdcf" id="533179"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EAST CHINA SEA" uuid="6d61eeb2-a5a6-4364-b974-e5b4d317327f" id="533181"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NIIHAU" uuid="6d9ffb4c-1dc6-4e69-98ce-2b87f00d6d98" id="533183"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BAY OF FUNDY" uuid="6e4b47ff-1d42-42d7-b5a0-a15cb27e39cc" id="533185"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SPACE" uuid="6f2c3b1f-acae-4af0-a759-f0d57ccfc83f" id="533187"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOLAR REGION" uuid="6fa811fb-3666-4970-9208-ca8a21d57138" id="533189"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SVALBARD AND JAN MAYEN" uuid="706ae2c4-750c-4a96-a7af-5133c357ae5c" id="533191"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GULF OF ST LAWRENCE" uuid="70c4057c-7ecc-4ff5-a6e6-5d5b0bb2af3b" id="533193"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MEXICO" uuid="70d89073-6697-4eb6-b01b-989c623a5649" id="533195"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ANTARCTICA" uuid="70fb5a3b-35b1-4048-a8be-56a0d865281c" id="533197"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="Locations" uuid="713eb469-abe4-4b6b-bad6-134187deabd8" id="533199"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTHERN AFRICA" uuid="7147d041-d762-4475-8762-3b00d49ba9a7" id="533201"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BURMA" uuid="71953a36-817f-4b70-83df-f056364ce65d" id="533203"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="UTAH" uuid="71a722af-0cd9-4052-b4e8-f3af56201401" id="533205"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SERBIA" uuid="71c964af-7eec-4812-85de-04cadfd77934" id="533207"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MANITOBA" uuid="72e9e5dc-0f52-43df-8670-d5908806759e" id="533209"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PORTUGAL" uuid="73236574-93e5-4520-ad5d-e298fd28d42d" id="533211"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LOUISIANA" uuid="73c5d3e9-29f6-4352-a3db-1bc49bbff315" id="533213"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ST MARTIN" uuid="74335c3e-c856-48d3-a4de-d6fe4c7db775" id="533215"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MAGNETOSPHERE (OTHER)" uuid="748c0239-be0b-42ef-8d82-587c09afdb1d" id="533217"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MAUI" uuid="74ab7a7c-6ec5-4dd2-a1d4-0274dced3e3d" id="533219"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="UNITED STATES OF AMERICA" uuid="753f915c-70d4-49e1-9bd5-83e75f461e30" id="533221"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="DJIBOUTI" uuid="75dc417f-5bdc-441b-bfa9-8a31a03598d6" id="533223"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GULF OF MEXICO" uuid="75fab119-51a6-4b59-9711-f6c3cd3139db" id="533225"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BOSNIA AND HERZEGOVINA" uuid="7691ebb7-81c0-4f38-945c-4462a203cccb" id="533227"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MACQUARIE ISLAND" uuid="76b3388a-990c-4a46-b35a-748552b671d7" id="533229"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="HIGH LATITUDE MAGNETOSPHERE" uuid="77a3d69b-2fe6-48a0-9d85-bae062a4e2ff" id="533231"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ZAIRE" uuid="7848d9b7-a18d-4519-bec3-b4f5fe19a68f" id="533233"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CAPE MOBIUS OF TERRA NOVA BAY" uuid="789badd4-8d66-49dd-a4ff-98003f89864d" id="533235"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH ORKNEY ISLANDS" uuid="798a293e-c19b-4103-93eb-c7eb5b27c214" id="533237"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SAUDI ARABIA" uuid="798f3745-be8c-48b0-b903-0265dbe1f957" id="533239"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NIUE" uuid="79f4dd2f-07c5-4932-b507-f1db66b6240e" id="533241"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GEORGES BANK" uuid="7a1f45ea-4804-4ae0-8949-e4f33223d39d" id="533243"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NIGER" uuid="7b1a37fd-aae9-4bcf-86b1-48e7db570f65" id="533245"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GULF OF TRIESTE" uuid="7b93c892-2fc4-417b-a4da-5c8a2fca361b" id="533247"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="JOHNSTON ATOLL" uuid="7ba7460f-32d8-4364-9608-eec6387133e9" id="533249"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="UNITED ARAB EMIRATES" uuid="7bc3667c-98be-4b3f-b831-33e1a784a37c" id="533251"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EQUATORIAL" uuid="7c5c3754-7b3d-4c08-9ea3-670ed82629ec" id="533253"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="IRAN" uuid="7daf09eb-e8b7-4c69-b0d1-c53a429379cb" id="533255"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="KENTUCKY" uuid="7de86e45-f3e3-4475-af21-fc5a7f0c6349" id="533257"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CHUKCHI SEA" uuid="7e35ea67-a0c9-49fa-97de-e5f8f5b9ee6d" id="533259"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GUADELOUPE" uuid="7ff548d5-896a-48c5-9ffb-28aa4d47825f" id="533261"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EARTH MAGNETIC FIELD" uuid="8000a80c-9f8d-4406-80bc-3a4a75117df9" id="533263"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SENEGAL" uuid="80e7a4da-82a2-449e-87d3-603d857058c5" id="533265"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ANGUILLA" uuid="835b0d04-f380-4e59-a19e-6652ae04dbea" id="533267"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ARGENTINA" uuid="838923bc-cda7-4cf5-a21a-0c777304a593" id="533269"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="UKRAINE" uuid="83b75894-bceb-466a-b7d4-a6cd37521ffc" id="533271"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ST VINCENT AND THE GRENADINES" uuid="844d7d6f-e9e8-4632-83e8-115a6e972e18" id="533273"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NEUTRAL SHEET" uuid="848254ad-c92c-44fd-8c01-a4755fef4673" id="533275"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BALLENY ISLANDS" uuid="84a3d9ed-7a8e-4286-b821-8389c774a719" id="533277"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="INDONESIA" uuid="84aeedd2-6093-4252-9895-8dc063a9ad97" id="533279"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH CHINA AND EASTERN ARCHIPELAGIC SEAS" uuid="8537ebe8-8768-4463-ad22-8bbe508f43bf" id="533281"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NEW YORK" uuid="854d0bb3-dcc3-48eb-a65a-2d26a8b87394" id="533283"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="HEARD AND MCDONALD ISLANDS" uuid="855fdce6-877e-433e-bae5-a6df132a4c8a" id="533285"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MIDDLE EAST" uuid="8596fd82-b9bc-4b90-bf9b-23c7f59ac4ab" id="533287"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MONACO" uuid="8611d45f-c410-44ac-a2ea-d369b7c10011" id="533289"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GABON" uuid="864e3511-3326-4b8f-a534-1a8945fcc3eb" id="533291"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BEAUFORT SEA" uuid="86ed3782-8e30-4547-a774-35100b224d5a" id="533293"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CRUST" uuid="87a9b0a4-c94d-4ccd-a28a-89e2853dcbde" id="533295"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MT MELBOURNE" uuid="87c840a4-1ecf-48fe-90cd-0b93d4b02c89" id="533297"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MONTANA" uuid="88030de5-d237-4074-943f-b6422790d58d" id="533299"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORTH AMERICA" uuid="88bc8b39-ad19-4415-b426-e7d37450341a" id="533301"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH CHINA SEA" uuid="89eb3337-707f-496d-9850-a6312ca42ecf" id="533303"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="WEDDELL SEA" uuid="8a101ca4-ba38-4e32-a14c-59501e4927d0" id="533305"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="DES MOINES" uuid="8abe2036-a848-451a-8eee-ae7ccd9e401f" id="533307"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SUMATRA" uuid="8b9f777c-3037-4fcf-9d7f-a2bcb809d2be" id="533309"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="RUSSIAN FEDERATION" uuid="8c10116a-e71d-45fd-a4b6-92e6b4bf234d" id="533311"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MAGNETOTAIL" uuid="8cb93d1a-8405-4722-92dd-434ebc850088" id="533313"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH SUDAN" uuid="8cd9397d-ab47-490c-be80-3503be51d5dc" id="533315"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PRINCE EDWARD ISLAND" uuid="8d1ef0a1-f9e1-4807-9025-717af90479cb" id="533317"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EL SALVADOR" uuid="8d237194-e6b5-418b-ab67-e20e260867e9" id="533319"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GRENADA" uuid="8d9e2612-e2ab-4895-9a26-c968522019f1" id="533321"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MCMURDO SOUND" uuid="8e6ed09f-fc31-40ad-acbb-e2c0a05a642e" id="533323"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CHRISTMAS ISLAND" uuid="8e82af62-b3b1-4fc6-95b0-adb9433aa23f" id="533325"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PUERTO RICO" uuid="8e8ff5a7-ca10-4322-a5d6-84c08d73775a" id="533327"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MESOSPHERE" uuid="8eb2ab2b-f923-47ca-9a13-f966cf11d802" id="533329"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="VIETNAM" uuid="8f4b20b4-633c-4a2e-941d-49e4b5ab3374" id="533331"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LAND SURFACE" uuid="90761f8d-6abe-499c-b711-acec394daa59" id="533333"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="HONDURAS" uuid="91409bfb-7fe2-4eaa-97d9-4bc96d5a85b0" id="533335"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORWEGIAN SEA" uuid="91dd3935-a1ae-48ca-b263-9b10ac732372" id="533337"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="HAWAII ISLAND" uuid="91e466e3-2a02-4ce2-a62d-1b0bb2d13683" id="533339"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="WESTERN PACIFIC OCEAN" uuid="922a749a-d663-495f-bd26-31e6cfb89c57" id="533341"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="OMAN" uuid="925747d0-b5f0-4c51-9216-04980a785b54" id="533343"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BOUNDARY LAYER" uuid="928f6ffd-4b96-43c5-91e9-9c655258ad44" id="533345"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BURLINGTON" uuid="92a4dbc0-eb29-4417-a986-ee747c481881" id="533347"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LAUFF ISLAND" uuid="9464e2fc-1198-43b7-af7c-8b1ea53b2b0a" id="533349"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="AZORES" uuid="946f1f4f-fddc-418b-8177-38ba747e0e64" id="533351"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GERMANY" uuid="953ea5cb-cd34-4ffc-a18b-f93173f2c7f6" id="533353"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORTHWEST TERRITORIES" uuid="95bed3b9-3c0f-4333-b9ac-2f2f5fede59e" id="533355"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="KAZAKHSTAN" uuid="95ef2448-80da-4419-8c07-f05f7d625796" id="533357"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LESOTHO" uuid="96c2b110-5d8b-425b-a5e5-7066e6c7b52e" id="533359"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MAGNETOPAUSE" uuid="971933a3-b116-4fdc-91c6-3067eaeedc8c" id="533361"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ISLE OF MAN" uuid="977f6d42-8d3a-4875-8a7b-ed225622519c" id="533363"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ANTIGUA AND BARBUDA" uuid="97b6f4a7-a03a-4b6b-a6f3-fbd80f84fa95" id="533365"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PETER I ISLAND" uuid="9876ec21-7cb3-4f39-b7fe-1bf7c179fa22" id="533367"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="URUGUAY" uuid="989f1016-3a59-4520-935e-0f75467a740a" id="533369"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="DENMARK" uuid="98f7f9f6-90cb-4f52-8bec-8d21dd310c30" id="533371"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GULF OF ALASKA" uuid="9972bea3-3817-44e8-9c14-bcda7750d820" id="533373"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="JAMAICA" uuid="9a539ebb-1b71-4e56-9581-e42c0a9c96ea" id="533375"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="KENYA" uuid="9a733984-abe2-4a34-b189-9bb62b9f9b85" id="533377"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CAPE VERDE" uuid="9aaf0f2f-6e85-4175-b4c2-a6dc31d8793a" id="533379"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="JAPAN" uuid="9ae108db-2d76-44a1-b381-eba2df9554ad" id="533381"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ANGOLA" uuid="9b0a194d-d617-4fed-9625-df176319892d" id="533383"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CHAD" uuid="9b328d2c-07c9-4fd8-945d-f8d4d12e0bb3" id="533385"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LAKE MALAWI" uuid="9bc94214-449d-4b97-b268-ef4b8dcadd23" id="533387"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ST EUSTATIUS" uuid="9c1c7783-8214-480b-a1e6-68240ce803ce" id="533389"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GULF OF MAINE" uuid="9c31f745-a3d1-4007-99ae-fceca2019fab" id="533391"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH ATLANTIC OCEAN" uuid="9ce6b6ba-8f9f-4585-9438-05619d768578" id="533393"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ALBERTA" uuid="9cf876f7-1621-4e1b-bc56-056a0c28ed4b" id="533395"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GREENLAND" uuid="9d15e288-95cd-476e-acdd-5e31add3ca32" id="533397"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NOVA SCOTIA" uuid="9dc6c179-4631-4804-99be-bdbbff83c679" id="533399"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ASIA" uuid="9e29690c-079c-4429-afed-ef061ab0c41e" id="533401"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="FRENCH POLYNESIA" uuid="9e683aa3-89a7-46fe-a4bb-d558719a9aa2" id="533403"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PERSIAN GULF" uuid="9e75b714-9315-42e8-85c7-dbe502659e98" id="533405"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTHEASTERN ASIA" uuid="9ea81338-dc64-4803-b0e2-db0e2aaa70cf" id="533407"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PHILIPPINES" uuid="9f78dabd-0540-4724-b093-8c0fc05afd3f" id="533409"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ALABAMA" uuid="9fe93f63-61b1-4232-bf5b-05703f803fce" id="533411"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CAMEROON" uuid="a028edce-a3d9-4a16-a8c7-d2cb12d3a318" id="533413"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NICOBAR ISLANDS" uuid="a09d128e-c786-48cc-b569-c1a6bbb1f772" id="533415"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="KING GEORGE ISLAND" uuid="a100adaa-1e50-44bd-b53f-94a986f5b495" id="533417"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH CAROLINA" uuid="a163e72a-e31f-4fa6-aef9-8f21f2e4b081" id="533419"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LAKE CHAD" uuid="a1810ec4-2d03-4d98-b049-2cad380fb789" id="533421"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ARABIAN SEA" uuid="a186eed4-d1b4-4d11-b218-b61708a9124c" id="533423"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PACIFIC OCEAN" uuid="a19e4450-64c4-4687-9080-cebded8a90eb" id="533425"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CEUTA" uuid="a1c03e9b-1eae-4ea5-be30-3b2cd217216c" id="533427"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="IONOSPHERE" uuid="a260baca-735f-4085-a0bc-212ac44aef3e" id="533429"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="WESTERN HEMISPHERE" uuid="a29a6a2b-e0e5-4ba9-9768-df67db4f34a6" id="533431"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NEW HAMPSHIRE" uuid="a2e161cb-6448-47b0-ab56-c15308152181" id="533433"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORTH ATLANTIC OCEAN" uuid="a4202721-0cba-4fa1-853f-890f146b04f9" id="533435"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="FRANCE" uuid="a4ab3fe4-b9c7-4aad-9eaa-ba63f38059e6" id="533437"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BARENTS SEA" uuid="a4cb5149-19c8-45dc-976b-9cd590a7365a" id="533439"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="DOMINICAN REPUBLIC" uuid="a5b56209-919d-4ace-9954-cbda4e58a3be" id="533441"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH GEORGIA ISLAND" uuid="a5d18d41-4e95-4442-93ee-6de73403d71f" id="533443"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORTH CAROLINA" uuid="a6eb6bdd-8aec-475f-a660-b8603219a5b0" id="533445"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="AMSTERDAM AND ST. PAUL ISLANDS" uuid="a6f58ff3-7fd8-47a2-b007-6e23c104d272" id="533447"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BULGARIA" uuid="a708af36-ff82-4403-80cd-6b4ffc661cc4" id="533449"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BAHRAIN" uuid="a7334f57-6040-46a3-bde2-f87b26e8a3a3" id="533451"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EASTERN ASIA" uuid="a817d381-60e3-4f1b-aa38-041d83b67e70" id="533453"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NAMIBIA" uuid="a827feaf-9926-4a4d-b21f-dc044524b2b5" id="533455"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTHERN ASIA" uuid="a8ee0d08-8772-4951-bbf0-4114dd07de03" id="533457"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GEORGIA" uuid="a94fb5d3-6a0a-44a1-ac31-5e8978b5f0b1" id="533459"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SCOTIAN SHELF" uuid="aa2adee8-f978-4e6a-921c-be457849d251" id="533461"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BURKINA FASO" uuid="aa499067-03c9-4684-be74-223b8b58304d" id="533463"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MAHER ISLAND" uuid="aa9be105-fc42-42db-94fd-79590dd84f67" id="533465"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ZIMBABWE" uuid="ab8482e0-3abc-48ce-9216-a9932b0bb090" id="533467"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SCOTT ISLAND" uuid="ac00af1a-62d1-4919-b84d-10a180b4f712" id="533469"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CARIBBEAN" uuid="ad18da3f-fbdb-4bc1-ab4d-008e9b8f6002" id="533471"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MT RITTMAN" uuid="ad47931f-dec9-488b-b4a4-51696f9aa088" id="533473"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SPRATLY ISLANDS" uuid="ad78262c-aa77-41ff-ab1c-507988be9827" id="533475"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="Prydz Bay" uuid="adecb0c1-3fba-42df-9e13-26899e868bb5" id="533477"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CHROMOSPHERE" uuid="af585cc5-aab9-49cc-b05d-afe4ca4de878" id="533479"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MONGOLIA" uuid="af7106d6-4f42-4797-a547-b9e2f4384c7f" id="533481"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BLACK SEA" uuid="afbc0a01-742e-49da-939e-3eaa3cf431b0" id="533483"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SEYMOUR ISLAND" uuid="b09b4bcf-dd12-4501-bf06-e44aa3b11af6" id="533485"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TOKELAU" uuid="b0b29e5e-6028-49c5-bdc1-c288a7aa83ac" id="533487"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GUINEA-BISSAU" uuid="b0d902f8-d1b3-4cc8-aa2c-58fd4fead65e" id="533489"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TRINIDAD AND TOBAGO" uuid="b117b0ec-3013-48a2-81b5-58215bca8e1e" id="533491"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="FINLAND" uuid="b198283f-02d9-424e-838a-8997a18139a9" id="533493"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SURINAME" uuid="b2012be4-7977-4d49-ac23-bacd05e9a1d0" id="533495"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="IRAQ" uuid="b25e6700-8d6f-4c95-be85-dedc4f077b26" id="533497"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="JARVIS ISLAND" uuid="b3b5dbff-09a4-45f1-b1c2-847e3c8e6153" id="533499"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ARGENTINE ISLANDS" uuid="b3f09053-bb27-4d49-a2fa-893547f5e14b" id="533501"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GAYLORD" uuid="b4d4394b-729e-4b18-ac41-5b03b23a44bc" id="533503"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LITHUANIA" uuid="b58616f8-024f-45f1-be4f-8924557a82bc" id="533505"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="FLORIDA" uuid="b607766c-83f5-42bb-96b2-2de4e7b488a4" id="533507"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH AMERICA" uuid="b7422ce5-a062-4e96-9a8b-36f9e3809e79" id="533509"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NAURU" uuid="b76e19a0-73aa-484a-9723-c7940191ec61" id="533511"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BARBADOS" uuid="b770fd0c-6169-42e8-ad30-7fde13c5c6c5" id="533513"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTHERN OCEAN" uuid="b791f381-1c1c-4958-bc7d-b72a15da1174" id="533515"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ECUADOR" uuid="b7eb8278-0dc3-4121-87ea-14173279dfb4" id="533517"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LAKE BAYKAL" uuid="b8631319-b4ee-4676-beaf-2aa179504be6" id="533519"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ST KITTS AND NEVIS" uuid="b870624c-8668-4c3e-9f0d-6c2f08bce62b" id="533521"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NEW MEXICO" uuid="b8bdae16-f063-42a5-8d47-2ee863fa56e9" id="533523"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ONTARIO" uuid="b907550e-6aa1-4cbf-b83b-08546f949d12" id="533525"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BLACK SEA" uuid="b9c9d69b-9221-4aac-affb-5d3e98039251" id="533527"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LA CROSSE" uuid="b9f52e70-8d85-45b6-b166-79201ce7d2bc" id="533529"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH SANDWICH ISLANDS" uuid="baa8382b-6ee9-4a9d-9937-bf0e6b062ac7" id="533531"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NEW BRUNSWICK" uuid="bab83514-4a6a-4ac5-a130-378ee49fdf18" id="533533"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="AMAZONIA" uuid="bb293e12-6ffe-48e2-96e5-8f5ae9c137c2" id="533535"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NEW JERSEY" uuid="bbbb53c6-a8e8-4db6-8849-07316a5ff6c8" id="533537"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MALAWI" uuid="bc151f49-5347-401a-a0b6-476656a2df23" id="533539"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BONAIRE" uuid="bc7f49de-7e63-495c-af20-851938d4f6bc" id="533541"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ETHIOPIA" uuid="bf35988f-1bab-4b16-87c4-811c572f7b24" id="533543"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EAST ANTARCTIC CONTINENTAL SHELF" uuid="c09d2746-b111-4a47-86a6-3a5932b5ceb6" id="533545"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="OHIO" uuid="c23966c4-9e16-484c-a1ef-efcd2354d71c" id="533547"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="WYOMING" uuid="c2847793-0bb8-41cf-b3e0-d4e4b27914ce" id="533549"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MEDITERRANEAN SEA" uuid="c322d007-8d19-451b-ba46-daa216782248" id="533551"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MISSISSIPPI" uuid="c3954181-53c1-4847-84dd-cf62815b985f" id="533553"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MISSOURI" uuid="c42c3695-f569-40f4-8330-9b6fde553abf" id="533555"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ARIZONA" uuid="c46d59a8-d874-4db8-87f5-d59ecbb79a29" id="533557"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NETHERLANDS" uuid="c4ff980e-6edd-400f-9c99-951fa0d0c887" id="533559"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SLOVAKIA" uuid="c707babd-bca8-46ea-90ab-8cf17a6c50fe" id="533561"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LIBERIA" uuid="c7db33e9-b333-4aee-bcf8-8003fba420b0" id="533563"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SASKATCHEWAN" uuid="c7e30fc4-c8f0-4945-b161-214ab253f170" id="533565"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="VIRGINIA" uuid="c86d3f12-106a-435d-ba9e-d735b306b200" id="533567"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="QUEBEC" uuid="c977c83a-f171-4337-8001-abb2539cdc76" id="533569"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BRITISH ISLES" uuid="c9e8dfcd-18ac-405d-b6a0-934ae3c743d3" id="533571"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SABA" uuid="caa8da5b-48da-44fd-946c-24717d8bfdec" id="533573"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BOW SHOCK" uuid="cae6eb69-7ef9-451c-a77e-4c32a9665ee2" id="533575"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MOROCCO" uuid="cb410cb0-d8f3-42e2-9500-5576b802a7fa" id="533577"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ALAND ISLANDS" uuid="cbb172c1-a791-4a87-ab39-fe54508b26cd" id="533579"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SPAIN" uuid="cbbe14fb-a5ee-4236-84ae-cc8dee612b49" id="533581"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="DAVENPORT" uuid="cd638f0d-4740-4ab3-938d-6f8f284f78ae" id="533583"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOLID EARTH" uuid="cd8541b7-973c-4365-bed3-c4ec0ffd9953" id="533585"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="UGANDA" uuid="cdb3d558-8f51-45bc-8845-7362c63aa0f7" id="533587"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="AUSTRALIA" uuid="ce0984da-1151-41ff-8d92-ab551c9d08bc" id="533589"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ALASKA" uuid="ce93cb61-ead9-4b5c-b26f-0f22ea5e2b24" id="533591"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ATLANTIC OCEAN" uuid="cf249a36-2e82-4d32-84cd-23a4f40bb393" id="533593"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="OKINAWA" uuid="cf414436-730e-407c-9175-fa97c4f6429d" id="533595"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CANADA" uuid="d0081284-5cef-484d-b1ee-a6787b197a33" id="533597"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ZAMBIA" uuid="d019b59f-23d5-4ee5-9b3a-ee8ed75d666d" id="533599"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NEW CALEDONIA" uuid="d1040157-9bcb-4013-b01c-66325a9ac227" id="533601"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NEW ZEALAND" uuid="d225920a-b027-4931-83d4-b60918251b59" id="533603"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MOZAMBIQUE" uuid="d322d155-b8f0-4173-b382-b762a070e4d9" id="533605"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="YELLOW SEA" uuid="d3e1cc23-39d3-42af-ab7e-c4f7a59858b7" id="533607"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH DAKOTA" uuid="d401d70a-eacf-4ee7-89a4-70b67f711ccd" id="533609"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ARCTIC" uuid="d40d9651-aa19-4b2c-9764-7371bb64b9a7" id="533611"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TAIWAN" uuid="d4c65f0d-f825-4040-8dd3-69b85979101a" id="533613"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="AMERICAN SAMOA" uuid="d4db292f-3097-4843-a6c5-291cf993bea9" id="533615"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="HONG KONG" uuid="d5182160-6764-4662-80fe-1ec252d36f20" id="533617"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SEA OF JAPAN" uuid="d52321c6-ccc4-4a4a-bf94-638e57aaed63" id="533619"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="FRENCH SOUTHERN TERRITORIES" uuid="d582a87a-8969-45bf-947a-2864d2d0fcd7" id="533621"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TURKMENISTAN" uuid="d62d5dfe-b9a8-4107-aa4e-126192d5a487" id="533623"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TOGO" uuid="d66512f7-e44b-4cf0-a3cd-25750934b5f9" id="533625"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LAESO" uuid="d68d3910-3eeb-4c18-b95c-561a30f38550" id="533627"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ROSS SEA" uuid="d6cde6e4-f89b-4cde-8bdf-245a4c67c1ff" id="533629"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ST MAARTEN" uuid="d729cdbb-b302-42fb-8c72-3068302eada6" id="533631"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="RED SEA" uuid="d7808080-aea5-48f3-b0da-78141ef6324e" id="533633"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GEORGIA" uuid="d79e134c-a4d0-44f2-9706-cad2b59de992" id="533635"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PENNSYLVANIA" uuid="d7fa4d05-8c37-4e23-99eb-4f9a888a0d5d" id="533637"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BERING SEA" uuid="d85ae1ed-4b5f-440d-aaf0-7f9d605fec3b" id="533639"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="WISCONSIN" uuid="d8ad42ae-624f-48a2-be40-cf04c53e6543" id="533641"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MONTENEGRO" uuid="d8f2db47-29ae-4999-aeca-360e4f98f256" id="533643"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SIPLE ISLAND" uuid="d911a6dc-347c-45e6-8836-764fa7aac223" id="533645"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MADAGASCAR" uuid="d9f82c3c-0edf-445e-b838-eebc2278d4c1" id="533647"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GUAM" uuid="da0e4453-5f69-4656-a7f1-a68da6640dc8" id="533649"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CHILE" uuid="da26d486-1ee6-4689-abe9-5a59b2d572b1" id="533651"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="VANUATU" uuid="dc107028-a895-4ec0-8570-dba4caf0468c" id="533653"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SEYCHELLES" uuid="dc173a40-c1a0-4fd0-b059-2db52ca65639" id="533655"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="EASTERN PACIFIC OCEAN" uuid="dca3c058-59cd-48b1-9f61-b30557e87e51" id="533657"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="KYRGYZSTAN" uuid="dca66e52-9406-4824-8639-602e12dc7d62" id="533659"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ISLA BARTOLOME" uuid="dcc856e9-c215-4799-b64d-d406e3da8541" id="533661"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="WASHINGTON" uuid="dcef091b-18b5-48bf-b191-69ab7a3511f1" id="533663"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TONGA" uuid="dd3f51a1-9fe0-47ce-bdd5-772df3e450d5" id="533665"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="DRAKE PASSAGE" uuid="dd540b86-0422-496c-9c6b-5800192d7f8e" id="533667"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SAHEL" uuid="deeef0af-f305-4fd4-9796-e9e1906e5e15" id="533669"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LIECHTENSTEIN" uuid="df8d8422-8497-44c4-a147-1e4d0bdb4ad0" id="533671"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="DELAWARE" uuid="dfe30ec4-50e4-402e-9ab0-f5f6d141bb9c" id="533673"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="COMOROS" uuid="e0137b35-e179-4601-8ff5-9292fafe5959" id="533675"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BELARUS" uuid="e05da771-e0e8-4ce6-a599-078819c872b5" id="533677"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MALI" uuid="e0d8e561-956e-4450-9948-0568357c6abf" id="533679"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MACAU" uuid="e1078fd4-fa6b-4c35-81ee-648bc086e9c5" id="533681"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="COLORADO" uuid="e10d421b-11fd-4344-b0ad-b4d3eaec2fe5" id="533683"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="WAKE ISLAND" uuid="e142eefd-c5cb-48b4-8bdd-87a3ddc7ad8f" id="533685"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SIERRA LEONE" uuid="e17e528b-9730-46ca-9439-09bc2a3cf9c6" id="533687"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ARAL SEA" uuid="e2408bfc-f7d3-49a6-ad87-f025654e3af9" id="533689"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LATVIA" uuid="e2e7fb18-459b-4d43-8065-ce5ca7e5bdb9" id="533691"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="OCEANIA" uuid="e3205e96-9379-4b6c-86e0-c012090549f7" id="533693"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GUATEMALA" uuid="e325f579-2d4c-4c72-81f4-30cb8723261a" id="533695"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="AUSTRIA" uuid="e4d33a7a-f145-4aec-9d15-e21dc9916aad" id="533697"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ANDORRA" uuid="e4efa84c-fe5a-49f0-81cd-0a6e7b38074d" id="533699"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="OAHU" uuid="e554d02d-0532-4bcb-a8b8-ce869c25cd15" id="533701"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CENTRAL EUROPE" uuid="e56c5b41-7568-42db-ae22-ae9c1c9dc26a" id="533703"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="POINTE BENEDICTE" uuid="e58dcd83-8521-4d5a-b528-9cf60a50274d" id="533705"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BURUNDI" uuid="e5965e59-3d33-4bab-9220-688c12154702" id="533707"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="POLYNESIA" uuid="e5a8c108-e85c-4aa1-8b59-1da5817287ee" id="533709"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="BOLIVIA" uuid="e6c50f42-9065-4ff8-a172-58d668fde547" id="533711"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="RHODE ISLAND" uuid="ea2ec2ff-f0e5-4366-8255-621ad52f9e5f" id="533713"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORTH KOREA" uuid="ea7ae83d-94f5-4d2b-9b1a-6c8ac2b82c78" id="533715"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MAYOTTE" uuid="ea8a08f7-9b41-4541-8078-e9c9dd41d7f3" id="533717"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MALDIVES" uuid="eabe42d5-1826-4d7c-9988-4a6397873061" id="533719"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CARIBBEAN SEA" uuid="eb176e48-13e2-413c-85d6-b37e16303573" id="533721"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PALAU" uuid="ecac51c2-4def-4dac-b965-a5103402395b" id="533723"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="IOWA" uuid="ed048ffc-f15c-4b27-899e-70d00417685b" id="533725"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TERRA NOVA BAY" uuid="ee6ff7cd-2902-4856-bdf3-dc7cf95d0440" id="533727"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTHCENTRAL ASIA" uuid="ef8a6ecf-f0ca-4e05-81f9-d3be89e1ddc4" id="533729"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="PAPUA NEW GUINEA" uuid="f0757092-c0bf-4937-83bc-6011c682bae9" id="533731"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ESTONIA" uuid="f0b2da18-9290-4aaf-8e91-4b52e3d9dfc4" id="533733"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CURACAO" uuid="f0dd2220-9947-41db-a185-b05aaf26963b" id="533735"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="VERTICAL LOCATION" uuid="f1d9391a-071b-4264-a409-de3739e516d0" id="533737"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CORONA" uuid="f20c126e-476c-45de-af7e-5800f2237569" id="533739"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="HUDSON BAY" uuid="f26c754c-1765-4a45-920e-792b43353a39" id="533741"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ST PIERRE AND MIQUELON" uuid="f2f14e18-261a-426f-96bc-2922264637b2" id="533743"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CENTRAL AFRICA" uuid="f2ffbe58-8792-413b-805b-3e1c8de1c6ff" id="533745"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ARUBA" uuid="f39da294-1678-4cca-b545-885612e9f7de" id="533747"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="AZERBAIJAN" uuid="f487ce0b-ade2-4c3d-976f-3101da973126" id="533749"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GUYANA" uuid="f58ab39c-6c61-47cf-9117-50aa4e8aa93a" id="533751"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="TIMOR-LESTE" uuid="f58fbdce-3ee6-4dc1-b9ca-27953d89955f" id="533753"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LONG ISLAND SOUND" uuid="f6ed7b70-c420-46e0-97db-2aecd9748788" id="533755"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="HIMALAYAS" uuid="f7026a7d-92db-4b7b-aa46-c839ff72e79a" id="533757"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="GOUDIER ISLAND" uuid="f8a52f41-6584-457e-9162-7dde82c00d79" id="533759"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="NORTHERN AFRICA" uuid="f8ea9f90-eb85-42b0-8d30-93e2bdca16ef" id="533761"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MASSACHUSETTS" uuid="f9837873-62cd-402c-af8b-571876942a83" id="533763"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH PACIFIC OCEAN" uuid="fa0ec8a7-ebed-4f2d-834b-1fa6a1c2e0ed" id="533765"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="AFGHANISTAN" uuid="fa3c995d-58d6-4f06-9fb0-ec04e0456d7b" id="533767"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="WESTERN SAHARA" uuid="fab1118b-afa8-4cfd-a05b-ed808392e910" id="533769"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH SHETLAND ISLANDS" uuid="fb580be4-2d1c-4226-b8bb-53c3ac03c634" id="533771"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SOUTH AFRICA" uuid="fb6d9fe3-10b5-4a75-be97-521d4058a4a9" id="533773"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="LAKE TANGANYIKA" uuid="fbf0a017-08a4-4bc8-a0f8-c178550a3ccb" id="533775"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CALIFORNIA" uuid="fc4f2acd-ace7-452b-a540-4162f9e9ddb0" id="533777"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="SWITZERLAND" uuid="fc90f569-b291-40f5-bbe1-5c5c21075686" id="533779"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MAINE" uuid="fcc2ca75-790a-4e69-80b6-7af8be328a71" id="533781"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="MARTINIQUE" uuid="fe4326f9-1089-4ede-ae32-5d7bc7d2349b" id="533783"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CYPRUS" uuid="feff6e5e-27be-4404-af9c-c80b56d48ad4" id="533785"/>
+    <conceptBrief status="" isLeaf="false" conceptScheme="locations" conceptSchemeId="1371" prefLabel="OCEAN" uuid="ff03e9fc-9882-4a5e-ad0b-830d8f1186cb" id="533787"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ITALY" uuid="ff1cfc9c-5e73-4137-b8e1-d6f4e83e61c4" id="533789"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="CZECH REPUBLIC" uuid="ff28159f-dbc2-4585-bbfd-fbc8cabbffe3" id="533791"/>
+    <conceptBrief status="" isLeaf="true" conceptScheme="locations" conceptSchemeId="1371" prefLabel="ALBANIA" uuid="ffcee960-5527-43e0-bfd0-ad48b1151cf0" id="533793"/>
+</concepts>
