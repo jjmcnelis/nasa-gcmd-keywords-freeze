@@ -1,6 +1,12 @@
 # GCMD Keyword Freeze
 
-*This readme regenerates with each `sync.py` run. Last updated on **2020-07-23 19:46:24.***
+*This readme regenerates with each `sync.py` run. Last updated on **2020-07-23 21:30:50.***
+
+Clone this repository and rename to `gcmd` (established practice for me) like:
+
+```shell
+git clone https://github.com/jjmcnelis/nasa-gcmd-keywords-freeze.git gcmd
+```
 
 ## Keyword links
 

@@ -30,6 +30,12 @@ with open(f"README.md", "w") as f:
 
 *This readme regenerates with each `sync.py` run. Last updated on **{time}.***
 
+Clone this repository and rename to `gcmd` (established practice for me) like:
+
+```shell
+git clone https://github.com/jjmcnelis/nasa-gcmd-keywords-freeze.git gcmd
+```
+
 ## Keyword links
 
 * Earthdata wiki reference: https://wiki.earthdata.nasa.gov/display/CMR/GCMD+Keyword+Access
